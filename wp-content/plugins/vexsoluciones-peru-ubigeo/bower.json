@@ -1,0 +1,18 @@
+{
+  "name": "vexsoluciones-peru-ubigeo",
+  "description": "Agrega campos de ubigeo para el formulario del checkout de wordpress",
+  "license": "GPLv2",
+  "authors": [
+    "vexsoluciones"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

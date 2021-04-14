@@ -1,0 +1,18 @@
+{
+    "name": "ubigeo-peru",
+    "description": "Searches for UBIGEO codes",
+    "keywords": ["Peru","rest","ubigeo"],
+    "homepage": "http://github.com/jmcastagnetto/ubigeo-peru",
+    "license": "BSD 2-clause",
+    "authors": [
+        {
+            "name": "Jesus M. Castagnetto",
+            "homepage": "http://www.castagnetto.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "slim/slim": "2.*",
+        "slim/extras": "2.*"
+    }
+}

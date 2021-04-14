@@ -1,0 +1,20 @@
+{
+  "generator-plugin-wp": {
+    "name": "Vexsoluciones Gateway Pagoefectivo",
+    "homepage": "https://www.vexsoluciones.com",
+    "description": "A radical new plugin for WordPress!",
+    "version": "1.0.0",
+    "author": "Vex Soluciones",
+    "authoremail": "info@vexsoluciones.com",
+    "authorurl": "https://www.vexsoluciones.com",
+    "license": "GPLv2",
+    "slug": "vexsoluciones-gateway-pagoefectivo",
+    "classname": "Vexsoluciones_Gateway_Pagoefectivo",
+    "mainclassname": "Vexsoluciones_Gateway_Pagoefectivo",
+    "classprefix": "VGP_",
+    "prefix": "vexsoluciones_gateway_pagoefectivo",
+    "year": 2017,
+    "currentVersionWP": "4.8.1",
+    "plugingenversion": "0.20.2"
+  }
+}

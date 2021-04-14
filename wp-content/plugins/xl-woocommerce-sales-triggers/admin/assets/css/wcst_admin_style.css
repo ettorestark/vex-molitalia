@@ -1,0 +1,259 @@
+.wcst_options_common.cmb2-wrap .cmb-th{width:180px;padding:0 2% 0 0}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .cmb-th{width:180px;padding:0;float:left}
+.wcst_options_common.cmb2-wrap .cmb-th+.cmb-td{float:left}
+.wcst_options_common.cmb2-wrap .cmb-th+.cmb-td input[type='text'],.wcst_options_common.cmb2-wrap .cmb-th+.cmb-td textarea,.wcst_options_common.cmb2-wrap .cmb-th+.cmb-td select{width:400px;max-width:85%}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .cmb-th+.cmb-td{width:auto;float:none;padding:0;padding-left:140px}
+.wcst_options_common.cmb2-wrap .cmb-th label{font-size:12px;line-height:18px;font-weight:400;color:#555;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif}
+.wcst_options_common.cmb2-wrap .ui-tabs.ui-tabs-vertical .ui-tabs-nav{padding:0;background:transparent;width:20%;border-right:none;border-radius:0;-moz-border-radius:0;-webkit-border-radius:0}
+.wcst_options_common.cmb2-wrap .cmb2-metabox .cmbhandle:before{padding:12px 10px}
+.wcst_options_common.cmb2-wrap .ui-tabs-nav{padding:0;background:transparent}
+.wcst_options_common.cmb2-wrap .ui-tabs.ui-tabs-vertical .ui-tabs-nav li:after{display:table;content:'';clear:both}
+.wcst_options_common.cmb2-wrap .ui-tabs.ui-tabs-vertical .ui-tabs-nav li:before{display:table;content:''}
+.wcst_options_common.cmb2-wrap .wcst-cmb2-tabs>ul>li{display:none}
+.wcst_options_common.cmb2-wrap .ui-tabs.ui-tabs-vertical .ui-tabs-nav li{display:block;margin:0;right:0;border:none;border-radius:0;-moz-border-radius:0;-webkit-border-radius:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;white-space:normal}
+.wcst_options_common.cmb2-wrap .ui-tabs .ui-tabs-nav .ui-tabs-anchor{float:none;width:auto}
+.wcst_options_common.cmb2-wrap .ui-tabs.ui-tabs-vertical .ui-tabs-nav li a{font-size:13px;color:#0073aa;line-height:20px!important;border-bottom:1px solid #eee;background:#fafafa;padding:.8em;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif}
+.wcst_options_common.cmb2-wrap .ui-tabs.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active a{color:#555;background-color:#eee}
+.wcst_options_common.cmb2-wrap .ui-tabs.ui-tabs-vertical .ui-tabs-panel{border-left:1px solid #eee;width:80%;padding:0;box-sizing:border-box}
+.wcst_options_common.cmb2-wrap select{font-size:14px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;width:100%;max-width:500px}
+.wcst_options_common.cmb2-wrap textarea{font-size:14px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;max-width:500px;width:100%}
+.wcst_options_common.cmb2-wrap input{font-size:14px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif}
+.wcst_options_common.cmb2-wrap .cmb2-enable.selected span{color:#fff}
+.wcst_options_common.cmb2-wrap .cmb2-enable span,.wcst_options_common.cmb2-wrap .cmb2-disable span{line-height:24px;display:block;font-weight:400;white-space:nowrap;padding:0 10px;font-size:13px}
+.wcst_options_common.cmb2-wrap .inside{padding:0}
+.wcst_options_common.cmb2-wrap .ui-widget.ui-widget-content{border:none;border-top:1px solid #eee}
+.wcst_options_common.cmb2-wrap p.cmb2-metabox-description{color:#555;font-size:12px;font-style:normal;padding-top:0}
+.wcst_options_common.cmb2-wrap p.cmb2-metabox-description b{font-style:italic}
+.wcst_options_common.cmb2-wrap .cmb2-radio-list label{color:#555;font-size:13px;font-style:italic}
+.wcst_options_common.cmb2-wrap .cmb2-enable.selected,.wcst_options_common.cmb2-wrap .cmb2-disable.selected{background-color:#0085ba;border-color:#0085ba}
+.cmb-td .cmb2-switch{margin-bottom:0}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs{margin-left:-12px;margin-right:-12px}
+.wcst_options_common.cmb2-wrap .ui-tabs .ui-tabs-panel{padding:1em;left:0}
+.wcst_options_common.cmb2-wrap .cmb2-metabox-title{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;color:#23282d;font-size:1em}
+.wcst_options_common.cmb2-wrap .cmb-row:not(:last-of-type){border-bottom:1px solid #e9e9e9;border-bottom:none;border-top:none}
+.wcst_options_page_left_wrap .cmb2-wrap .cmb-row{border-top:none}
+.wcst_options_common.cmb2-wrap .cmb-row{padding:1em .8em;margin:0}
+.wcst_options_common.cmb2-wrap .cmb-row.cmb-type-wcst-tabs{padding:0}
+.wcst_options_common.cmb2-wrap{margin-bottom:15px}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb-th label{display:block;padding:0}
+.wcst_options_common.cmb2-wrap #cmb2-metabox-wcst_global_option_metaboox .cmb-th label{padding:0}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-wrap>.cmb-field-list>.cmb-row{padding:1.8em 0 0}
+.wcst_options_common.cmb2-wrap .cmb-type-group .cmb2-wrap>#cmb2-metabox-wcst_product_option_tabs>.cmb-row,.wcst_options_common.cmb2-wrap .cmb2-wrap>.cmb-field-list>.cmb-row{padding:1.8em 0 0}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs{padding:0}
+.wcst_options_common.cmb2-wrap .cmb-repeatable-grouping.cmb-row{padding-top:0;padding-left:0;margin-bottom:0;border:none;box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none}
+.wcst_options_common.cmb2-wrap .cmb-repeatable-group:last-of-type{border-bottom:1px solid #e9e9e9;border-bottom:none}
+.wcst_options_common.cmb2-wrap .ui-widget{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif}
+.wcst_options_common.cmb2-wrap #cmb2-metabox-wcst_global_option_metaboox .ui-tabs.ui-tabs-vertical .ui-tabs-panel{padding:0}
+.wcst_options_common.cmb2-wrap #cmb2-metabox-wcst_global_option_metaboox .cmb-td .cmb-repeatable-grouping .cmb-field-list{margin-left:-1em;margin-right:-1em;background-color:#fdfdfd;padding:1em;margin-top:0;border-top:1px solid #eee}
+#poststuff #wcst_product_option_tabs .wcst_options_common.cmb2-wrap .cmb-repeatable-grouping .cmb-field-list{margin-left:-1em;margin-right:-1em}
+.wcst_options_common.cmb2-wrap .cmb-repeatable-grouping .cmb-field-list{margin-left:-1em;margin-right:-1em;background-color:#fdfdfd;padding:1em;margin-top:0;border-top:1px solid #eee!important}
+.wcst_options_common.cmb2-wrap .cmb-repeatable-grouping .cmb-field-list .cmb-row{padding:1em 0;border-bottom:none;margin-bottom:0}
+.wcst_options_common.cmb2-wrap .cmb-repeatable-grouping .cmb-field-list .cmb-row:last-child{margin:0}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings:after{display:table;content:'';clear:both}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings:before{display:table;content:''}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings{border-bottom:1px solid #e9e9e9;margin-left:-12px;margin-right:-12px;padding:0!important}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-th{width:20%;padding:0}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-th label{font-size:13px;color:#0073aa;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-th{font-size:13px;color:#0073aa;line-height:20px!important;background:#fafafa;padding:.8em;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-td{border-left:1px solid #e9e9e9;padding:.8em}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-td:after{display:table;content:'';clear:both}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-td:before{display:table;content:''}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-td .cmb2-switch:after{display:table;content:'';clear:both}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-td .cmb2-switch{float:none;margin-bottom:0}
+.postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-td .cmb2-switch:before{display:table;content:''}
+#poststuff #wcst_product_option_tabs .inside{margin:0}
+.wcst_options_common.cmb2-wrap .cmb-repeatable-group .cmb-group-title{background-color:transparent;padding:.75em;cursor:pointer}
+.wcst_options_common.cmb2-wrap .cmb-row.cmb-repeat-group-wrap{padding:0;margin:0}
+.wcst_options_common.cmb2-wrap .cmb-row.cmb-repeat-group-wrap:last-child{padding:0;margin:0}
+.wcst_options_common.cmb2-wrap .ui-tabs-panel .cmb-row.cmb-repeat-group-wrap{border-bottom:1px solid #eee}
+.wcst_options_common.cmb2-wrap .ui-tabs-panel .cmb-row.cmb-repeat-group-wrap:last-child{border-bottom:none}
+.wcst_options_common.cmb2-wrap .cmb-repeatable-grouping.closed{margin:0}
+.wcst_options_common.cmb2-wrap .cmb2-metabox .cmbhandle{color:#23282d}
+.wcst_custom_icon{color:#686868;font-size:16px;line-height:20px;font-style:normal;display:inline-block;font-family:'WooThemes_ecommerce';font-size:32px;line-height:36px;padding-top:10px}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .ui-tabs-panel > .cmb-row.cmb-type-switch{border-bottom:1px solid #eee}
+.wcst_global_option .wcst_options_page_col2_wrap:after{display:table;content:'';clear:both}
+.wcst_global_option .wcst_options_page_col2_wrap:before{display:table;content:''}
+.wcst_global_option .wcst_options_page_col2_wrap{margin-right:300px;clear:both}
+.wcst_global_option .wcst_options_page_left_wrap.dispnone{display:none}
+.wcst_global_option .wcst_options_page_left_wrap{float:left;width:100%;min-height:700px}
+.wcst_global_option .wcst_options_page_right_wrap{float:right;margin-right:-300px;width:280px}
+.wcst_options_common.cmb2-wrap .wcst_custom_wrapper_group{border-bottom:1px solid #eee}
+.wcst_global_option .wcst_options_page_left_wrap .cmb-type-wcst-tabs >.cmb-td{border:1px solid #f1f1f1!important;-webkit-box-shadow:0 1px 1px rgba(0,0,0,.04);box-shadow:0 1px 1px rgba(0,0,0,.04);background:#fff}
+tr.wcst_trigger_active span.deactivate a,tr.wcst_trigger_active span.deactivate a:hover,tr.wcst_trigger_active span.deactivate a:link{color:#dc3232}
+tr.wcst_trigger_active span.delete a,tr.wcst_trigger_active span.delete a:hover,tr.wcst_trigger_active span.delete a:link{color:orange}
+tr.wcst_trigger_deactive span.delete a,tr.wcst_trigger_deactive span.delete a:hover,tr.wcst_trigger_deactive span.delete a:link{color:orange}
+tr.wcst_trigger_deactive span.activate a,tr.wcst_trigger_deactive span.activate a:hover,tr.wcst_trigger_deactive span.activate a:link{color:#46b450}
+tr.wcst_trigger_deactive td.column-status p{color:#dc3232}
+tr.wcst_trigger_active td.column-status p{color:#46b450}
+.wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings span.cmb2-metabox-description{color:#555;font-size:13px;font-style:italic}
+.ui-widget.ui-widget-content{border:none}
+.wcst_options_common.cmb2-wrap .cmb2-wcst_html{color:#555;font-size:14px;font-weight:400;line-height:16px}
+.wcst_desc_before_row{color:#555;font-size:13px;padding:1.2em 0}
+.clearfix:after{display:table;content:'';clear:both}
+.clearfix:before{display:table;content:''}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .cmb-row,.postbox-container .wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .cmb-row{margin:0}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .cmb2-switch{margin-bottom:10px;float:none}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs input::-webkit-input-placeholder{color:#999}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs input::-moz-placeholder{color:#999}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs input:-ms-input-placeholder{color:#999}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs input:-moz-placeholder{color:#999}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs textarea::-webkit-input-placeholder{color:#999}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs textarea::-moz-placeholder{color:#999}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs textarea:-ms-input-placeholder{color:#999}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs textarea:-moz-placeholder{color:#999}
+.wcst_global_option .ui-widget.ui-widget-content{border:1px solid #eee;padding-bottom:15px}
+.wcst_global_option .ui-tabs.ui-tabs-vertical .ui-tabs-nav li:last-child a{border-bottom:none}
+.wcst_global_option .woocommerce-message,.wcst_global_option #message{display:none}
+.wcst_options_common.cmb2-wrap .cmb2_wcst_wrapper_ac .cmb2_wcst_acc_head a:focus{box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none}
+.wcst_options_common.cmb2-wrap .cmb2_wcst_wrapper_ac .cmb2_wcst_acc_head{position:relative;box-shadow:0 0 13px -5px;-webkit-box-shadow:0 0 13px -5px;-moz-box-shadow:0 0 13px -5px}
+.wcst_options_common.cmb2-wrap .cmb2_wcst_wrapper_ac{border-bottom:1px solid #eee}
+.wcst_options_common.cmb2-wrap .cmb2_wcst_wrapper_ac .cmb2_wcst_acc_head a{color:#23282d;text-decoration:none;font-weight:600;display:block;background-color:transparent;padding:.75em;cursor:pointer;font-size:14px;line-height:1.4}
+.wcst_options_common.cmb2-wrap .cmb2_wcst_wrapper_ac .cmb2_wcst_wrapper_ac_data{border-top:1px solid #eee;background-color:#fdfdfd;padding:10px 0}
+.wcst_options_common.cmb2-wrap .cmb2_wcst_wrapper_ac .cmb2_wcst_acc_head .toggleArrow{float:right;position:absolute;right:0;top:0;margin-top:3px;width:27px;height:30px;cursor:pointer}
+.wcst_options_common.cmb2-wrap.cmb2_wcst_wrapper_ac.opened .cmb2_wcst_acc_head .toggleArrow:before{content:'\f142'}
+.wcst_options_common.cmb2-wrap .cmb2_wcst_wrapper_ac .cmb2_wcst_acc_head .toggleArrow:before{content:'\f140';right:12px;font:400 20px/1 dashicons;speak:none;display:inline-block;padding:8px 10px;top:0;position:relative;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-decoration:none!important}
+.wcst_options_common.cmb2-wrap .cmb-row.cmb-type-wcst-html-content-field > .cmb-td{padding:0}
+.wcst_guarantee_head{position:absolute;left:0;top:10px;font-size:12px;line-height:24px}
+.wcst_custom_wrapper_group.wcst_guarantee_group{padding:5px 0 10px 201.9px;position:relative}
+.cmb2-metabox .wcst_custom_wrapper_group.wcst_guarantee_group button.dashicons-before.dashicons-no-alt.cmb-remove-group-row{top:.65em;padding-left:0;padding-right:0;left:-5px}
+.cmb2-metabox .wcst_custom_wrapper_group.wcst_guarantee_group .cmb-repeatable-group .cmb2-upload-button{float:none}
+.cmb2-id-wcst-data-wcst-best-seller-badge-badge-style ul.cmb2-list li input[type='radio']{position:relative;top:-14px}
+.cmb2-element.ui-datepicker .ui-datepicker-title select option{color:#000}
+.cmb2-element.ui-datepicker .ui-datepicker-title select option::selection{color:#fff}
+.cmb-type-group .cmb2-wrap>.cmb-field-list>.cmb-row,.postbox-container .cmb2-wrap>.cmb-field-list>.cmb-row{padding:1.2em 0}
+.postbox-container .cmb2-wrap>.cmb-field-list>.cmb-row.cmb-type-wcst-html-content-field{padding:0;margin:0;border:none}
+.postbox-container .cmb2-wrap>.cmb-field-list>.cmb-row.cmb-type-wcst-html-content-field h4{margin:0}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper{padding:0 .8em}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper:before{display:table;content:''}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper:after{display:table;content:'';clear:both}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper .order_label{font-size:12px;line-height:24px;font-weight:400;color:#555;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;width:130px;float:left}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper .cmb-type-text-date{float:left;max-width:110px;padding:1.2em 0;width:100%}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper{display:block;padding-left:201.9px;position:relative}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper .order_label{position:absolute;left:0;top:15px}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper :before{display:table;content:''}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper :after{display:table;content:'';clear:both}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper .cmb-th+.cmb-td{width:100%}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper .wcst_field_date_range .cmb-th label{display:none}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper .cmb-type-text-date:after{display:block;color:#555;font-size:11px;font-style:italic;line-height:16px}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper .cmb-type-text-date.cmb2-id-wcst-data-wcst-sales-snippet-from-date{padding-bottom:10px}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .order_date_outer_wrapper{padding-left:191.9px}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .order_date_outer_wrapper .order_label{left:12px}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .order_date_outer_wrapper .cmb-th+.cmb-td{padding-left:0}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .wcst_guarantee_head{left:12px}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .wcst_custom_wrapper_group.wcst_guarantee_group{padding-left:191.9px}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .cmb2-switch:after{display:table;content:'';clear:both}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .cmb2-switch:before{display:table;content:''}
+.wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .cmb-type-switch .cmb2-metabox-description{max-width:500px}
+.wcst_options_common.cmb2-wrap .wcst_field_inline_desc input[type="number"]{width:60px}
+.wcst_options_common.cmb2-wrap .wcst_field_inline_desc .cmb2-metabox-description{display:inline-block}
+.wcst-rules .condition ul.chosen-choices{min-height:28px;border-color:#ddd}
+.wcst-rules .condition ul.chosen-choices li.search-field input[type=text]{height:25px}
+.wcst_acc_head_custom_tab{box-shadow:0 0 13px -5px;-webkit-box-shadow:0 0 13px -5px;-moz-box-shadow:0 0 13px -5px;margin:-1.1em -.9em 0;border-bottom:1px solid #ddd}
+.wcst_acc_head_custom_tab .custom_inner{color:#23282d;font-weight:600;display:block;background-color:transparent;padding:.75em;font-size:14px;line-height:1.4}
+#_wcst_data_need_help_content ul,#_wcst_data_need_help_content ul li,#_wcst_data_need_help_content ul a{font-size:13px;line-height:1.5}
+#_wcst_data_need_help_content a{color:#0073aa}
+.wcst_options_common.cmb2-wrap .cmb-th+.cmb-td{width:72%}
+h1.wcst_l_status{position:relative;padding-left:20px}
+.wcst_l_status .wcst_status_error,.wcst_l_status .wcst_status_success{position:absolute;top:19px;left:0;width:13px;height:13px;border-radius:50%}
+.wcst_status_error{background-color:#dc3232}
+.wcst_status_success{background-color:#46b450}
+.wcst_side_content p,.wcst_side_content li{font-size:14px}
+ul.icon_cross,ul.icon_tick{list-style:none}
+ul.icon_cross li,ul.icon_tick li{padding-left:20px;position:relative}
+ul.icon_cross li:before{content:'x';color:#dc3232;font-size:14px;position:absolute;left:0;top:-1px;font-weight:700}
+ul.icon_tick li:before{content:'\2713';color:#46b450;font-size:14px;position:absolute;left:0;top:0;font-weight:700}
+.wcst_options_common.cmb2-wrap .cmb2-id--wcst-data-wcst-best-seller-badge-badge-style input[type='radio']{margin-top:-25px}
+.wcst_options_common.cmb2-wrap .cmb-type-select .cmb-th label,.wcst_options_common.cmb2-wrap .cmb-type-text .cmb-th label,.wcst_options_common.cmb2-wrap .cmb-type-textarea .cmb-th label,.wcst_options_common.cmb2-wrap .cmb-type-radio-inline .cmb-th label{padding-top:7px}
+.wcst_options_common.cmb2-wrap .cmb-repeatable-group .cmb-shift-rows{padding:2px 4px}
+.wcst_options_common.cmb2-wrap .cmb-repeatable-group .cmb-shift-rows .dashicons-arrow-up-alt2:before{content:"\f342"}
+.wcst_options_common.cmb2-wrap .cmb-repeatable-group .cmb-shift-rows .dashicons-arrow-down-alt2:before{content:"\f346"}
+.postbox.wcst_xlplugins{border:none;box-shadow:none!important;padding:10px;color:#fff;font-size:15px;position:relative}
+.postbox.wcst_xlplugins_nextmove{background:#1bc2a8}
+.postbox.wcst_xlplugins_sales_trigger{background:#9164b5}
+.postbox.wcst_xlplugins_finale{background:#fd7e21}
+.postbox.wcst_xlplugins:after{display:table;clear:both;content:''}
+.postbox.wcst_xlplugins>img{max-width:60px;position:absolute;left:10px;top:15px}
+.postbox.wcst_xlplugins>a{position:absolute;top:0;right:0;bottom:0;left:0;z-index:10}
+.postbox.wcst_xlplugins>.wcst_plugin_head{font-weight:700;font-size:14px;line-height:18px;margin:0;margin-bottom:5px;padding:0 0 0 70px}
+.postbox.wcst_xlplugins>.wcst_plugin_desc{font-size:12px;line-height:15px;padding:0 0 0 70px;margin:0}
+.ui-datepicker button.button-primary{text-shadow:none;background:#008ec2;border-color:#006799;color:#fff}
+
+@media only screen and (min-width: 1100px) {
+    .wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .cmb-th{width:170px}
+    .wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .cmb-th+.cmb-td{padding-left:180px}
+    .wcst_options_common.cmb2-wrap .order_date_outer_wrapper .order_label{width:170px}
+    .wcst_options_common.cmb2-wrap .order_date_outer_wrapper .order_dates_wrap{padding-left:180px}
+    .wcst_options_common.cmb2-wrap .cmb-tab-panel .cmb-th+.cmb-td{padding-left:180px}
+    .wcst_options_common.cmb2-wrap .cmb-tab-panel .cmb-th{width:170px}
+}
+@media only screen and (max-width: 1280px) {
+    .wcst_options_common.cmb2-wrap .cmb-th+.cmb-td{width:61%;float:left}
+}
+@media only screen and (max-width: 1024px) {
+    .wcst_options_common.cmb2-wrap .cmb-th+.cmb-td{width:59%;float:left}
+    .wcst_options_common.cmb2-wrap .ui-tabs.ui-tabs-vertical .ui-tabs-nav{width:26%}
+    .wcst_options_common.cmb2-wrap .ui-tabs.ui-tabs-vertical .ui-tabs-panel{width:73%}
+    .postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-th{width:26%;float:left}
+    .postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-td{width:73%;float:left}
+}
+@media only screen and (max-width: 991px) {
+    .postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-th{width:26%;float:left}
+    .postbox-container .wcst_options_common.cmb2-wrap .cmb2-id-wcst-override-global-settings .cmb-td{width:65%;float:left}
+}
+@media only screen and (max-width: 850px) {
+    .wcst_global_option .wcst_options_page_col2_wrap{margin-right:0}
+}
+@media only screen and (max-width: 791px) {
+    .wcst_options_common.cmb2-wrap input[type="radio"]:checked:before{font-size:24px;width:6px;height:6px;margin:4px;line-height:16px}
+    .wcst_options_common.cmb2-wrap input[type="radio"],.wcst_options_common.cmb2-wrap input[type="checkbox"]{height:16px;width:16px;min-width:16px}
+    .wcst_options_common.cmb2-wrap input[type="checkbox"]:checked:before{font-size:21px;line-height:normal}
+}
+@media only screen and (max-width: 600px) {
+    .wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .cmb-th{width:100%;padding-bottom:10px;float:none}
+    .wcst_options_common.cmb2-wrap .cmb-type-wcst-tabs .cmb-th+.cmb-td{width:100%;float:none;padding-left:0}
+    .wcst_options_common.cmb2-wrap .order_date_outer_wrapper .order_label{width:100%;padding-bottom:10px;float:none}
+    .wcst_options_common.cmb2-wrap .order_date_outer_wrapper .order_dates_wrap{width:100%;float:none;padding-left:0}
+}
+
+.wcst-instance-table #check-column{width:2.2em;padding:11px 0 0 3px}
+.wcst-instance-table #name{width:40%;min-width:300px}
+.striped.woocommerce_page_wc-settings > tbody > :nth-child(odd){background-color:#f4f4f4}
+.wrap.woocommerce ul.subsubsub.subsubsub_wcst li:after{content:"|";padding:0 3px}
+.wrap.woocommerce ul.subsubsub.subsubsub_wcst li:last-child:after{content:""}
+body.post-type-wcst_trigger #minor-publishing-actions,body.post-type-wcst_trigger #misc-publishing-actions #visibility,body.post-type-wcst_trigger #misc-publishing-actions .curtime,body.post-type-wcst_trigger #misc-publishing-actions .misc-pub-post-status{display:none}
+.wcst_always_show{display:block!important}
+body.post-type-wcst_trigger #major-publishing-actions #delete-action{display:none}
+.wcst_desc_shortcode{font-style:italic;line-height:20px}
+.wcst_desc_shortcode span{font-size:14px;font-style:normal}
+.wcst_desc_shortcode ul li{font-size:13px}
+.wcst_btn_global{right:0;position:absolute;top:10px}
+.wcst_global_option{position:relative;max-width: 100% !important; margin: 10px 0 0;}
+.wcst_listing_view .wcst_options_page_right_wrap{margin-top:50px}
+.wcst_global_option .cmb2-wcst_html{color:#999;font-style:italic}
+.wcst_global_option .cmb-type-wcst-html-content-field .cmb2-td{padding-left:0}
+.wcst_global_option .cmb2-wcst_html .wcst_heading_mb{color:#000;font-style:normal}
+.wcst_global_option .cmb2-wcst_html h4{font-size:16px;margin:.5em 0}
+
+/**** CMB2 2.3 upgrade css start ****/
+#poststuff #wcst_product_option_tabs .inside{margin:6px 0 0}
+.cmb-tabs .cmb-tabs-panel.wcst_options_common{display:none}
+.cmb-tabs .cmb-tabs-panel.wcst_options_common.cmb2-wrap-tabs{display:inline-flex}
+.wcst_options_common.cmb2-wrap .cmb-tab-panel .cmb-th+.cmb-td{width:auto;float:none}
+.wcst_options_common.cmb2-wrap .cmb-tab-panel .cmb2-switch{margin-bottom:10px;float:none;display:inline-block}
+.wcst_options_common.cmb2-wrap .cmb-tab-panel .cmb-th{width:180px;padding:0;float:left}
+#wcst_product_option_tabs .dashicons-admin-post.dashicons{display:none}
+.wcst_options_common.cmb2-wrap p.cmb2-metabox-description i{font-size:12px;vertical-align:bottom}
+.wcst_options_common.cmb2-wrap .cmb-tab-panel .wcst_custom_wrapper_group.wcst_guarantee_group{padding-left:191.9px}
+.wcst_options_common.cmb2-wrap .cmb-tab-panel .wcst_guarantee_head{left:12px}
+.wcst_options_common.cmb2-wrap .cmb-tab-panel .order_date_outer_wrapper{padding-left:191.9px}
+.wcst_options_common.cmb2-wrap .cmb-tab-panel .cmb-row,.postbox-container .wcst_options_common.cmb2-wrap .cmb-tab-panel .cmb-row{margin:0}
+.wcst_options_common.cmb2-wrap .cmb-tab-panel .order_date_outer_wrapper .cmb-th+.cmb-td{padding-left:0}
+.wcst_options_common.cmb2-wrap .order_date_outer_wrapper .cmb-th+.cmb-td{width:100%}
+.wcst_options_common.cmb2-wrap .cmb-tab-panel .order_date_outer_wrapper .order_label{left:12px}
+/**** CMB2 2.3 upgrade css end ****/
+
+/* options page */
+#cmb2-metabox-wcst_global_options_box .cmb-td input[type='text']{margin-bottom:5px}
+#cmb2-metabox-wcst_global_options_box .cmb-td span.cmb2-metabox-description{font-size:13px}
+#cmb2-metabox-wcst_global_options_box .cmb-row{margin-bottom:12px}
+.wcst_options_page_left_wrap .cmb-tabs{margin:0}

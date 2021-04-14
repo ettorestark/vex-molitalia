@@ -1,0 +1,674 @@
+
+Apr 17, 2019 00.23.52: Logging Started
+Apr 17, 2019 00.23.52: Single Product Request Initiates Now For3914
+Apr 17, 2019 00.23.52: Overridden Triggers are--
+Apr 17, 2019 00.23.52: Array
+(
+    [0] => low_stock
+    [1] => smarter_reviews
+    [2] => guarantee
+    [3] => sales_count
+    [4] => sales_snippet
+    [5] => static_badge
+    [6] => savings
+    [7] => deal_expiry
+)
+
+Apr 17, 2019 00.23.52: Query have Triggers.
+Apr 17, 2019 00.23.52: Array
+(
+    [0] => 3679
+    [1] => 3680
+)
+
+Apr 17, 2019 00.23.52: data length for best_seller_badge -- 0
+Apr 17, 2019 00.23.52: Get Passes By Rules: - 3679
+Apr 17, 2019 00.23.52: data length for best_seller_list -- 0
+Apr 17, 2019 00.23.52: Get Passes By Rules: - 3680
+Apr 17, 2019 00.23.52: Trigger data about to process--
+Apr 17, 2019 00.23.52: Array
+(
+    [0] => Array
+        (
+            [low_stock] => Array
+                (
+                    [0] => Array
+                        (
+                            [assurance_label] => In Stock
+                            [scarcity_label] => Only {{stock_quantity_left}} left in stock. Almost Gone!
+                            [out_of_stock_label] => Just Sold Out. Expect to come in 4-6 days.
+                            [default_mode] => assurance
+                            [switch_scarcity_min_stock] => 5
+                            [assurance_text_color] => #77a464
+                            [scarcity_text_color] => #dd3333
+                            [out_of_stock_text_color] => #dd3333
+                            [font_size] => 16px
+                            [position] => 5
+                            [mode] => product
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [smarter_reviews] => Array
+                (
+                    [0] => Array
+                        (
+                            [template] => satisfaction_rate
+                            [satisfaction_rate_label] => {{rating_percentage}} de compradores estan satisfechos.
+                            [rating_greater_than_4_label] => {{positive_feedback_percentage}} de compradores dieron mas de 4 de 5 estrellas.
+                            [switch_to_max] => yes
+                            [dont_show_until] => 40
+                            [hide_if_disable_comments] => no
+                            [hyperlink_text_review] => no
+                            [text_color] => #242424
+                            [font_size] => 15px
+                            [position] => 3
+                            [mode] => product
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [guarantee] => Array
+                (
+                    [0] => Array
+                        (
+                            [box_bg_color] => #f4f5f5
+                            [border_color] => #ececec
+                            [guarantee] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [heading] => Hassle Free Returns
+                                            [text] => No questions asked, 30 days return policy.
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [heading] => Fast Shipping
+                                            [text] => All orders are shipped in 1-3 business days.
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [heading] => Secure Checkout
+                                            [text] => SSL Enabled Secure Checkout
+                                        )
+
+                                )
+
+                            [text_color] => #252525
+                            [heading_color] => #252525
+                            [font_size] => 16px
+                            [alignment] => left
+                            [position] => 5
+                            [mode] => product
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [sales_count] => Array
+                (
+                    [0] => Array
+                        (
+                            [date_limit] => 1
+                            [from_date] => 2018-05-26
+                            [to_date] => 2018-06-25
+                            [label] => {{order_count}} orders in last 30 days.
+                            [box_bg_color] => #ffffff
+                            [border_color] => #ececec
+                            [text_color] => #252525
+                            [font_size] => 16px
+                            [restrict] => 0
+                            [position] => 5
+                            [mode] => product
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [sales_snippet] => Array
+                (
+                    [0] => Array
+                        (
+                            [date_limit] => 1
+                            [from_date] => 2018-05-26
+                            [to_date] => 2018-06-25
+                            [label] => {{sales_snippet}} bought this item recently.
+                            [restrict] => 0
+                            [output] => default
+                            [box_bg_color] => #efeddc
+                            [border_color] => #efeace
+                            [text_color] => #252525
+                            [font_size] => 16px
+                            [position] => 6
+                            [mode] => product
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [static_badge] => Array
+                (
+                    [0] => Array
+                        (
+                            [position] => 2
+                            [badge_text_color] => #fff
+                            [badge_bg_color] => #dd3333
+                            [badge_style] => 1
+                            [text_next] => {{product_category}}
+                            [label] => Static Badge
+                            [mode] => product
+                        )
+
+                )
+
+        )
+
+    [6] => Array
+        (
+            [savings] => Array
+                (
+                    [0] => Array
+                        (
+                            [label] => Ahorras {{savings_value_percentage}}
+                            [text_color] => #dd3333
+                            [font_size] => 16px
+                            [position] => 4
+                            [show_below_variation_price] => yes
+                            [hide_decimal_in_saving_percentage] => no
+                            [mode] => product
+                            [hide_top_variation_price] => yes
+                        )
+
+                )
+
+        )
+
+    [7] => Array
+        (
+            [deal_expiry] => Array
+                (
+                    [0] => Array
+                        (
+                            [reverse_date_label] => Oferta finaliza en: {{time_left}}
+                            [reverse_timer_label] => Hurry up! Sale ends in {{countdown_timer}}
+                            [expiry_date_label] => Prices go up after {{end_date}}
+                            [display_mode] => reverse_date
+                            [switch_period] => 24
+                            [text_color] => #ec1f1f
+                            [font_size] => 16px
+                            [position] => 4
+                            [mode] => product
+                        )
+
+                )
+
+        )
+
+    [8] => Array
+        (
+            [best_seller_badge] => Array
+                (
+                    [3679] => Array
+                        (
+                            [label] => #{{rank}} Best Seller
+                            [badge_style] => 1
+                            [date_limit] => 1
+                            [from_date] => 2018-05-26
+                            [to_date] => 2018-06-25
+                            [badge_bg_color] => #dd3333
+                            [badge_text_color] => #fff
+                            [show_badge_if_position] => 5
+                            [hyperlink_category] => yes
+                            [date_from] => 2019-03-18
+                            [date_to] => 2019-04-17
+                            [position] => 2
+                            [mode] => options
+                        )
+
+                )
+
+        )
+
+    [9] => Array
+        (
+            [best_seller_list] => Array
+                (
+                    [3680] => Array
+                        (
+                            [show_list_item_if_position] => 100
+                            [heading] => This item is Best Seller in following categories:
+                            [label] => #{{category_rank}} Best Seller in {{category_name}} 
+                            [date_limit] => 1
+                            [from_date] => 2018-05-26
+                            [to_date] => 2018-06-25
+                            [hyperlink_category] => yes
+                            [number_of_list_items] => 4
+                            [date_from] => 2019-03-18
+                            [date_to] => 2019-04-17
+                            [position] => 6
+                            [mode] => options
+                        )
+
+                )
+
+        )
+
+)
+
+Apr 17, 2019 00.23.52: Product Instance--
+Apr 17, 2019 00.23.52: XL_WCST_Product Object
+(
+    [product] => WC_Product_Simple Object
+        (
+            [object_type:protected] => product
+            [post_type:protected] => product
+            [cache_group:protected] => products
+            [data:protected] => Array
+                (
+                    [name] => Yura HS Antisalitre Bolsa 42,5Kg
+                    [slug] => cemento-portland-tipo-hs-antisalitre
+                    [date_created] => WC_DateTime Object
+                        (
+                            [utc_offset:protected] => 0
+                            [date] => 2018-08-07 04:01:45.000000
+                            [timezone_type] => 1
+                            [timezone] => +00:00
+                        )
+
+                    [date_modified] => WC_DateTime Object
+                        (
+                            [utc_offset:protected] => 0
+                            [date] => 2019-04-11 04:36:26.000000
+                            [timezone_type] => 1
+                            [timezone] => +00:00
+                        )
+
+                    [status] => publish
+                    [featured] => 
+                    [catalog_visibility] => visible
+                    [description] => Clasificado como cemento tipo HS según la norma NTP 334.082 y ASTM C 1157, es un cemento de última generación, elaborado bajo los más altos estándares de la industria cementera, colaborando con el cuidado del medio ambiente.
+
+Es un producto formado en base a Clinker de alta calidad, puzolana natural de origen volcánico de alta reactividad y yeso.
+
+Es un cemento de propiedades especiales, diseñado para todo tipo de estructuras y construcciones en general, que requieran una Alta Resistencia a los Sulfatos.
+
+<a href="https://cementos.vexecommerce.com/wp-content/uploads/2018/08/ficha_tecnica_hs.pdf">&gt;Descarga Ficha Técnica</a>
+                    [short_description] => 
+                    [sku] => GA-B499TGTS-1
+                    [price] => 21.50
+                    [regular_price] => 25
+                    [sale_price] => 21.50
+                    [date_on_sale_from] => 
+                    [date_on_sale_to] => 
+                    [total_sales] => 13
+                    [tax_status] => taxable
+                    [tax_class] => 
+                    [manage_stock] => 1
+                    [stock_quantity] => 7
+                    [stock_status] => instock
+                    [backorders] => no
+                    [sold_individually] => 
+                    [weight] => 30
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                    [upsell_ids] => Array
+                        (
+                        )
+
+                    [cross_sell_ids] => Array
+                        (
+                        )
+
+                    [parent_id] => 0
+                    [reviews_allowed] => 1
+                    [purchase_note] => 
+                    [attributes] => Array
+                        (
+                            [peso-especifico-gr-cm3] => WC_Product_Attribute Object
+                                (
+                                    [data:protected] => Array
+                                        (
+                                            [id] => 0
+                                            [name] => Peso específico (gr/cm3 )
+                                            [options] => Array
+                                                (
+                                                    [0] => -
+                                                )
+
+                                            [position] => 0
+                                            [visible] => 1
+                                            [variation] => 
+                                        )
+
+                                )
+
+                            [superficie-especifica-blaine-cm2-gr] => WC_Product_Attribute Object
+                                (
+                                    [data:protected] => Array
+                                        (
+                                            [id] => 0
+                                            [name] => Superficie específica Blaine (cm2 /gr)
+                                            [options] => Array
+                                                (
+                                                    [0] => -
+                                                )
+
+                                            [position] => 1
+                                            [visible] => 1
+                                            [variation] => 
+                                        )
+
+                                )
+
+                            [expansion-en-autoclave] => WC_Product_Attribute Object
+                                (
+                                    [data:protected] => Array
+                                        (
+                                            [id] => 0
+                                            [name] => Expansión en autoclave (%)
+                                            [options] => Array
+                                                (
+                                                    [0] => 0.80 Máximo
+                                                )
+
+                                            [position] => 2
+                                            [visible] => 1
+                                            [variation] => 
+                                        )
+
+                                )
+
+                            [fraguado-vitcat-inicial-minutos] => WC_Product_Attribute Object
+                                (
+                                    [data:protected] => Array
+                                        (
+                                            [id] => 0
+                                            [name] => Fraguado Vitcat inicial (minutos)
+                                            [options] => Array
+                                                (
+                                                    [0] => 45 a 420 Mínimo
+                                                )
+
+                                            [position] => 3
+                                            [visible] => 1
+                                            [variation] => 
+                                        )
+
+                                )
+
+                            [contenido-aire-mortero] => WC_Product_Attribute Object
+                                (
+                                    [data:protected] => Array
+                                        (
+                                            [id] => 0
+                                            [name] => Contenido aire Mortero (%)
+                                            [options] => Array
+                                                (
+                                                    [0] => 12 Máximo
+                                                )
+
+                                            [position] => 4
+                                            [visible] => 1
+                                            [variation] => 
+                                        )
+
+                                )
+
+                        )
+
+                    [default_attributes] => Array
+                        (
+                        )
+
+                    [menu_order] => 1
+                    [virtual] => 
+                    [downloadable] => 
+                    [category_ids] => Array
+                        (
+                            [0] => 89
+                            [1] => 88
+                        )
+
+                    [tag_ids] => Array
+                        (
+                            [0] => 108
+                            [1] => 107
+                        )
+
+                    [shipping_class_id] => 0
+                    [downloads] => Array
+                        (
+                        )
+
+                    [image_id] => 4061
+                    [gallery_image_ids] => Array
+                        (
+                            [0] => 4059
+                            [1] => 4060
+                            [2] => 4061
+                            [3] => 4062
+                        )
+
+                    [download_limit] => -1
+                    [download_expiry] => -1
+                    [rating_counts] => Array
+                        (
+                        )
+
+                    [average_rating] => 0
+                    [review_count] => 0
+                )
+
+            [supports:protected] => Array
+                (
+                    [0] => ajax_add_to_cart
+                )
+
+            [id:protected] => 3914
+            [changes:protected] => Array
+                (
+                )
+
+            [object_read:protected] => 1
+            [extra_data:protected] => Array
+                (
+                )
+
+            [default_data:protected] => Array
+                (
+                    [name] => 
+                    [slug] => 
+                    [date_created] => 
+                    [date_modified] => 
+                    [status] => 
+                    [featured] => 
+                    [catalog_visibility] => visible
+                    [description] => 
+                    [short_description] => 
+                    [sku] => 
+                    [price] => 
+                    [regular_price] => 
+                    [sale_price] => 
+                    [date_on_sale_from] => 
+                    [date_on_sale_to] => 
+                    [total_sales] => 0
+                    [tax_status] => taxable
+                    [tax_class] => 
+                    [manage_stock] => 
+                    [stock_quantity] => 
+                    [stock_status] => instock
+                    [backorders] => no
+                    [sold_individually] => 
+                    [weight] => 
+                    [length] => 
+                    [width] => 
+                    [height] => 
+                    [upsell_ids] => Array
+                        (
+                        )
+
+                    [cross_sell_ids] => Array
+                        (
+                        )
+
+                    [parent_id] => 0
+                    [reviews_allowed] => 1
+                    [purchase_note] => 
+                    [attributes] => Array
+                        (
+                        )
+
+                    [default_attributes] => Array
+                        (
+                        )
+
+                    [menu_order] => 0
+                    [virtual] => 
+                    [downloadable] => 
+                    [category_ids] => Array
+                        (
+                        )
+
+                    [tag_ids] => Array
+                        (
+                        )
+
+                    [shipping_class_id] => 0
+                    [downloads] => Array
+                        (
+                        )
+
+                    [image_id] => 
+                    [gallery_image_ids] => Array
+                        (
+                        )
+
+                    [download_limit] => -1
+                    [download_expiry] => -1
+                    [rating_counts] => Array
+                        (
+                        )
+
+                    [average_rating] => 0
+                    [review_count] => 0
+                )
+
+            [data_store:protected] => WC_Data_Store Object
+                (
+                    [instance:WC_Data_Store:private] => WC_Product_Data_Store_CPT Object
+                        (
+                            [internal_meta_keys:protected] => Array
+                                (
+                                    [0] => _visibility
+                                    [1] => _sku
+                                    [2] => _price
+                                    [3] => _regular_price
+                                    [4] => _sale_price
+                                    [5] => _sale_price_dates_from
+                                    [6] => _sale_price_dates_to
+                                    [7] => total_sales
+                                    [8] => _tax_status
+                                    [9] => _tax_class
+                                    [10] => _manage_stock
+                                    [11] => _stock
+                                    [12] => _stock_status
+                                    [13] => _backorders
+                                    [14] => _sold_individually
+                                    [15] => _weight
+                                    [16] => _length
+                                    [17] => _width
+                                    [18] => _height
+                                    [19] => _upsell_ids
+                                    [20] => _crosssell_ids
+                                    [21] => _purchase_note
+                                    [22] => _default_attributes
+                                    [23] => _product_attributes
+                                    [24] => _virtual
+                                    [25] => _downloadable
+                                    [26] => _download_limit
+                                    [27] => _download_expiry
+                                    [28] => _featured
+                                    [29] => _downloadable_files
+                                    [30] => _wc_rating_count
+                                    [31] => _wc_average_rating
+                                    [32] => _wc_review_count
+                                    [33] => _variation_description
+                                    [34] => _thumbnail_id
+                                    [35] => _file_paths
+                                    [36] => _product_image_gallery
+                                    [37] => _product_version
+                                    [38] => _wp_old_slug
+                                    [39] => _edit_last
+                                    [40] => _edit_lock
+                                )
+
+                            [extra_data_saved:protected] => 
+                            [updated_props:protected] => Array
+                                (
+                                )
+
+                            [meta_type:protected] => post
+                            [object_id_field_for_meta:protected] => 
+                        )
+
+                    [stores:WC_Data_Store:private] => Array
+                        (
+                            [coupon] => WC_Coupon_Data_Store_CPT
+                            [customer] => WC_Customer_Data_Store
+                            [customer-download] => WC_Customer_Download_Data_Store
+                            [customer-download-log] => WC_Customer_Download_Log_Data_Store
+                            [customer-session] => WC_Customer_Data_Store_Session
+                            [order] => WC_Order_Data_Store_CPT
+                            [order-refund] => WC_Order_Refund_Data_Store_CPT
+                            [order-item] => WC_Order_Item_Data_Store
+                            [order-item-coupon] => WC_Order_Item_Coupon_Data_Store
+                            [order-item-fee] => WC_Order_Item_Fee_Data_Store
+                            [order-item-product] => WC_Order_Item_Product_Data_Store
+                            [order-item-shipping] => WC_Order_Item_Shipping_Data_Store
+                            [order-item-tax] => WC_Order_Item_Tax_Data_Store
+                            [payment-token] => WC_Payment_Token_Data_Store
+                            [product] => WC_Product_Data_Store_CPT
+                            [product-grouped] => WC_Product_Grouped_Data_Store_CPT
+                            [product-variable] => WC_Product_Variable_Data_Store_CPT
+                            [product-variation] => WC_Product_Variation_Data_Store_CPT
+                            [shipping-zone] => WC_Shipping_Zone_Data_Store
+                            [webhook] => WC_Webhook_Data_Store
+                        )
+
+                    [current_class_name:WC_Data_Store:private] => WC_Product_Data_Store_CPT
+                    [object_type:WC_Data_Store:private] => product-simple
+                )
+
+            [meta_data:protected] => 
+        )
+
+    [wcst_product_comment_status] => open
+    [wcst_product_is_in_stock] => 
+    [product_comment_count] => 
+    [variationID] => 0
+    [smarter_reviews_arr] => 
+    [product_type] => simple
+    [stock_status] => 
+    [backorder_status] => 
+    [is_manage_stock] => 
+)

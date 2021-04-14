@@ -1,0 +1,8 @@
+/var/*
+!/var/README.md
+.DS_STORE
+vendor
+vendor/*
+.c9revisions
+.c9revisions/*
+composer.lock

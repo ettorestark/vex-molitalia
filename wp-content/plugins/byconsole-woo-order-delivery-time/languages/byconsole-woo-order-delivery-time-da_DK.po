@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce order delivery or pickup with date and time\n"
+"POT-Creation-Date: 2018-01-27 19:45+0530\n"
+"PO-Revision-Date: 2018-01-27 19:45+0530\n"
+"Last-Translator: \n"
+"Language-Team: BYCONSOLE support@byconsole.com\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ByConsoleWooODT.php:48
+msgid "Order delivery time widget"
+msgstr "Bestil leveringstid widget"
+
+#: ByConsoleWooODT.php:50
+msgid "Widget for users to choose time and date of delivery"
+msgstr "Widget til brugere at vælge tidspunkt og dato for levering"
+
+#: ByConsoleWooODT.php:91 ByConsoleWooODT.php:248 ByConsoleWooODT.php:367
+#: ByConsoleWooODT.php:405 ByConsoleWooODT.php:444
+msgid "Take away"
+msgstr "Tag væk"
+
+#: ByConsoleWooODT.php:98 ByConsoleWooODT.php:256 ByConsoleWooODT.php:377
+#: ByConsoleWooODT.php:415 ByConsoleWooODT.php:454
+msgid "Delivery"
+msgstr "Levering"
+
+#: ByConsoleWooODT.php:105 ByConsoleWooODT.php:264 ByConsoleWooODT.php:286
+msgid "Select date"
+msgstr "Vælg dato"
+
+#: ByConsoleWooODT.php:112 ByConsoleWooODT.php:272 ByConsoleWooODT.php:293
+msgid "Select time"
+msgstr "Vælg tid"
+
+#: ByConsoleWooODT.php:194
+msgid "New title"
+msgstr "Ny titel"
+
+#: ByConsoleWooODT.php:199
+msgid "Title:"
+msgstr "Titel:"
+
+#: ByConsoleWooODT.php:279
+msgid "Select order type"
+msgstr "Vælg ordre type"
+
+#: ByConsoleWooODT.php:300
+msgid "Select delivery type"
+msgstr "Vælg leveringstype"
+
+#: ByConsoleWooODT.php:337
+msgid "Enter your desired delivery date."
+msgstr "Indtast din ønskede leveringsdato."
+
+#: ByConsoleWooODT.php:339
+msgid "Enter your desired delivery time."
+msgstr "Indtast din ønskede leveringstid."
+
+#: ByConsoleWooODT.php:380 ByConsoleWooODT.php:418 ByConsoleWooODT.php:457
+msgid "Delivery date"
+msgstr "Leveringsdato"
+
+#: ByConsoleWooODT.php:381 ByConsoleWooODT.php:419 ByConsoleWooODT.php:458
+msgid "Delivery time"
+msgstr "Leveringstid"
+
+#: ByConsoleWooODT.php:382 ByConsoleWooODT.php:420 ByConsoleWooODT.php:459
+msgid "Delivery type"
+msgstr "Leveringstype"
+
+#: ByConsoleWooODT.php:708 ByConsoleWooODT.php:738
+msgid "We are closed now, please select another day"
+msgstr "Vi er lukkede nu, vælg venligst en anden dag"
+
+#: ByConsoleWooODT.php:829 ByConsoleWooODT.php:848
+msgid "Please select date again"
+msgstr "Vælg venligst dato igen"
+
+#: inc/admin.php:20
+msgid "The pro version includes:"
+msgstr "Pro-versionen omfatter:"
+
+#: inc/admin.php:21
+msgid "1) Set multiple delivery/pickup locations as many as you wish."
+msgstr ""
+"1) Indstil flere leverings- / afhentningssteder så mange som du ønsker."
+
+#: inc/admin.php:22
+msgid ""
+"2) Option to make your store as delivery only or pickup only or keep both."
+msgstr ""
+"2) Mulighed for at gøre din butik kun til levering eller kun afhentning "
+"eller beholde begge dele."
+
+#: inc/admin.php:23
+msgid ""
+"3) Set shop closing days based on week/week-end days like (every Sunday/"
+"Monday/../..)"
+msgstr ""
+"3) Indstil butikens lukkedage baseret på uge / week-end dage som (hver "
+"søndag / mandag / ../ ..)"
+
+#: inc/admin.php:24
+msgid "4) Set casual holidays on each month calendar."
+msgstr "4) Indstil afslappede ferier på hver månedskalender."
+
+#: inc/admin.php:25
+msgid "5) Set National/public holiday."
+msgstr "5) Set national / offentlig ferie."
+
+#: inc/admin.php:26
+msgid "6) Set delivery/pickup break time."
+msgstr "6) Indstil levering / afhentningsbrudstid."
+
+#: inc/admin.php:27
+msgid "7) Disable/enable delivery/pickup."
+msgstr "7) Deaktiver / aktiver levering / afhentning."
+
+#: inc/admin.php:28
+msgid "8) Minimum lead time / wait time."
+msgstr "8) Mindste ledetid / ventetid."
+
+#: inc/admin.php:29
+msgid "9) Free support on up to three domains."
+msgstr "9) Gratis support på op til tre domæner."
+
+#: inc/admin.php:30
+msgid "10) Set on which day(s) you will allow pickup."
+msgstr "10) Indstil hvilken dag (er) du tillader afhentning."
+
+#: inc/admin.php:31
+msgid "11) Set on which day(s) you will allow delivery."
+msgstr "11) Angiv, hvilken dag (e) du vil tillade levering."
+
+#: inc/admin.php:32
+msgid ""
+"12) Different delivery times for each delivery location (from v-1.0.3.0)."
+msgstr "12) Forskellige leveringstider for hver leveringssted (fra v-1.0.3.0)."
+
+#: inc/admin.php:33
+msgid "13) Order placing cutoff time for next day delivery (from v-1.0.6.0)."
+msgstr ""
+"13) Bestil placeringen af cutoff tid for næste dag levering (fra v-1.0.6.0)."
+
+#: inc/admin.php:34
+msgid ""
+"14) Set minimum order value for each pickup location and/or delivery area "
+"(from v-1.0.3.0)."
+msgstr ""
+"14) Angiv mindste ordreværdi for hver afhentningssted og / eller "
+"leveringsområde (fra v-1.0.3.0)."
+
+#: inc/admin.php:35
+msgid ""
+"15)Extra delivery charges for same day/next day/day after tomorrow delivery "
+"(from v-1.0.6.0 and with another addon)."
+msgstr ""
+"15) Ekstra leveringsgebyrer for samme dag / næste dag / i overmorgen "
+"levering (fra v-1.0.6.0 og med en anden addon)."
+
+#: inc/admin.php:36
+msgid ""
+"16)Day based delivery/pickup times for each delivery/pickup location (from "
+"v-1.0.4.0)."
+msgstr ""
+"16) Dagbaseret levering / afhentningstider for hver leverings- / "
+"afhentningssted (fra v-1.0.4.0)."
+
+#: inc/admin.php:37
+msgid ""
+"27)Each delivery and pickup location can have separate email address to "
+"receive new order notification mail (from v-1.0.4.0)."
+msgstr ""
+"27) Hver leverings- og afhentningssted kan have en separat e-mail-adresse "
+"for at modtage ny ordrebeskedpost (fra v-1.0.4.0)."
+
+#: inc/admin.php:38
+msgid ""
+"18)Order placing cut off time for next day delivery/pickup (from v-1.0.4.1)."
+msgstr ""
+"18) Bestil placere afskæringstid for næste dag levering / afhentning (fra "
+"v-1.0.4.1)."
+
+#: inc/admin.php:39
+msgid ""
+"19)Short code to list up all your delivery/pickup points(from v-1.0.5.0)."
+msgstr ""
+"19) Kort kode for at liste op alle dine leverings- / afhentningspunkter (fra "
+"v-1.0.5.0)."
+
+#: inc/admin.php:40
+msgid ""
+"20)Short code to place order type date time location widget on anywhere(from "
+"v-1.0.5.0)."
+msgstr ""
+"20) Kort kode for at placere rækkefølge dato dato tidspunkt placering widget "
+"overalt (fra v-1.0.5.0)."
+
+#: inc/admin.php:41
+msgid ""
+"21)Short code to display order date time location and type on any other "
+"pages/plugin(from v-1.0.5.0)."
+msgstr ""
+"21) Kort kode for at vise dato for bestillingstidspunkt og type på andre "
+"sider / plugin (fra v-1.0.5.0)."
+
+#: inc/admin.php:42
+msgid ""
+"22)Lead time management for orders posted on store closing days(from "
+"v-1.0.6.0)."
+msgstr ""
+"22) Ledetidsadministration for ordrer opført på butikens lukkedage (fra "
+"v-1.0.6.0)."
+
+#: inc/admin.php:43
+msgid ""
+"23)Option to limit number of orders per time slot per location(from "
+"v-1.0.6.0)."
+msgstr ""
+"23) Mulighed for at begrænse antallet af ordrer pr. Tidsluke pr. Sted (fra "
+"v-1.0.6.0)."
+
+#: inc/admin.php:44
+msgid ""
+"24)Assign extra shipping charges per delivery areas / pickup hubs (from "
+"v-1.0.6.0)."
+msgstr ""
+"24) Tilknyt ekstra fragtgebyrer pr. Leveringsområder / afhentningsnav (fra "
+"v-1.0.6.0)."
+
+#: inc/admin.php:45
+msgid ""
+"25)Provide discount when it is pick up or add extra charge when it is "
+"delivery (With our another plugin)."
+msgstr ""
+"25) Giv rabat, når det afhenter eller tilføj ekstra gebyr, når det er "
+"levering (Med vores andet plugin)."
+
+#: inc/admin.php:46
+msgid ""
+"26)Product wise location based sale record and option export to CSV file "
+"(With our  another plugin)."
+msgstr ""
+"26) Produkt Wise Location-baseret salg record og option eksport til CSV-fil "
+"(Med vores andet plugin)."
+
+#: inc/admin.php:47
+msgid ""
+"27) Get location on map and customer can pick a location directly from "
+"map(with map add-on plugin)."
+msgstr ""
+"27) Få placering på kort, og kunden kan vælge en placering direkte fra "
+"kortet (med plugin til tilføjelse af kort)."
+
+#: inc/admin.php:48
+msgid ""
+"28) Suggest nearest pickup location by geo location calculation(with map add-"
+"on plugin)."
+msgstr ""
+"28) Foreslå nærmeste afhentningssted ved geo-placering beregning (med plugin "
+"til tilføjelse af kort)."
+
+#: inc/admin.php:49
+msgid "29) Create your custom slot for each location."
+msgstr "29) Opret din brugerdefinerede plads til hver placering."
+
+#: inc/admin.php:50
+msgid ""
+"30) Get customized/more extended copy to suit your all needs(may be paid)."
+msgstr ""
+"30) Få tilpasset / mere udvidet kopi, der passer til alle dine behov (kan "
+"betales)."
+
+#: inc/admin.php:79 inc/admin.php:88 inc/admin.php:97 inc/admin.php:106
+#: inc/admin.php:127 inc/admin.php:137 inc/admin.php:140 inc/admin.php:150
+#: inc/admin.php:152 inc/admin.php:159 inc/admin.php:195 inc/admin.php:203
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/admin.php:80
+msgid "Texts to display on checkout page as section heading."
+msgstr "Tekster, der skal vises på checkout side som afsnit overskrift."
+
+#: inc/admin.php:89
+msgid "displayed as calendar label on checkout page."
+msgstr "vises som kalendermærkat på udkøds side."
+
+#: inc/admin.php:98 inc/admin.php:107
+msgid "displayed as time drop-down label on checkout page."
+msgstr "vises som tid drop-down label på checkout side."
+
+#: inc/admin.php:121
+msgid "24 hours or 12 hours with AM / PM."
+msgstr "24 timer eller 12 timer med AM / PM."
+
+#: inc/admin.php:128
+msgid ""
+"Leave blank to not set and pre-order days, this is number of days customer "
+"can pre order in advance."
+msgstr ""
+"Lad være tom for ikke at indstille og forudbestille dage, dette er antal "
+"dage kunden kan forudbestille på forhånd."
+
+#: inc/admin.php:136 inc/admin.php:149
+msgid "From"
+msgstr "Fra"
+
+#: inc/admin.php:139 inc/admin.php:151
+msgid "To"
+msgstr "Til"
+
+#: inc/admin.php:143
+msgid "Allowable Pickup Time."
+msgstr "Tilladt afhentetid."
+
+#: inc/admin.php:153
+msgid "Allowable Delivery Time."
+msgstr "Tilladelig leveringstid."
+
+#: inc/admin.php:160
+msgid "This is visible on widget front end if customer has chosen delivery."
+msgstr ""
+"Dette er synligt på widgetens frontende, hvis kunden har valgt levering."
+
+#: inc/admin.php:168
+msgid "Take away label shown on checkout page and in widget."
+msgstr "Tag væk etiket vist på checkout side og i widget."
+
+#: inc/admin.php:175
+msgid "Delivery label shown on checkout page and in widget."
+msgstr "Leveringsmærke vist på checkout side og i widget."
+
+#: inc/admin.php:182
+msgid "Placeholder text for date-picker calendar input box."
+msgstr "Stedholdertekst til dato-picker kalender input box."
+
+#: inc/admin.php:189
+msgid "Placeholder text for time drop-down input box."
+msgstr "Pladsholdertekst til indlæsning af tidsruller."
+
+#: inc/admin.php:196
+msgid "This is the text showed in Order Delivered page."
+msgstr "Dette er teksten viste på ordreleveret side."
+
+#: inc/admin.php:197
+msgid "Eg: The order will be delivered on"
+msgstr "F.eks .: Ordren vil blive leveret på"
+
+#: inc/admin.php:197 inc/admin.php:205
+msgid "at"
+msgstr "på"
+
+#: inc/admin.php:204
+msgid "This is the text showed in Order Picked Up page."
+msgstr "Dette er teksten, der blev vist i ordreoptaget side."
+
+#: inc/admin.php:205
+msgid "Eg: The order can be Picked Up on"
+msgstr "Fx: Ordren kan afhentes på"
+
+#: inc/admin.php:216
+msgid ""
+"Choose if tracking text have to be shown on top(before order product list) "
+"or bottom(after product list)."
+msgstr ""
+"Vælg, om sportekst skal vises øverst (før ordreproduktliste) eller bund "
+"(efter produktliste)."
+
+#: inc/admin.php:222
+msgid "Preorder Days:"
+msgstr "Forordningsdage:"
+
+#: inc/admin.php:223
+msgid "Opening Hours:"
+msgstr "Åbningstider:"
+
+#: inc/admin.php:224
+msgid "Delivery Hours:"
+msgstr "Leveringstider:"
+
+#: inc/admin.php:225
+msgid "Minimum delivery Times:"
+msgstr "Minimum leveringstider:"
+
+#: inc/admin.php:226
+msgid "Pickup lable text:"
+msgstr "Opsamling etikettekst:"
+
+#: inc/admin.php:227
+msgid "Delivery lable text:"
+msgstr "Leveringslabeltekst:"
+
+#: inc/admin.php:228
+msgid "Date field text:"
+msgstr "Dato felt tekst:"
+
+#: inc/admin.php:229
+msgid "Time field text:"
+msgstr "Tidsfelttekst:"
+
+#: inc/admin.php:230
+msgid "The order will be delivered:"
+msgstr "Ordren vil blive leveret:"
+
+#: inc/admin.php:231
+msgid "The order can be Pickup:"
+msgstr "Ordren kan være afhentning:"
+
+#: inc/admin.php:232
+msgid "Position of the text in the orders page:"
+msgstr "Placering af teksten på ordresiden:"
+
+#: inc/admin.php:233
+msgid "Checkout page section heading"
+msgstr "Checkout side sektion overskrift"
+
+#: inc/admin.php:234
+msgid "Order type label on checkout page:"
+msgstr "Ordre type etiket på checkout side:"
+
+#: inc/admin.php:235
+msgid "Calendar label on checkout page:"
+msgstr "Kalendermærke på udkøds side:"
+
+#: inc/admin.php:236
+msgid "Time select label on checkout page:"
+msgstr "Tidsvalg markering på udkøds side:"
+
+#: inc/admin.php:237
+msgid "Time format:"
+msgstr "Tidsformat:"
+
+#~ msgid "Enter delivery date"
+#~ msgstr "Indtast leveringsdato"
+
+#~ msgid "Enter delivery time"
+#~ msgstr "Indtast leveringstid"
+
+#~ msgid "2) Disable/enable multiple delivery/pickup locations."
+#~ msgstr "2) Deaktiver / aktiver flere afleverings- / afhentningssteder."

@@ -1,0 +1,2411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Ultimate Gift Card 2.3.2\n"
+"POT-Creation-Date: 2017-12-06 19:13+0530\n"
+"PO-Revision-Date: 2018-02-03 05:50+0000\n"
+"Last-Translator: 4dmin <nobody@localhost>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: "
+
+#: woocommerce-ultimate-gift-card.php:178
+msgid "Happy Diwali"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:235
+msgid "Merry Christmas"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:318
+msgid "Thanks Giving Day"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:331
+msgid "President Day"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:348
+msgid "Halloween"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:365
+msgid "Easter"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:381
+msgid "Fathers Day"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:397
+msgid "Mothers Day"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:413
+msgid "Christmas"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:429
+msgid "Black Friday"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:445
+msgid "Independence Day"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:461
+msgid "Happy New Year"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:477
+msgid "Happy Birth Day"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:493
+msgid "Happy Anniversary"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:509
+msgid "Happy Eid"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:524
+msgid "Valentine's Day Special 1"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:538
+msgid "Valentine's Day Special 2"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:553
+msgid "Happy Rakhi"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:588
+msgid "Template1"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:599
+msgid "Template2"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:610
+msgid "Template3"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:619
+#: woocommerce-ultimate-gift-card.php:634
+#: woocommerce-ultimate-gift-card.php:635
+#: function/woocommerce-ultimate-gift-card-function.php:2135
+#: admin/template/export-coupon.php:361
+#: includes/woocommerce-ultimate-gift-card-class.php:1906
+#: includes/woocommerce-ultimate-gift-card-class.php:1908
+#: includes/woocommerce-ultimate-gift-card-class.php:2075
+#: includes/woocommerce-ultimate-gift-card-class.php:2598
+msgid "Gift Card"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:776
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-ultimate-gift-card.php:874
+msgid ""
+"Woocommerce is not activated, Please activate Woocommerce first to install "
+"WooCommerce Ultimate Gift Card."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:200
+#: includes/woocommerce-ultimate-gift-card-class.php:132
+#: includes/woocommerce-ultimate-gift-card-class.php:979
+#: includes/woocommerce-ultimate-gift-card-class.php:1201
+msgid "Mail sending failed due to some issue. Please try again."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:277
+#: function/woocommerce-ultimate-gift-card-function.php:335
+msgid "Mail already send on the scheduled date."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:428
+#: function/woocommerce-ultimate-gift-card-function.php:468
+#: function/woocommerce-ultimate-gift-card-function.php:495
+msgid "Gift card  is Sent Successfully"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:562
+#: function/woocommerce-ultimate-gift-card-function.php:588
+msgid "Send Today"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:621
+msgid "Processing"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:622
+msgid "Completed"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1066
+#: function/woocommerce-ultimate-gift-card-function.php:1514
+#: function/woocommerce-ultimate-gift-card-function.php:3863
+#: function/woocommerce-ultimate-gift-card-function.php:3911
+#: function/woocommerce-ultimate-gift-card-function.php:3956
+#: function/woocommerce-ultimate-gift-card-function.php:4886
+#: function/woocommerce-ultimate-gift-card-function.php:4931
+#: function/woocommerce-ultimate-gift-card-function.php:5283
+#: includes/woocommerce-ultimate-gift-card-class.php:311
+#: includes/woocommerce-ultimate-gift-card-class.php:530
+#: includes/woocommerce-ultimate-gift-card-class.php:1090
+#: includes/woocommerce-ultimate-gift-card-class.php:1428
+msgid "No Expiration"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1108
+#: function/woocommerce-ultimate-gift-card-function.php:5179
+#: includes/woocommerce-ultimate-gift-card-class.php:403
+#: includes/woocommerce-ultimate-gift-card-class.php:1133
+#: includes/woocommerce-ultimate-gift-card-class.php:1513
+msgid " Hurry!!! Giftcard is Received"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1136
+#: function/woocommerce-ultimate-gift-card-function.php:1143
+#: function/woocommerce-ultimate-gift-card-function.php:5243
+#: function/woocommerce-ultimate-gift-card-function.php:5250
+#: includes/woocommerce-ultimate-gift-card-class.php:468
+#: includes/woocommerce-ultimate-gift-card-class.php:475
+#: includes/woocommerce-ultimate-gift-card-class.php:1161
+#: includes/woocommerce-ultimate-gift-card-class.php:1168
+#: includes/woocommerce-ultimate-gift-card-class.php:1574
+#: includes/woocommerce-ultimate-gift-card-class.php:1581
+msgid " Gift Card is Sent Successfully"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1203
+msgid "Delivery Method: Please Select One Method"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1215
+msgid "Recipient Email: Field is empty."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1220
+msgid "Recipient Email: Invalid email format"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1228
+#: function/woocommerce-ultimate-gift-card-function.php:1236
+msgid "To: Name Field is empty."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1246
+msgid "Message: Field is empty."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1251
+#, php-format
+msgid "%sMessage: %sMessage length cannot exceed %s characters."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1260
+msgid "From: Field is empty."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1542
+#: assets/css/offline-gift.php:587 admin/template/offline-gift.php:587
+#: includes/woocommerce-ultimate-gift-card-class.php:545
+msgid "from@example.com"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1543
+#: assets/css/offline-gift.php:573 admin/template/offline-gift.php:573
+#: includes/woocommerce-ultimate-gift-card-class.php:546
+msgid "to@example.com"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1544
+#: includes/woocommerce-ultimate-gift-card-class.php:547
+msgid "Your gift message will appear here which you send to your receiver. "
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1670
+#: function/woocommerce-ultimate-gift-card-function.php:2836
+#: assets/css/offline-gift.php:672 admin/template/offline-gift.php:672
+#: includes/woocommerce-ultimate-gift-card-class.php:691
+msgid "Preview"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1781
+#: function/woocommerce-ultimate-gift-card-function.php:1792
+#: function/woocommerce-ultimate-gift-card-function.php:1801
+msgid "Giftcard Notice"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1782
+#, php-format
+msgid "This gift card will expire  %s days after purchase."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1793
+#, php-format
+msgid "This gift card will expire %s days after purchase."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1802
+msgid "Giftcard has no expiration."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1938
+msgid "Resend Giftcard Email"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1942
+msgid ""
+"If the recipient has not received your giftcard email then you can resend "
+"the email."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:1944
+#: includes/woocommerce-ultimate-gift-card-class.php:1826
+msgid "Resend Mail"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2005
+#, php-format
+msgid "Price: %sField is empty"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2006
+#, php-format
+msgid "Send Date: %sField is empty"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2007
+#, php-format
+msgid "Recipient Email: %sField is empty."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2008
+#, php-format
+msgid "Recipient Name: %sField is empty."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2009
+#, php-format
+msgid "Recipient Email: %sInvalid email format."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2010
+#, php-format
+msgid "From: %sField is empty."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2011
+#, php-format
+msgid "Delivery Method: %sPlease Select One Method"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2013
+#, php-format
+msgid "Message: %sField is empty."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2014
+#, php-format
+msgid "Message: %sMessage length cannot exceed %s characters."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2016
+#, php-format
+msgid "Price Range: %sPlease enter price within Range."
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2018
+msgid "Please browse image files only"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2019
+msgid "Discounted Giftcard Price: "
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2020
+#: function/woocommerce-ultimate-gift-card-function.php:2487
+#: function/woocommerce-ultimate-gift-card-function.php:2597
+msgid "Giftcard Value: "
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2330
+msgid "Enter Giftcard Value:"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2373
+msgid "VIEW CARD"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2486
+#: function/woocommerce-ultimate-gift-card-function.php:2596
+msgid "Discounted Gift Card Price: "
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2495
+msgid "Enter Price Within Above Range"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2512
+msgid "Coupon Amount will be: "
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2531
+msgid "Choose Gift Card Selected Price"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2605
+msgid "Enter Gift Card Price"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2618
+msgid "Select Date"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2620
+msgid "(Recipient will receive the gift card on selected date)"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2629
+#: function/woocommerce-ultimate-gift-card-function.php:3148
+#: function/woocommerce-ultimate-gift-card-function.php:5079
+#: assets/css/offline-gift.php:57 assets/css/offline-gift.php:579
+#: admin/template/offline-gift.php:57 admin/template/offline-gift.php:579
+#: includes/woocommerce-ultimate-gift-card-class.php:898
+#: includes/woocommerce-ultimate-gift-card-class.php:928
+msgid "From"
+msgstr "De"
+
+#: function/woocommerce-ultimate-gift-card-function.php:2630
+msgid "Enter the sender name"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2634
+#: function/woocommerce-ultimate-gift-card-function.php:3156
+msgid "Gift Message"
+msgstr "Mensaje del regalo"
+
+#: function/woocommerce-ultimate-gift-card-function.php:2643
+msgid "Characters:"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2651
+#: function/woocommerce-ultimate-gift-card-function.php:5085
+#: Shipping/includes/woocommerce-shipping-addon-class.php:71
+msgid "Delivery Method"
+msgstr "Metodo de Delivery"
+
+#: function/woocommerce-ultimate-gift-card-function.php:2660
+msgid "Enter the Recipient Email (Required)"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2661
+#: function/woocommerce-ultimate-gift-card-function.php:2708
+#: function/woocommerce-ultimate-gift-card-function.php:2745
+msgid "Enter the Recipient Name (Optional)"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2674
+#: function/woocommerce-ultimate-gift-card-function.php:2686
+#: function/woocommerce-ultimate-gift-card-function.php:2718
+#: function/woocommerce-ultimate-gift-card-function.php:2729
+#: function/woocommerce-ultimate-gift-card-function.php:2758
+#: function/woocommerce-ultimate-gift-card-function.php:2768
+msgid "Enter the Recipient Name"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2707
+#: function/woocommerce-ultimate-gift-card-function.php:2744
+msgid "Enter the Recipient Email"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2780
+#: admin/template/email-setting.php:132
+msgid "Upload Image"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:2781
+msgid "(Uploaded Image will replace the product image in template)"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:3127
+#: function/woocommerce-ultimate-gift-card-function.php:5088
+msgid "Send Date"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:3134
+#: function/woocommerce-ultimate-gift-card-function.php:5073
+msgid "To Name"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:3141
+#: function/woocommerce-ultimate-gift-card-function.php:5076
+#: assets/css/offline-gift.php:56 assets/css/offline-gift.php:565
+#: admin/template/offline-gift.php:56 admin/template/offline-gift.php:565
+#: includes/woocommerce-ultimate-gift-card-class.php:897
+#: includes/woocommerce-ultimate-gift-card-class.php:927
+msgid "To"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:3277
+#: function/woocommerce-ultimate-gift-card-function.php:4668
+msgid "Hurry! Coupon Code is received"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:3279
+#: function/woocommerce-ultimate-gift-card-function.php:4670
+msgid "Thankyou Giftcard Coupon"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:4237
+#: function/woocommerce-ultimate-gift-card-function.php:4352
+msgid "Coupon Amount Notification"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:4246
+#: function/woocommerce-ultimate-gift-card-function.php:4362
+#: admin/template/email-setting.php:186
+msgid "Disclaimer Text"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:4838
+msgid "No Expiartion"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:5082
+#: assets/css/offline-gift.php:623 admin/template/offline-gift.php:623
+#: includes/woocommerce-ultimate-gift-card-class.php:899
+#: includes/woocommerce-ultimate-gift-card-class.php:929
+msgid "Message"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:5091
+msgid "Original Price"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:5094
+msgid "Selected Template"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:5097
+msgid "Image"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:5107
+msgid "Mail to recipient"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:5111
+#: Shipping/admin/shipping-setting.php:177
+msgid "Downloadable"
+msgstr ""
+
+#: function/woocommerce-ultimate-gift-card-function.php:5115
+#: Shipping/admin/shipping-setting.php:180
+#: includes/woocommerce-ultimate-gift-card-class.php:2276
+msgid "Shipping"
+msgstr ""
+
+#: assets/css/offline-gift.php:33 admin/template/offline-gift.php:33
+msgid "Not Scheduled"
+msgstr ""
+
+#: assets/css/offline-gift.php:40 admin/template/offline-gift.php:40
+msgid "RESEND"
+msgstr ""
+
+#: assets/css/offline-gift.php:54 admin/template/offline-gift.php:54
+msgid "ID"
+msgstr ""
+
+#: assets/css/offline-gift.php:55 admin/template/offline-gift.php:55
+msgid "Order Date"
+msgstr ""
+
+#: assets/css/offline-gift.php:58 admin/template/offline-gift.php:58
+msgid "Messsage"
+msgstr ""
+
+#: assets/css/offline-gift.php:59 admin/template/offline-gift.php:59
+#: includes/woocommerce-ultimate-gift-card-class.php:2141
+msgid "Price"
+msgstr ""
+
+#: assets/css/offline-gift.php:60 admin/template/offline-gift.php:60
+msgid "Giftcard Coupon"
+msgstr ""
+
+#: assets/css/offline-gift.php:61 assets/css/offline-gift.php:550
+#: admin/template/offline-gift.php:61 admin/template/offline-gift.php:550
+msgid "Schedule Date"
+msgstr ""
+
+#: assets/css/offline-gift.php:62 admin/template/offline-gift.php:62
+msgid "Resend"
+msgstr ""
+
+#: assets/css/offline-gift.php:85 admin/template/offline-gift.php:85
+msgid "Delete"
+msgstr ""
+
+#: assets/css/offline-gift.php:112 admin/template/offline-gift.php:112
+msgid "Offline Gift Card Deleted"
+msgstr ""
+
+#: assets/css/offline-gift.php:114 assets/css/offline-gift.php:803
+#: admin/template/offline-gift.php:114 admin/template/offline-gift.php:803
+msgid "Dismiss this notice."
+msgstr ""
+
+#: assets/css/offline-gift.php:222 assets/css/offline-gift.php:232
+#: assets/css/offline-gift.php:239 assets/css/offline-gift.php:245
+#: assets/css/offline-gift.php:251 admin/template/offline-gift.php:222
+#: admin/template/offline-gift.php:232 admin/template/offline-gift.php:239
+#: admin/template/offline-gift.php:245 admin/template/offline-gift.php:251
+msgid "File not imported due to some error."
+msgstr ""
+
+#: assets/css/offline-gift.php:258 assets/css/offline-gift.php:530
+#: admin/template/offline-gift.php:258 admin/template/offline-gift.php:530
+msgid "Please create Gift Card Product First."
+msgstr ""
+
+#: assets/css/offline-gift.php:282 admin/template/offline-gift.php:282
+msgid "File imported successfully."
+msgstr ""
+
+#: assets/css/offline-gift.php:428 admin/template/offline-gift.php:428
+msgid "No Expiry"
+msgstr ""
+
+#: assets/css/offline-gift.php:508 admin/template/offline-gift.php:508
+msgid "Giftcard Created and Mail is send to Sender and Receiver. Code is"
+msgstr ""
+
+#: assets/css/offline-gift.php:519 admin/template/offline-gift.php:519
+msgid "Giftcard Created and Mail will be send on scheduled date."
+msgstr ""
+
+#: assets/css/offline-gift.php:544 admin/template/offline-gift.php:544
+msgid "Add New Giftcard"
+msgstr ""
+
+#: assets/css/offline-gift.php:545 admin/template/offline-gift.php:545
+msgid "VIEW LIST"
+msgstr ""
+
+#: assets/css/offline-gift.php:554 admin/template/offline-gift.php:554
+msgid ""
+"Select the schedule date for sending the gift card on the specified date."
+msgstr ""
+
+#: assets/css/offline-gift.php:559 admin/template/offline-gift.php:559
+msgid "Leave this field empty if you want to send the Gift Card right now."
+msgstr ""
+
+#: assets/css/offline-gift.php:569 admin/template/offline-gift.php:569
+msgid "Enter the email id of the recipient."
+msgstr ""
+
+#: assets/css/offline-gift.php:583 admin/template/offline-gift.php:583
+msgid "Enter the email id of the sender."
+msgstr ""
+
+#: assets/css/offline-gift.php:594 admin/template/offline-gift.php:594
+msgid "Amount"
+msgstr ""
+
+#: assets/css/offline-gift.php:598 admin/template/offline-gift.php:598
+msgid "Enter the Gift Card amount."
+msgstr ""
+
+#: assets/css/offline-gift.php:608 admin/template/offline-gift.php:608
+msgid "Custom Coupon Code"
+msgstr ""
+
+#: assets/css/offline-gift.php:612 admin/template/offline-gift.php:612
+msgid ""
+"Enter the Gift Coupon Manual, Leave blank if you need system generated code"
+msgstr ""
+
+#: assets/css/offline-gift.php:627 admin/template/offline-gift.php:627
+msgid "Enter the Gift Card message."
+msgstr ""
+
+#: assets/css/offline-gift.php:638 assets/css/offline-gift.php:827
+#: admin/template/offline-gift.php:638 admin/template/offline-gift.php:826
+msgid "Giftcard"
+msgstr ""
+
+#: assets/css/offline-gift.php:642 assets/css/offline-gift.php:831
+#: admin/template/offline-gift.php:642 admin/template/offline-gift.php:830
+msgid "Select the Gift card product."
+msgstr ""
+
+#: assets/css/offline-gift.php:661 admin/template/offline-gift.php:661
+msgid "No Gift Card Product Present, Please Add Gift Card Product first"
+msgstr ""
+
+#: assets/css/offline-gift.php:679 admin/template/offline-gift.php:679
+msgid "Save & Send"
+msgstr ""
+
+#: assets/css/offline-gift.php:691 admin/template/offline-gift.php:691
+msgid "Import Offline Coupons"
+msgstr ""
+
+#: assets/css/offline-gift.php:696 assets/css/offline-gift.php:815
+#: admin/template/export-coupon.php:37 admin/template/export-coupon.php:72
+#: admin/template/offline-gift.php:696 admin/template/offline-gift.php:814
+msgid "Instructions"
+msgstr ""
+
+#: assets/css/offline-gift.php:697 admin/template/offline-gift.php:697
+msgid ""
+"It just provide you the way from where you can import your coupons in bulk "
+"and can provide them Manually to your Customers. You need to choose a CSV "
+"file and click Import"
+msgstr ""
+
+#: assets/css/offline-gift.php:698 admin/template/offline-gift.php:698
+msgid ""
+"CSV for Offline Coupons must have 4 columns in this order ( Coupon Code, "
+"Expiry Date, Usage Limit, Price. Also first row must be the respective "
+"headings. )"
+msgstr ""
+
+#: assets/css/offline-gift.php:699 admin/template/offline-gift.php:699
+msgid ""
+"You may leave Expiry Date field empty if you want to set your gift coupons "
+"with \"No Expiration\". The Expiry Date format must be in (YYYY-MM-DD), also "
+"may leave Usage Limit for setting this for \"No Usage Limit\"."
+msgstr ""
+
+#: assets/css/offline-gift.php:703 assets/css/offline-gift.php:857
+#: admin/template/export-coupon.php:44 admin/template/export-coupon.php:80
+#: admin/template/offline-gift.php:703 admin/template/offline-gift.php:857
+msgid "Choose a CSV file:"
+msgstr ""
+
+#: assets/css/offline-gift.php:709 assets/css/offline-gift.php:863
+#: admin/template/export-coupon.php:50 admin/template/export-coupon.php:86
+#: admin/template/offline-gift.php:709 admin/template/offline-gift.php:863
+msgid "Maximum size:128 MB"
+msgstr ""
+
+#: assets/css/offline-gift.php:712 assets/css/offline-gift.php:866
+#: admin/template/export-coupon.php:53 admin/template/export-coupon.php:89
+#: admin/template/offline-gift.php:712 admin/template/offline-gift.php:866
+msgid "Export Demo CSV"
+msgstr ""
+
+#: assets/css/offline-gift.php:719 assets/css/offline-gift.php:873
+#: admin/template/export-coupon.php:60 admin/template/export-coupon.php:96
+#: admin/template/offline-gift.php:719 admin/template/offline-gift.php:873
+#: includes/woocommerce-ultimate-gift-card-class.php:2509
+#: includes/woocommerce-ultimate-gift-card-class.php:2553
+msgid "Import"
+msgstr ""
+
+#: assets/css/offline-gift.php:760 admin/template/offline-gift.php:760
+msgid "Coupons imported successfully."
+msgstr ""
+
+#: assets/css/offline-gift.php:764 admin/template/export-coupon.php:215
+#: admin/template/export-coupon.php:255 admin/template/export-coupon.php:279
+#: admin/template/offline-gift.php:764
+msgid "Fail due to some error"
+msgstr ""
+
+#: assets/css/offline-gift.php:769 admin/template/offline-gift.php:769
+msgid "Columns are not appropriate."
+msgstr ""
+
+#: assets/css/offline-gift.php:775 admin/template/offline-gift.php:775
+msgid "File cannot be opened."
+msgstr ""
+
+#: assets/css/offline-gift.php:780 admin/template/offline-gift.php:780
+msgid "File does not exist."
+msgstr ""
+
+#: assets/css/offline-gift.php:785 admin/template/offline-gift.php:785
+msgid "File type not supported."
+msgstr ""
+
+#: assets/css/offline-gift.php:790 admin/template/offline-gift.php:790
+msgid "Please choose a valid file"
+msgstr ""
+
+#: assets/css/offline-gift.php:794 admin/template/offline-gift.php:794
+msgid "Offline Giftcard List"
+msgstr ""
+
+#: assets/css/offline-gift.php:816 admin/template/offline-gift.php:815
+msgid ""
+"Import Offline Gift Card CSV for sending offline gift cards . You need to "
+"choose a CSV file and click Upload."
+msgstr ""
+
+#: assets/css/offline-gift.php:817 admin/template/offline-gift.php:816
+msgid ""
+"CSV for Offline Gift Card must have 5 columns in this order ( To, From, "
+"Message, Price, Schedule Date. Also first row must be the respective "
+"headings. )"
+msgstr ""
+
+#: assets/css/offline-gift.php:818 admin/template/offline-gift.php:817
+msgid ""
+"You may leave Schedule Date field empty if you want to send gift card today. "
+"The Schedule Date format must be in (YYYY-MM-DD)."
+msgstr ""
+
+#: assets/css/offline-gift.php:850 admin/template/offline-gift.php:849
+msgid "No Gift Card Product Present"
+msgstr ""
+
+#: assets/css/offline-gift.php:882 admin/template/offline-gift.php:881
+#: includes/woocommerce-ultimate-gift-card-class.php:1909
+msgid "Add New"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:65 Shipping/admin/shipping-setting.php:91
+#: admin/template/product-setting.php:57 admin/template/general-setting.php:94
+#: admin/template/email-setting.php:26
+#: admin/template/other-additional-setting.php:86
+msgid "Settings saved"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:67 Qrcode/admin/qrcode-setting.php:77
+#: Shipping/admin/shipping-setting.php:93 admin/template/product-setting.php:59
+#: admin/template/general-setting.php:96 admin/template/email-setting.php:28
+#: admin/template/other-additional-setting.php:88
+msgid "Dismiss this notice"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:75
+msgid "Settings are Reset"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:96
+msgid "Enable QRCode"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:100
+msgid ""
+"Check this box to enable QRCode. QRCode will be displayed instead of coupon "
+"Code"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:104
+msgid "Enable QRCode to display in Email Template"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:110
+msgid "ECC Level"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:114
+msgid ""
+"ECC (Error Correction Capability) level. This compensates for dirt, damage "
+"or fuzziness of the barcode. "
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:119
+msgid "L-Smallest"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:120
+msgid "M"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:121
+msgid "Q"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:122
+msgid "H-Best"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:124
+msgid "Select the ECC Level"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:130 Qrcode/admin/qrcode-setting.php:212
+msgid "Size"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:134
+msgid "It is the Size of QR Code"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:138
+msgid "Enter the size of the QRCode."
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:144
+msgid "Margin"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:148
+msgid "It is the Margin of QR Code"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:152
+msgid "Enter the margin of the QRCode."
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:162
+msgid "Enable Barcode"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:166
+msgid ""
+"Check this box to enable Barcode. QRCode will be displayed instead of coupon "
+"Code"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:170
+msgid "Enable Barcode to display in Email Template"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:176
+msgid "Display Code"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:180
+msgid "Check this box to display Coupon Code below Barcode."
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:184
+msgid "Enable this to display Coupon Code"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:190
+msgid "CodeType"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:194
+msgid "It is the Code Type of Barcode"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:199
+msgid "Code39"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:200
+msgid "Code25"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:201
+msgid "Codeabar"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:202
+msgid "Code128"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:203
+msgid "Code128a"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:204
+msgid "Code128b"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:206
+msgid "Select the CodeType"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:216
+msgid "It is the Size of Barcode"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:220
+msgid "Enter the size of the Barcode."
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:228 Shipping/admin/shipping-setting.php:203
+#: admin/template/product-setting.php:168
+#: admin/template/general-setting.php:404
+#: admin/template/thankyou-order-setting.php:242
+#: admin/template/email-setting.php:375 admin/template/discount-setting.php:172
+#: admin/template/other-additional-setting.php:449
+msgid "Save changes"
+msgstr ""
+
+#: Qrcode/admin/qrcode-setting.php:229
+msgid "Reset"
+msgstr ""
+
+#: Qrcode/includes/woocommerce-qrcode-addon-class.php:96
+msgid "QRCode/Barcode"
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:110
+msgid "Enable Email To Recipient"
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:114
+msgid ""
+"Check this box to enable normal functionality for sending mails to "
+"recipients on Gift Card Products."
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:118
+msgid "Enable Email To Recipient."
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:124
+msgid "Enable Downloadable"
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:128
+msgid "Check this box to enable downladable feature for  Gift Card Products."
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:132
+msgid "Enable Downloadable feature"
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:138
+msgid "Enable Shipping on Gift Card"
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:142
+msgid "Check this box to enable Shipping on Gift Card Products."
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:146
+msgid "Enable Shipping for Gift Card."
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:152
+msgid "Allow customer to choose"
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:156
+msgid ""
+"Check this box to provide the facility to select the above three methods for "
+"giftcard products"
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:160
+msgid "Customer can select below methods"
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:166
+msgid "Customer can select"
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:170
+msgid ""
+"Check this box to allow customer to select methods on Gift Card Products."
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:174
+#: includes/woocommerce-ultimate-gift-card-class.php:2274
+msgid "Email To Recipient"
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:187
+msgid "Apply Coupon on Shipping & Tax"
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:191
+msgid ""
+"Check this box to enable the Coupon to be applied on Shipping and Tax. The "
+"coupon will be applied on the Cart Total."
+msgstr ""
+
+#: Shipping/admin/shipping-setting.php:195
+msgid ""
+"Enable this field to apply Coupon on Cart Total instead of Cart Subtotal."
+msgstr ""
+
+#: admin/woocommerce-ultimate-gift-card-setting.php:87
+msgid "Giftcard Settings"
+msgstr ""
+
+#: admin/woocommerce-ultimate-gift-card-setting.php:90
+msgid "General"
+msgstr ""
+
+#: admin/woocommerce-ultimate-gift-card-setting.php:91
+msgid "Products"
+msgstr ""
+
+#: admin/woocommerce-ultimate-gift-card-setting.php:92
+#: includes/woocommerce-ultimate-gift-card-class.php:2159
+msgid "Email Template"
+msgstr ""
+
+#: admin/woocommerce-ultimate-gift-card-setting.php:93
+msgid "Offline Giftcard"
+msgstr ""
+
+#: admin/woocommerce-ultimate-gift-card-setting.php:94
+msgid "Import/Export"
+msgstr ""
+
+#: admin/woocommerce-ultimate-gift-card-setting.php:95
+msgid "Other Setting"
+msgstr ""
+
+#: admin/woocommerce-ultimate-gift-card-setting.php:96
+msgid "Discount"
+msgstr ""
+
+#: admin/woocommerce-ultimate-gift-card-setting.php:97
+msgid "Thank You Order"
+msgstr ""
+
+#: admin/template/coupon_template.php:12
+msgid "Hello, This is the notfication for your coupon amount."
+msgstr ""
+
+#: admin/template/coupon_template.php:12 admin/template/email-setting.php:55
+msgid "You have left with amount of "
+msgstr ""
+
+#: admin/template/coupon_template.php:13 admin/template/email-setting.php:56
+msgid "Thank You"
+msgstr ""
+
+#: admin/template/product-setting.php:74
+msgid "Exclude Sale Items"
+msgstr ""
+
+#: admin/template/product-setting.php:78
+msgid ""
+"Check this box if the Giftcard Coupon should not apply to items on sale. Per-"
+"item coupons will only work if the item is not on sale. Per-cart coupons "
+"will only work if there are no sale items in the cart."
+msgstr ""
+
+#: admin/template/product-setting.php:82
+msgid "Enable to exclude Sale Items"
+msgstr ""
+
+#: admin/template/product-setting.php:88
+#: includes/woocommerce-ultimate-gift-card-class.php:2221
+msgid "Exclude Products"
+msgstr ""
+
+#: admin/template/product-setting.php:94
+msgid ""
+"Products which must not be in the cart to use Giftcard coupon or, for "
+"\"Product Discounts\", which products are not discounted."
+msgstr ""
+
+#: admin/template/product-setting.php:126
+msgid "Exclude Product Category"
+msgstr ""
+
+#: admin/template/product-setting.php:130
+msgid ""
+"Product must not be in this category for the Giftcard coupon to remain valid "
+"or, for \"Product Discounts\", products in these categories will not be "
+"discounted."
+msgstr ""
+
+#: admin/template/general-setting.php:140
+msgid "Enable"
+msgstr ""
+
+#: admin/template/general-setting.php:144
+msgid "Check this box to enable giftcard"
+msgstr ""
+
+#: admin/template/general-setting.php:148
+msgid "Enable WooCommerce Gift Card"
+msgstr ""
+
+#: admin/template/general-setting.php:155
+msgid "Enable Tax"
+msgstr ""
+
+#: admin/template/general-setting.php:159
+msgid "Check this box to enable tax for giftcard product."
+msgstr ""
+
+#: admin/template/general-setting.php:163
+msgid "Enable Tax Calculation for Gift Card"
+msgstr ""
+
+#: admin/template/general-setting.php:169
+msgid "Enable Date feature"
+msgstr ""
+
+#: admin/template/general-setting.php:173
+msgid "Check this box to enable giftcard send to receiver on selected date."
+msgstr ""
+
+#: admin/template/general-setting.php:177
+msgid "Enable Giftcard Product send on selected date"
+msgstr ""
+
+#: admin/template/general-setting.php:184
+msgid "Date format"
+msgstr ""
+
+#: admin/template/general-setting.php:188
+msgid "Select the date format which is used on front end."
+msgstr ""
+
+#: admin/template/general-setting.php:193
+msgid "Select Date Format"
+msgstr ""
+
+#: admin/template/general-setting.php:207
+msgid "Enable Listing Shop Page"
+msgstr ""
+
+#: admin/template/general-setting.php:211
+msgid "Check this box to enable giftcard product listing on shop page."
+msgstr ""
+
+#: admin/template/general-setting.php:215
+msgid "Enable Giftcard Product listing on shop page"
+msgstr ""
+
+#: admin/template/general-setting.php:222
+msgid "Individual Use"
+msgstr ""
+
+#: admin/template/general-setting.php:226
+msgid ""
+"Check this box if the Giftcard Coupon cannot be used in conjunction with "
+"other Giftcards/Coupons."
+msgstr ""
+
+#: admin/template/general-setting.php:230
+msgid "Allow Giftcard to use Individually"
+msgstr ""
+
+#: admin/template/general-setting.php:237
+msgid "Free Shipping"
+msgstr ""
+
+#: admin/template/general-setting.php:241
+msgid ""
+"Check this box if the coupon grants free shipping. A free shipping method "
+"must be enabled in your shipping zone and be set to require \"a valid free "
+"shipping coupon\" (see the \"Free Shipping Requires\" setting)."
+msgstr ""
+
+#: admin/template/general-setting.php:245
+msgid "Allow Giftcard on Free Shipping"
+msgstr ""
+
+#: admin/template/general-setting.php:251
+msgid "Giftcard Before Tax Calculation "
+msgstr ""
+
+#: admin/template/general-setting.php:255
+msgid "Check this box if Giftcard Coupon is applied after amount calculation."
+msgstr ""
+
+#: admin/template/general-setting.php:259
+msgid "Apply Giftcard Before Tax"
+msgstr ""
+
+#: admin/template/general-setting.php:266
+#: includes/woocommerce-ultimate-gift-card-class.php:2423
+msgid "Giftcard Coupon Length"
+msgstr ""
+
+#: admin/template/general-setting.php:270
+msgid ""
+"Enter giftcard coupon length excluding the prefix.(Minimum length is set to "
+"5)"
+msgstr ""
+
+#: admin/template/general-setting.php:279
+msgid "Giftcard Prefix"
+msgstr ""
+
+#: admin/template/general-setting.php:283
+msgid "Enter Gift Card Prefix. Ex: PREFIX_CODE"
+msgstr ""
+
+#: admin/template/general-setting.php:291
+msgid "Giftcard Expiry After Days"
+msgstr ""
+
+#: admin/template/general-setting.php:295
+msgid ""
+"Enter number of days after purchased Giftcard is expired. Keep value \"1\" "
+"for one day expiry when order is completed. Keep value \"0\" for no expiry."
+msgstr ""
+
+#: admin/template/general-setting.php:303
+msgid "Minimum Spend"
+msgstr ""
+
+#: admin/template/general-setting.php:307
+msgid ""
+"This field allows you to set the minimum spend (subtotal, including taxes) "
+"allowed to use the Giftcard coupon."
+msgstr ""
+
+#: admin/template/general-setting.php:315
+msgid "Maximum Spend"
+msgstr ""
+
+#: admin/template/general-setting.php:319
+msgid ""
+"This field allows you to set the maximum spend (subtotal, including taxes) "
+"allowed when using the Giftcard coupon."
+msgstr ""
+
+#: admin/template/general-setting.php:327
+msgid "Giftcard No of time usage"
+msgstr ""
+
+#: admin/template/general-setting.php:331
+msgid "How many times this coupon can be used before Giftcard is void."
+msgstr ""
+
+#: admin/template/general-setting.php:340
+msgid "Enable Payment Gateways for Giftcard"
+msgstr ""
+
+#: admin/template/general-setting.php:345
+msgid ""
+"If you want to enable selected payment gateways then choose those payment "
+"gateways here Otherwise default payment gateways is enabled for giftcard."
+msgstr ""
+
+#: admin/template/general-setting.php:373
+msgid ""
+"Note: Enabling COD is just for testing purpose for Shipping functionality, "
+"Try to avoid it if Shipping functionality is not enable"
+msgstr ""
+
+#: admin/template/general-setting.php:382
+msgid "Disable Category"
+msgstr ""
+
+#: admin/template/general-setting.php:386
+msgid ""
+"Check this box to do not assign Gift Card cateogory to Gift Card product "
+"forcefully."
+msgstr ""
+
+#: admin/template/general-setting.php:390
+msgid "Enable it for changing the giftcard category."
+msgstr ""
+
+#: admin/template/general-setting.php:392
+msgid ""
+"Note: Check this box only if you want to change the category for Giftcard "
+"Product.You have to select the category everytime you create a Gift Card "
+"product. Default Gift Card category will not be assigned automatically."
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:48
+#: admin/template/discount-setting.php:40
+msgid "Settings Saved Successfully!"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:70
+msgid "Want to give ThankYou Gift coupon to your customers ?"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:74
+msgid ""
+"Check this box to enable gift coupon for those customers who had placed "
+"orders in your site"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:78
+msgid "Enable ThankYou Gift Coupon to Customers."
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:84
+msgid "Select the Order Status"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:88
+msgid "Select the status when the ThankYou Gift Coupon would be send"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:93
+msgid "Order Creation"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:94
+msgid "Order is in Processing"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:95
+msgid "Order is in Complete"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:102
+msgid "Number of Orders, after which the thankyou giftcard would sent"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:106
+msgid ""
+"Enter the number of orders, after that you want to give a thank you giftcard "
+"to your customers"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:114
+msgid "ThankYou Coupon Expiry"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:118
+msgid ""
+"Enter number of days for Coupon Expiry,  Keep value \"1\" for one day expiry "
+"after genarating coupon, Keep value \"0\" for no expiry."
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:126
+msgid "Select ThankYou Gift Coupon Type"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:130
+msgid "Choose the ThankYou Gift Coupon Type for Customers"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:135
+#: admin/template/discount-setting.php:77
+msgid "Fixed"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:136
+#: admin/template/discount-setting.php:78
+msgid "Percentage"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:143
+msgid "Enter a Thankyou Message for your customers"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:147
+msgid "This message will print inside the Thankyou Giftcoupon Template"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:149
+msgid "You may use shortcodes [COUPONCODE], [COUPONAMOUNT] and [COUPONEXPIRY]"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:157
+msgid "Enter Coupon Amount within Order Range"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:163
+#: admin/template/discount-setting.php:91
+msgid "Minimum"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:164
+#: admin/template/discount-setting.php:92
+msgid "Maximum"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:168
+msgid "ThankYou Gift Coupon Amount"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:173
+msgid "ThankYou Gift Coupon Percentage(%)"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:177
+#: admin/template/discount-setting.php:105
+msgid "Action"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:201
+#: admin/template/thankyou-order-setting.php:227
+#: admin/template/discount-setting.php:131
+#: admin/template/discount-setting.php:157
+msgid "Remove"
+msgstr ""
+
+#: admin/template/thankyou-order-setting.php:235
+#: admin/template/discount-setting.php:165
+msgid "Add More"
+msgstr ""
+
+#: admin/template/email-setting.php:55
+msgid "Hello, This is the notfication for your coupon amount. "
+msgstr ""
+
+#: admin/template/email-setting.php:86
+msgid "Manage Template"
+msgstr ""
+
+#: admin/template/email-setting.php:93
+msgid "Upload Default Logo"
+msgstr ""
+
+#: admin/template/email-setting.php:97
+msgid "Upload the image which is used as logo on your Email Template."
+msgstr ""
+
+#: admin/template/email-setting.php:101
+msgid "Upload Logo"
+msgstr ""
+
+#: admin/template/email-setting.php:114
+msgid "Logo Dimension"
+msgstr ""
+
+#: admin/template/email-setting.php:117
+msgid "Height"
+msgstr ""
+
+#: admin/template/email-setting.php:118
+msgid "Width"
+msgstr ""
+
+#: admin/template/email-setting.php:124
+msgid "Email Default Event Image"
+msgstr ""
+
+#: admin/template/email-setting.php:128
+msgid ""
+"Upload image which is used as a default Event/Occasion in Email Template."
+msgstr ""
+
+#: admin/template/email-setting.php:144
+msgid "Email Background Color"
+msgstr ""
+
+#: admin/template/email-setting.php:148
+msgid "Set the background color of Email Template."
+msgstr ""
+
+#: admin/template/email-setting.php:159
+#: includes/woocommerce-ultimate-gift-card-class.php:731
+#: includes/woocommerce-ultimate-gift-card-class.php:757
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/template/email-setting.php:163
+msgid "Write the custom css for Email Template."
+msgstr ""
+
+#: admin/template/email-setting.php:173
+msgid "Giftcard Message Length"
+msgstr ""
+
+#: admin/template/email-setting.php:177
+msgid ""
+"Enter the Gift Card Message length, used to limit the number of characters "
+"entered by the customers."
+msgstr ""
+
+#: admin/template/email-setting.php:190
+msgid "Set the Disclaimer Text for Email Template."
+msgstr ""
+
+#: admin/template/email-setting.php:213
+msgid "Mail Setting"
+msgstr ""
+
+#: admin/template/email-setting.php:218
+msgid "Giftcard Email Subject"
+msgstr ""
+
+#: admin/template/email-setting.php:223
+msgid "Email Subject for Giftcard Mail."
+msgstr ""
+
+#: admin/template/email-setting.php:229
+msgid ""
+"Use [SITENAME] shortcode as the name of the site and [BUYEREMAILADDRESS] "
+"shortcode as buyer email address to be placed dynamically."
+msgstr ""
+
+#: admin/template/email-setting.php:236
+msgid "Email Subject to Sender"
+msgstr ""
+
+#: admin/template/email-setting.php:241
+msgid "Email Subject for notifying receiver about Giftcard Mail send."
+msgstr ""
+
+#: admin/template/email-setting.php:252 admin/template/email-setting.php:340
+msgid "Email Notification to Sender"
+msgstr ""
+
+#: admin/template/email-setting.php:257
+msgid ""
+"Write the Email Content to notify the user who send the Giftcard about that "
+"Giftcard Coupon is send to receiver."
+msgstr ""
+
+#: admin/template/email-setting.php:279
+msgid "Downloadable Gift Card Email Subject for Buyer"
+msgstr ""
+
+#: admin/template/email-setting.php:284
+msgid ""
+"Downloadable Gift Card Email Subject for Giftcard Mail when received by the "
+"buyer."
+msgstr ""
+
+#: admin/template/email-setting.php:290
+msgid ""
+"Use [SITENAME] shortcode as the name of the site  to be placed dynamically."
+msgstr ""
+
+#: admin/template/email-setting.php:295
+msgid "Gift Card Email Subject for Admin"
+msgstr ""
+
+#: admin/template/email-setting.php:300
+msgid ""
+"This is the subject of the Gift Card mail that will be send to the admin "
+"when buyer purchases the Gift Card so that he can ship it to the dhipping "
+"address."
+msgstr ""
+
+#: admin/template/email-setting.php:306
+msgid ""
+"Use [SITENAME] shortcode as the name of the site and [ORDERID] shortcode as "
+"the order id of the product to be placed dynamically."
+msgstr ""
+
+#: admin/template/email-setting.php:318
+msgid " Coupon Mail Setting"
+msgstr ""
+
+#: admin/template/email-setting.php:323
+msgid "Coupon Email Subject"
+msgstr ""
+
+#: admin/template/email-setting.php:328
+msgid "Email Subject for Coupon Mail."
+msgstr ""
+
+#: admin/template/email-setting.php:334
+msgid ""
+"Use [SITENAME] shortcode as the name of the site to be placed dynamically."
+msgstr ""
+
+#: admin/template/email-setting.php:346
+msgid ""
+"Write the Email Content to notify the user about their usage of coupon "
+"amount."
+msgstr ""
+
+#: admin/template/email-setting.php:349
+msgid ""
+"Use [COUPONAMOUNT] shortcode as coupon amount to be placed dynamically. Here "
+"the [DISCLAIMER] shortcode would be replaced by above Disclaimer text field."
+msgstr ""
+
+#: admin/template/export-coupon.php:6
+msgid "Export Online Coupons Details"
+msgstr ""
+
+#: admin/template/export-coupon.php:10
+msgid "You can export csv report of all the generated coupons from the orders."
+msgstr ""
+
+#: admin/template/export-coupon.php:13 admin/template/export-coupon.php:25
+msgid "Export CSV"
+msgstr ""
+
+#: admin/template/export-coupon.php:18
+msgid "Export Offline Coupons Details"
+msgstr ""
+
+#: admin/template/export-coupon.php:22
+msgid "You can export all the offline generated coupons from the orders."
+msgstr ""
+
+#: admin/template/export-coupon.php:32
+msgid "Import Gift Coupons"
+msgstr ""
+
+#: admin/template/export-coupon.php:38
+msgid ""
+"Import Gift Coupons for sending your own codes rather than system generated "
+"one, we do not provide the Price field here as it will take the value of "
+"Giftcard on purchasing. You need to choose a CSV file and click Import"
+msgstr ""
+
+#: admin/template/export-coupon.php:39
+msgid ""
+"CSV for Gift Coupons must have 3 columns in this order ( Coupon Code, Expiry "
+"Date, Usage Limit. Also first row must be the respective headings. )"
+msgstr ""
+
+#: admin/template/export-coupon.php:40
+msgid ""
+"You may leave Expiry Date field empty if you want to set your gift coupons "
+"with \"No Expiry\". The Expiry Date should be in days, which will calculated "
+"after it will get assigned to particular product."
+msgstr ""
+
+#: admin/template/export-coupon.php:67
+msgid "Import Gift Products"
+msgstr ""
+
+#: admin/template/export-coupon.php:73
+msgid ""
+"Import Gift Products along with your own custom codes. You need to choose a "
+"CSV file and click Import"
+msgstr ""
+
+#: admin/template/export-coupon.php:74
+msgid ""
+"CSV for Gift Products must have 6 columns in this order (Product Image URL, "
+"Giftcard Name, Giftcard Price, Giftcard Codes, Giftcard Expiry, Giftcard "
+"Template Name. Also first row must have the respective headings. )"
+msgstr ""
+
+#: admin/template/export-coupon.php:75
+msgid ""
+"You may leave Giftcard Expiry field empty if you want to set your \"Giftcard "
+"Expiry\" with \"No Expiry\" & also you may leave blank \"Giftcard Codes\" if "
+"you want to assign that product with system generated code."
+msgstr ""
+
+#: admin/template/export-coupon.php:76
+msgid ""
+"Giftcard Expiry should be in Days(i.e 2 or 3). It will calculated after "
+"purchasing"
+msgstr ""
+
+#: admin/template/export-coupon.php:168
+msgid "Coupons Imported Successfully!"
+msgstr ""
+
+#: admin/template/export-coupon.php:176
+msgid "Fail Due To Some Error"
+msgstr ""
+
+#: admin/template/export-coupon.php:260
+msgid "Colums are not appropriate"
+msgstr ""
+
+#: admin/template/export-coupon.php:268
+msgid "File Can not be opened"
+msgstr ""
+
+#: admin/template/export-coupon.php:274
+msgid "File does not exist"
+msgstr ""
+
+#: admin/template/export-coupon.php:285
+msgid "Gift Card Products Imported Successfully!"
+msgstr ""
+
+#: admin/template/discount-setting.php:54
+msgid "Enable Discount on Giftcard Produts"
+msgstr ""
+
+#: admin/template/discount-setting.php:58
+msgid "Check this box to enable Discount for Giftcard Products"
+msgstr ""
+
+#: admin/template/discount-setting.php:62
+msgid "Enable Discount on Giftcard Products."
+msgstr ""
+
+#: admin/template/discount-setting.php:68
+msgid "Select Discount Type"
+msgstr ""
+
+#: admin/template/discount-setting.php:72
+msgid "Choose the Discount Type for Giftcard Products"
+msgstr ""
+
+#: admin/template/discount-setting.php:85
+msgid "Enter Discount within Price Range"
+msgstr ""
+
+#: admin/template/discount-setting.php:96
+msgid "Discount Amount"
+msgstr ""
+
+#: admin/template/discount-setting.php:101
+msgid "Discount Percentage(%)"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:122
+msgid "Enable Bcc option for Giftcard Mails"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:126
+msgid "After Enabling this buyer will get exact same mail as recipient"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:130
+msgid "Enable Bcc Option For Gift Card Mails"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:136
+msgid "Disable Apply Coupon Fields "
+msgstr ""
+
+#: admin/template/other-additional-setting.php:140
+msgid ""
+"Check this if you want to disable Apply Coupon Fields if there only GifCard "
+"Products are in Cart Page"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:144
+msgid "Disable Apply Coupon Fields"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:151
+#: admin/template/other-additional-setting.php:159
+msgid "Disable Resend Button"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:155
+msgid "Check this if you want to disable Resend Button At Front End"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:165
+#: admin/template/other-additional-setting.php:173
+msgid "Disable Send Today Button"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:169
+msgid "Check this if you want to disable Send Today Button At Front End"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:179
+#: admin/template/other-additional-setting.php:187
+msgid "Disable Preview Button"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:183
+msgid "Check this if you want to disable Preview Button At Front End"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:193
+msgid "Enable Pdf Feature"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:197
+msgid ""
+"After Enabling this customer will get giftacrd mails along with attached pdf"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:201
+msgid ""
+"Enable PDF option for Gift Card Mails ( Please import pdf supported "
+"templates. )"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:207
+msgid "Select the Pdf Template Size"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:211
+msgid "Select the Pdf Template Size (i.e A3 or A4)"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:216
+msgid "A3 Format"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:217
+msgid "A4 Format"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:224
+msgid "Enable Browse Image for Gift Card"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:228
+msgid ""
+"Check this box to enable image browse option for customers on purchasing "
+"Gift Card."
+msgstr ""
+
+#: admin/template/other-additional-setting.php:232
+msgid "Enable Browse image for customers for gift card products."
+msgstr ""
+
+#: admin/template/other-additional-setting.php:238
+msgid "\"Email To Recipient\" Text"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:242
+#: admin/template/other-additional-setting.php:266
+#: admin/template/other-additional-setting.php:290
+msgid "Entered text will get displayed at Giftacrd Product Single Page"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:250
+#: admin/template/other-additional-setting.php:274
+#: admin/template/other-additional-setting.php:298
+msgid "Description for Above"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:254
+msgid ""
+"Entered text will get displayed at Giftacrd Product Single Page,below the "
+"\"Email to Recipient Option\""
+msgstr ""
+
+#: admin/template/other-additional-setting.php:262
+msgid "\"You Print & Give\" Text"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:278
+msgid ""
+"Entered text will get displayed at Giftacrd Product Single Page,below the "
+"\"You Print & give to recepient\" option"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:286
+msgid "\"Ship Your Card\" Text"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:302
+msgid ""
+"Entered text will get displayed at Giftacrd Product Single Page,below the "
+"\"Want to ship your card\" option"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:310
+msgid "Making Optional \"To\" Field"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:314
+msgid "Check this if you want to remove validation from \"To\" Field"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:318
+msgid "Remove Validation from \"To\" Field"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:324
+msgid "Making Optional \"From\" Field"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:328
+msgid "Check this if you want to remove validation from \"From\" field"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:332
+msgid "Remove Validation from \"From\" Field"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:338
+msgid "Making Optional \"Gift Message\" Field"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:342
+msgid "Check this if you want to remove validation from \"Gift Message\""
+msgstr ""
+
+#: admin/template/other-additional-setting.php:346
+msgid "Remove Validation from \"Gift Message\" Field"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:352
+msgid "Manual Increment usage count for Gift Coupon"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:356
+msgid ""
+"Check this if you want to increment usage count of gift coupons manually"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:360
+msgid "Update usage count for Gift Coupons manually"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:367
+msgid "Enable Product for Custom Page"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:371
+msgid ""
+"Check this, If you want to display the giftcard product in any custom pages "
+"you want (like: through product_page id=\"xyz\" shortcode)"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:375
+msgid "Display Giftcard Product in custom page"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:381
+#: admin/template/other-additional-setting.php:390
+msgid "Select Custom Page"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:385
+msgid ""
+"Select that custom page where you want to display the giftcard with the "
+"shortcode product_page id=\"xyz\""
+msgstr ""
+
+#: admin/template/other-additional-setting.php:419
+#: admin/template/other-additional-setting.php:427
+msgid "Hide Giftcard Notice"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:423
+msgid "Check this if you want to hide \"Giftcard Notice\" from product page"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:433
+#: admin/template/other-additional-setting.php:441
+msgid "Hide Featured/Thumbnail Image"
+msgstr ""
+
+#: admin/template/other-additional-setting.php:437
+msgid ""
+"Check this if you want to hide \"Featured/Thumbnail image from Single "
+"Product Page\" from product page"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:98
+msgid "Import A4 Size PDF Supported Templates"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:99
+msgid ""
+"If you want to use pdf feature we suggest you to delete all previous "
+"templates and import pdf supported templates"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:107
+msgid "Import Diwali Template"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:115
+msgid "Import Christmas Template"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:484
+msgid "Coupon amount is changed and Mail is Successfully Send."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:895
+msgid "Order Id"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:896
+#: includes/woocommerce-ultimate-gift-card-class.php:926
+msgid "Coupon Code"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:900
+msgid "Usage Count"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:901
+msgid "Coupon Amount Left"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:925
+msgid "Id"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:930
+msgid "Coupon Amount"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1017
+msgid "Mail not send as scheduled date is not reached."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1181
+msgid "Mail Sent Successfully."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1297
+#: includes/woocommerce-ultimate-gift-card-class.php:1380
+msgid "Giftcard Scheduled Date has not been reached for some products."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1449
+msgid "Your Giftcard Coupon is expired."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1592
+msgid "Email successfully sent"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1652
+msgid "Resend Giftcard Mail"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1653
+msgid "Resend Giftcard by changing amount"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1755
+msgid "You can resend the Gift Card Coupon by increasing its amount."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1760
+msgid "Select the product"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1765
+msgid "Select the product coupon for changing the amount"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1769
+msgid "Select Coupons"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1782
+msgid "Enter the price"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1787
+msgid "Enter the new amount of the coupon."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1796
+msgid "Change amount and send mail"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1824
+msgid "If user is not received giftcard email then resend mail."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1881
+msgid "Gift Coupon"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1905
+#: includes/woocommerce-ultimate-gift-card-class.php:1907
+msgid "Gift Cards"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1910
+msgid "Add New Gift Card"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1911
+msgid "New Gift Card"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1912
+msgid "Edit Gift Card"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1913
+msgid "View Gift Card"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1914
+msgid "All Gift Cards"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1915
+msgid "Search Gift Cards"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1916
+msgid "Parent Gift Cards:"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1917
+msgid "No giftcards found."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1918
+msgid "No giftcards found in Trash."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1923
+msgid "Description."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1977
+msgid "Instruction for using Shortcode"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1981
+msgid "SHORTCODE"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1982
+msgid "DESCRIPTION."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1986
+msgid "Replace with logo of company on email template."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1990
+msgid "Replace with email of user to which giftcard send."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1994
+msgid "Replace with email of user who send the giftcard."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:1998
+msgid "Replace with Message of user who send the giftcard."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2002
+msgid "Replace with Giftcard Amount."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2006
+msgid "Replace with Giftcard Coupon Code."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2010
+msgid "Replace with Default event image set on Setting."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2014
+msgid "Replace with Giftcard Expiry Date."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2018
+msgid "Replace with Disclaimer on Giftcard."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2022
+msgid "Replace with Featured Image on Giftcard."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2045
+msgid "WooCommerce Gift Manager"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2045
+msgid "Gift Manager"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2131
+#: includes/woocommerce-ultimate-gift-card-class.php:2296
+msgid "Default Price"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2131
+msgid "Gift card default price."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2132
+msgid "Pricing type"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2136
+msgid "From Price"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2136
+msgid "Gift card price range start from."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2138
+msgid "To Price"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2138
+msgid "Gift card price range end to."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2141
+msgid "Enter an price using seperator |. Ex : (10 | 20)"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2145
+#: includes/woocommerce-ultimate-gift-card-class.php:2150
+msgid "Instruction"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2146
+msgid "WooCommerce Product regular price is used as a gift card price."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2151
+msgid "User can purchase any amount of Gift Card."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2155
+msgid "Give Discount ?"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2189
+msgid "Which template you want to be selected by default?"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2197
+msgid "Select the template from above field "
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2246
+msgid "Exclude Category"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2273
+msgid "Overwrite Delivery"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2275
+msgid "Download"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2297
+msgid "Price Range"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2298
+msgid "Selected Price"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2299
+msgid "User Price"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2331
+msgid "Select the template from above field"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2374
+msgid "Enable the Woocommerce Ultimate Giftcard"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2375
+msgid "Enable the Extension for using all the functionalites"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2387
+msgid "Enable Tax for Giftcard"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2388
+msgid ""
+"Enable this checkbox for enabling the Tax calculation for Giftcard Products"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2399
+msgid "Enable Date for Giftcard"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2400
+msgid ""
+"Enable this, If you want to show the Date for Giftcard Product on Single "
+"Product Page"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2411
+msgid "Enable Giftcard on Shop Page"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2412
+msgid "Enable this if you want to list out your GIftcard product on shop pages"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2424
+msgid "Enter the length of Giftcard Coupons"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2435
+msgid "Enter Your Required Prefix"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2436
+msgid ""
+"Any combination of letter you want to use as prefix for generating the Gift "
+"Coupons"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2447
+msgid "Enter Expiry for Giftcard Coupon"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2448
+msgid ""
+"The enterd number will be calculated as expiry date over the Giftcard "
+"coupons after purchasing"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2459
+msgid "Select Payment Method"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2460
+msgid "Choose the payment method for Giftcard Products"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2472
+#: includes/woocommerce-ultimate-gift-card-class.php:2476
+msgid "empty"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2501
+#: includes/woocommerce-ultimate-gift-card-class.php:2545
+#, php-format
+msgid "Please enter in decimal (%s) format without thousand separators."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2503
+#: includes/woocommerce-ultimate-gift-card-class.php:2547
+#, php-format
+msgid ""
+"Please enter in monetary decimal (%s) format without thousand separators and "
+"currency symbols."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2504
+#: includes/woocommerce-ultimate-gift-card-class.php:2548
+msgid "Please enter in country code with two capital letters."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2505
+#: includes/woocommerce-ultimate-gift-card-class.php:2549
+msgid "Please enter in a value less than the regular price."
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2510
+#: includes/woocommerce-ultimate-gift-card-class.php:2554
+msgid "Export"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2523
+msgid "Hide Sidebar"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2524
+msgid "Show Sidebar"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2525
+msgid "View More Features"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2776
+#: includes/woocommerce-ultimate-gift-card-class.php:2785
+msgid "Fail due to an error"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2818
+#: includes/woocommerce-ultimate-gift-card-class.php:2839
+msgid "Manually Increment Usage"
+msgstr ""
+
+#: includes/woocommerce-ultimate-gift-card-class.php:2820
+#: includes/woocommerce-ultimate-gift-card-class.php:2841
+msgid "Number of times coupon has been used"
+msgstr ""

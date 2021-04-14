@@ -1,0 +1,24 @@
+
+Aug 07, 2018 16.09.45: Uncaught Error: Class 'SoapClient' not found in /var/www/html/wp-content/plugins/vexsoluciones-woocommerce-pago-efectivo-7523e88f58e8/includes/class-pagoefectivo-service-abstract.php:51
+Stack trace:
+#0 /var/www/html/wp-content/plugins/vexsoluciones-woocommerce-pago-efectivo-7523e88f58e8/includes/class-pagoefectivo-crypto.php(69): VGP_Pagoefectivo_Service_Abstract->_loadService('Signer', Array)
+#1 /var/www/html/wp-content/plugins/vexsoluciones-woocommerce-pago-efectivo-7523e88f58e8/includes/class-pagoefectivo-service.php(77): VGP_Pagoefectivo_Crypto->signer(Object(VGP_Pagoefectivo_Solicitud))
+#2 /var/www/html/wp-content/plugins/vexsoluciones-woocommerce-pago-efectivo-7523e88f58e8/includes/class-pagoefectivo-service.php(58): VGP_Pagoefectivo_Service->solicitarPago(Object(VGP_Pagoefectivo_Solicitud))
+#3 /var/www/html/wp-content/plugins/vexsoluciones-woocommerce-pago-efectivo-7523e88f58e8/includes/class-gateway-pagoefectivo-transferencia.php(314): VGP_Pagoefectivo_Service->GenerarCip(Array)
+#4 /var/www/html/wp-co
+
+Aug 29, 2018 22.30.18: Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\mb_convert_encoding() in /var/www/html/wp-content/plugins/laravel-dd/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:432
+Stack trace:
+#0 /var/www/html/wp-content/plugins/laravel-dd/vendor/symfony/var-dumper/Dumper/CliDumper.php(154): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#1 /var/www/html/wp-content/plugins/laravel-dd/vendor/symfony/var-dumper/Cloner/Data.php(181): Symfony\Component\VarDumper\Dumper\CliDumper->dumpScalar(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'NULL', 'null')
+#2 /var/www/html/wp-content/plugins/laravel-dd/vendor/symfony/var-dumper/Cloner/Data.php(91): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object(PeterHegman\HtmlDumper), Object(Symfony\Component\VarDumper\Cloner\Cursor), Array, NULL)
+#3 /var/www/html/wp-content/plugins/laravel-dd/vendor/symfony/var-dumper/Dumper/AbstractDumper.php(126): Symfony\Component\VarDumper\Cloner\Data->dump(Object(PeterHegman\HtmlDumper))
+#4 /v
+
+Aug 29, 2018 22.30.34: Uncaught Error: Call to undefined function Symfony\Component\VarDumper\Dumper\mb_convert_encoding() in /var/www/html/wp-content/plugins/laravel-dd/vendor/symfony/var-dumper/Dumper/HtmlDumper.php:432
+Stack trace:
+#0 /var/www/html/wp-content/plugins/laravel-dd/vendor/symfony/var-dumper/Dumper/CliDumper.php(154): Symfony\Component\VarDumper\Dumper\HtmlDumper->dumpLine(0, true)
+#1 /var/www/html/wp-content/plugins/laravel-dd/vendor/symfony/var-dumper/Cloner/Data.php(181): Symfony\Component\VarDumper\Dumper\CliDumper->dumpScalar(Object(Symfony\Component\VarDumper\Cloner\Cursor), 'NULL', 'null')
+#2 /var/www/html/wp-content/plugins/laravel-dd/vendor/symfony/var-dumper/Cloner/Data.php(91): Symfony\Component\VarDumper\Cloner\Data->dumpItem(Object(PeterHegman\HtmlDumper), Object(Symfony\Component\VarDumper\Cloner\Cursor), Array, NULL)
+#3 /var/www/html/wp-content/plugins/laravel-dd/vendor/symfony/var-dumper/Dumper/AbstractDumper.php(126): Symfony\Component\VarDumper\Cloner\Data->dump(Object(PeterHegman\HtmlDumper))
+#4 /v

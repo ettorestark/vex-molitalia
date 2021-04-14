@@ -1,0 +1,132 @@
+
+Jun 03, 2019 18.21.27: Uncaught Error: Call to a member function get_shipping_packages() on null in /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/woocommerce-stuart.php:45
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): th_wc_init('')
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-woocommerce.php(489): do_action('woocommerce_ini...')
+#4 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): WooCommerce->init('')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /home/cementos/public_html/wp-settings.php(450): do_action('init')
+#8 /home/cementos/public_html/wp-config.php(81): require_once('/home/cementos/...')
+#9 /home/cementos/
+
+Jun 03, 2019 18.22.09: Uncaught Error: Call to a member function get_shipping_packages() on null in /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/woocommerce-stuart.php:41
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): th_wc_init('')
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-woocommerce.php(489): do_action('woocommerce_ini...')
+#4 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): WooCommerce->init('')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /home/cementos/public_html/wp-settings.php(450): do_action('init')
+#8 /home/cementos/public_html/wp-config.php(81): require_once('/home/cementos/...')
+#9 /home/cementos/
+
+Jun 03, 2019 18.22.31: Uncaught Error: Call to a member function get_shipping_packages() on null in /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/woocommerce-stuart.php:41
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): th_wc_init('')
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-woocommerce.php(489): do_action('woocommerce_ini...')
+#4 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): WooCommerce->init('')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /home/cementos/public_html/wp-settings.php(450): do_action('init')
+#8 /home/cementos/public_html/wp-config.php(81): require_once('/home/cementos/...')
+#9 /home/cementos/
+
+Jun 03, 2019 18.22.34: Uncaught Error: Cannot use object of type WP_Error as array in /home/cementos/public_html/wp-content/plugins/woocommerce-ultimate-gift-card/function/woocommerce-ultimate-gift-card-function.php:1287
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): MWB_WGM_Card_Product_Function->mwb_wgm_woocommerce_product_is_taxable(true, Object(WC_Product_Simple))
+#1 /home/cementos/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters(true, Array)
+#2 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1527): apply_filters('woocommerce_pro...', true, Object(WC_Product_Simple))
+#3 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(690): WC_Product->is_taxable()
+#4 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(619): WC_Cart_Totals->calculate_item_subtotals()
+#5 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(140)
+
+Jun 03, 2019 18.22.44: Uncaught Error: Cannot use object of type WP_Error as array in /home/cementos/public_html/wp-content/plugins/woocommerce-ultimate-gift-card/function/woocommerce-ultimate-gift-card-function.php:1287
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): MWB_WGM_Card_Product_Function->mwb_wgm_woocommerce_product_is_taxable(true, Object(WC_Product_Simple))
+#1 /home/cementos/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters(true, Array)
+#2 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1527): apply_filters('woocommerce_pro...', true, Object(WC_Product_Simple))
+#3 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(690): WC_Product->is_taxable()
+#4 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(619): WC_Cart_Totals->calculate_item_subtotals()
+#5 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(140)
+
+Jun 03, 2019 18.23.44: Uncaught Error: Cannot use object of type WP_Error as array in /home/cementos/public_html/wp-content/plugins/woocommerce-ultimate-gift-card/function/woocommerce-ultimate-gift-card-function.php:1287
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): MWB_WGM_Card_Product_Function->mwb_wgm_woocommerce_product_is_taxable(true, Object(WC_Product_Simple))
+#1 /home/cementos/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters(true, Array)
+#2 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1527): apply_filters('woocommerce_pro...', true, Object(WC_Product_Simple))
+#3 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(690): WC_Product->is_taxable()
+#4 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(619): WC_Cart_Totals->calculate_item_subtotals()
+#5 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(140)
+
+Jun 03, 2019 18.23.46: Uncaught Error: Cannot use object of type WP_Error as array in /home/cementos/public_html/wp-content/plugins/woocommerce-ultimate-gift-card/function/woocommerce-ultimate-gift-card-function.php:1287
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): MWB_WGM_Card_Product_Function->mwb_wgm_woocommerce_product_is_taxable(true, Object(WC_Product_Simple))
+#1 /home/cementos/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters(true, Array)
+#2 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1527): apply_filters('woocommerce_pro...', true, Object(WC_Product_Simple))
+#3 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(690): WC_Product->is_taxable()
+#4 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(619): WC_Cart_Totals->calculate_item_subtotals()
+#5 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(140)
+
+Jun 03, 2019 18.23.47: Uncaught Error: Cannot use object of type WP_Error as array in /home/cementos/public_html/wp-content/plugins/woocommerce-ultimate-gift-card/function/woocommerce-ultimate-gift-card-function.php:1287
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): MWB_WGM_Card_Product_Function->mwb_wgm_woocommerce_product_is_taxable(true, Object(WC_Product_Simple))
+#1 /home/cementos/public_html/wp-includes/plugin.php(203): WP_Hook->apply_filters(true, Array)
+#2 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1527): apply_filters('woocommerce_pro...', true, Object(WC_Product_Simple))
+#3 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(690): WC_Product->is_taxable()
+#4 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(619): WC_Cart_Totals->calculate_item_subtotals()
+#5 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-cart-totals.php(140)
+
+Jun 05, 2019 17.24.13: Uncaught League\OAuth2\Client\Provider\Exception\IdentityProviderException: invalid_client in /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/GenericProvider.php:222
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/AbstractProvider.php(628): League\OAuth2\Client\Provider\GenericProvider->checkResponse(Object(GuzzleHttp\Psr7\Response), Array)
+#1 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/AbstractProvider.php(537): League\OAuth2\Client\Provider\AbstractProvider->getParsedResponse(Object(GuzzleHttp\Psr7\Request))
+#2 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/stuartapp/stuart-client-php/src/Stuart/Infrastructure/Authenticator.php(72): League\OAuth2\Client\Provider\AbstractProvider->getAccessToken(Object(League\OAuth2\Client\Grant\ClientCredentials))
+#3 /home/cementos/public_html/wp-content/plug
+
+Jun 05, 2019 17.26.23: Uncaught League\OAuth2\Client\Provider\Exception\IdentityProviderException: invalid_client in /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/GenericProvider.php:222
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/AbstractProvider.php(628): League\OAuth2\Client\Provider\GenericProvider->checkResponse(Object(GuzzleHttp\Psr7\Response), Array)
+#1 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/AbstractProvider.php(537): League\OAuth2\Client\Provider\AbstractProvider->getParsedResponse(Object(GuzzleHttp\Psr7\Request))
+#2 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/stuartapp/stuart-client-php/src/Stuart/Infrastructure/Authenticator.php(72): League\OAuth2\Client\Provider\AbstractProvider->getAccessToken(Object(League\OAuth2\Client\Grant\ClientCredentials))
+#3 /home/cementos/public_html/wp-content/plug
+
+Jun 05, 2019 17.27.16: Uncaught League\OAuth2\Client\Provider\Exception\IdentityProviderException: invalid_client in /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/GenericProvider.php:222
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/AbstractProvider.php(628): League\OAuth2\Client\Provider\GenericProvider->checkResponse(Object(GuzzleHttp\Psr7\Response), Array)
+#1 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/AbstractProvider.php(537): League\OAuth2\Client\Provider\AbstractProvider->getParsedResponse(Object(GuzzleHttp\Psr7\Request))
+#2 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/stuartapp/stuart-client-php/src/Stuart/Infrastructure/Authenticator.php(72): League\OAuth2\Client\Provider\AbstractProvider->getAccessToken(Object(League\OAuth2\Client\Grant\ClientCredentials))
+#3 /home/cementos/public_html/wp-content/plug
+
+Jun 05, 2019 17.27.22: Uncaught League\OAuth2\Client\Provider\Exception\IdentityProviderException: invalid_client in /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/GenericProvider.php:222
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/AbstractProvider.php(628): League\OAuth2\Client\Provider\GenericProvider->checkResponse(Object(GuzzleHttp\Psr7\Response), Array)
+#1 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/AbstractProvider.php(537): League\OAuth2\Client\Provider\AbstractProvider->getParsedResponse(Object(GuzzleHttp\Psr7\Request))
+#2 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/stuartapp/stuart-client-php/src/Stuart/Infrastructure/Authenticator.php(72): League\OAuth2\Client\Provider\AbstractProvider->getAccessToken(Object(League\OAuth2\Client\Grant\ClientCredentials))
+#3 /home/cementos/public_html/wp-content/plug
+
+Jun 05, 2019 17.27.25: Uncaught League\OAuth2\Client\Provider\Exception\IdentityProviderException: invalid_client in /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/GenericProvider.php:222
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/AbstractProvider.php(628): League\OAuth2\Client\Provider\GenericProvider->checkResponse(Object(GuzzleHttp\Psr7\Response), Array)
+#1 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/AbstractProvider.php(537): League\OAuth2\Client\Provider\AbstractProvider->getParsedResponse(Object(GuzzleHttp\Psr7\Request))
+#2 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/stuartapp/stuart-client-php/src/Stuart/Infrastructure/Authenticator.php(72): League\OAuth2\Client\Provider\AbstractProvider->getAccessToken(Object(League\OAuth2\Client\Grant\ClientCredentials))
+#3 /home/cementos/public_html/wp-content/plug
+
+Jun 05, 2019 17.27.49: Uncaught League\OAuth2\Client\Provider\Exception\IdentityProviderException: invalid_client in /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/GenericProvider.php:222
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/AbstractProvider.php(628): League\OAuth2\Client\Provider\GenericProvider->checkResponse(Object(GuzzleHttp\Psr7\Response), Array)
+#1 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/league/oauth2-client/src/Provider/AbstractProvider.php(537): League\OAuth2\Client\Provider\AbstractProvider->getParsedResponse(Object(GuzzleHttp\Psr7\Request))
+#2 /home/cementos/public_html/wp-content/plugins/woocommerce-stuart/vendor/stuartapp/stuart-client-php/src/Stuart/Infrastructure/Authenticator.php(72): League\OAuth2\Client\Provider\AbstractProvider->getAccessToken(Object(League\OAuth2\Client\Grant\ClientCredentials))
+#3 /home/cementos/public_html/wp-content/plug
+
+Jun 06, 2019 17.37.29: Cannot declare class WGSP_Validate, because the name is already in use
+
+Jun 06, 2019 17.37.31: Cannot declare class WGSP_Validate, because the name is already in use
+
+Jun 06, 2019 17.37.31: Cannot declare class WGSP_Validate, because the name is already in use

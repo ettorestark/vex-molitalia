@@ -1,0 +1,454 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce order delivery or pickup with date and time\n"
+"POT-Creation-Date: 2018-01-27 19:47+0530\n"
+"PO-Revision-Date: 2018-01-27 19:47+0530\n"
+"Last-Translator: \n"
+"Language-Team: BYCONSOLE support@byconsole.com\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ByConsoleWooODT.php\n"
+"X-Poedit-SearchPath-1: inc/admin.php\n"
+
+#: ByConsoleWooODT.php:48
+msgid "Order delivery time widget"
+msgstr "Widget do tempo de entrega da ordem"
+
+#: ByConsoleWooODT.php:50
+msgid "Widget for users to choose time and date of delivery"
+msgstr "Widget para usuários escolher hora e data de entrega"
+
+#: ByConsoleWooODT.php:91 ByConsoleWooODT.php:248 ByConsoleWooODT.php:367
+#: ByConsoleWooODT.php:405 ByConsoleWooODT.php:444
+msgid "Take away"
+msgstr "Leve embora"
+
+#: ByConsoleWooODT.php:98 ByConsoleWooODT.php:256 ByConsoleWooODT.php:377
+#: ByConsoleWooODT.php:415 ByConsoleWooODT.php:454
+msgid "Delivery"
+msgstr "Distribuição"
+
+#: ByConsoleWooODT.php:105 ByConsoleWooODT.php:264 ByConsoleWooODT.php:286
+msgid "Select date"
+msgstr "Escolha a data"
+
+#: ByConsoleWooODT.php:112 ByConsoleWooODT.php:272 ByConsoleWooODT.php:293
+msgid "Select time"
+msgstr "Escolha o tempo"
+
+#: ByConsoleWooODT.php:194
+msgid "New title"
+msgstr "Novo título"
+
+#: ByConsoleWooODT.php:199
+msgid "Title:"
+msgstr "Título:"
+
+#: ByConsoleWooODT.php:279
+msgid "Select order type"
+msgstr "Escolha o tipo de ordem"
+
+#: ByConsoleWooODT.php:300
+msgid "Select delivery type"
+msgstr "Selecione o tipo de entrega"
+
+#: ByConsoleWooODT.php:337
+msgid "Enter your desired delivery date."
+msgstr "Digite a data de entrega desejada."
+
+#: ByConsoleWooODT.php:339
+msgid "Enter your desired delivery time."
+msgstr "Digite o tempo de entrega desejado."
+
+#: ByConsoleWooODT.php:380 ByConsoleWooODT.php:418 ByConsoleWooODT.php:457
+msgid "Delivery date"
+msgstr "Data de entrega"
+
+#: ByConsoleWooODT.php:381 ByConsoleWooODT.php:419 ByConsoleWooODT.php:458
+msgid "Delivery time"
+msgstr "Tempo de entrega"
+
+#: ByConsoleWooODT.php:382 ByConsoleWooODT.php:420 ByConsoleWooODT.php:459
+msgid "Delivery type"
+msgstr "Tipo de entrega"
+
+#: ByConsoleWooODT.php:708 ByConsoleWooODT.php:738
+msgid "We are closed now, please select another day"
+msgstr "Estamos fechados agora, selecione outro dia"
+
+#: ByConsoleWooODT.php:829 ByConsoleWooODT.php:848
+msgid "Please select date again"
+msgstr "Selecione a data novamente"
+
+#: inc/admin.php:20
+msgid "The pro version includes:"
+msgstr "A versão pro inclui:"
+
+#: inc/admin.php:21
+msgid "1) Set multiple delivery/pickup locations as many as you wish."
+msgstr "1) Defina vários locais de entrega / recolha, tanto quanto desejar."
+
+#: inc/admin.php:22
+msgid ""
+"2) Option to make your store as delivery only or pickup only or keep both."
+msgstr ""
+"2) Opção para fazer sua loja apenas como entrega ou retirada ou manter as "
+"duas."
+
+#: inc/admin.php:23
+msgid ""
+"3) Set shop closing days based on week/week-end days like (every Sunday/"
+"Monday/../..)"
+msgstr ""
+"3) Defina os dias de fechamento da loja com base nos dias de semana / semana "
+"como (todos os domingos / segunda-feira / ... / ..)"
+
+#: inc/admin.php:24
+msgid "4) Set casual holidays on each month calendar."
+msgstr "4) Defina feriados ocasionais em cada calendário do mês."
+
+#: inc/admin.php:25
+msgid "5) Set National/public holiday."
+msgstr "5) Defina o feriado nacional / público."
+
+#: inc/admin.php:26
+msgid "6) Set delivery/pickup break time."
+msgstr "6) Ajuste o tempo de intervalo de entrega / retirada."
+
+#: inc/admin.php:27
+msgid "7) Disable/enable delivery/pickup."
+msgstr "7) Desativar / ativar a entrega / retirada."
+
+#: inc/admin.php:28
+msgid "8) Minimum lead time / wait time."
+msgstr "8) Tempo mínimo de espera / tempo de espera."
+
+#: inc/admin.php:29
+msgid "9) Free support on up to three domains."
+msgstr "9) Suporte gratuito em até três domínios."
+
+#: inc/admin.php:30
+msgid "10) Set on which day(s) you will allow pickup."
+msgstr "10) Defina em qual dia (s) você irá permitir a retirada."
+
+#: inc/admin.php:31
+msgid "11) Set on which day(s) you will allow delivery."
+msgstr "11) Defina em qual dia (s) você permitirá a entrega."
+
+#: inc/admin.php:32
+msgid ""
+"12) Different delivery times for each delivery location (from v-1.0.3.0)."
+msgstr ""
+"12) Diferentes tempos de entrega para cada local de entrega (a partir de "
+"v-1.0.3.0)."
+
+#: inc/admin.php:33
+msgid "13) Order placing cutoff time for next day delivery (from v-1.0.6.0)."
+msgstr ""
+"13) Ordem de colocar o tempo de corte para entrega no dia seguinte (a partir "
+"de v-1.0.6.0)."
+
+#: inc/admin.php:34
+msgid ""
+"14) Set minimum order value for each pickup location and/or delivery area "
+"(from v-1.0.3.0)."
+msgstr ""
+"14) Defina o valor mínimo da ordem para cada local de captação e / ou área "
+"de entrega (a partir de v-1.0.3.0)."
+
+#: inc/admin.php:35
+msgid ""
+"15)Extra delivery charges for same day/next day/day after tomorrow delivery "
+"(from v-1.0.6.0 and with another addon)."
+msgstr ""
+"15) Encargos de entrega extra para o mesmo dia / dia seguinte / dia após a "
+"entrega de amanhã (a partir de v-1.0.6.0 e com outro complemento)."
+
+#: inc/admin.php:36
+msgid ""
+"16)Day based delivery/pickup times for each delivery/pickup location (from "
+"v-1.0.4.0)."
+msgstr ""
+"16) Horários de entrega / recolha baseados em dia para cada local de "
+"entrega / recolha (a partir de v-1.0.4.0)."
+
+#: inc/admin.php:37
+msgid ""
+"27)Each delivery and pickup location can have separate email address to "
+"receive new order notification mail (from v-1.0.4.0)."
+msgstr ""
+"27) Cada local de entrega e recolha pode ter um endereço de e-mail separado "
+"para receber novo correio de notificação de pedido (a partir de v-1.0.4.0)."
+
+#: inc/admin.php:38
+msgid ""
+"18)Order placing cut off time for next day delivery/pickup (from v-1.0.4.1)."
+msgstr ""
+"18) Ordem de colocar o tempo de corte para entrega / recolhimento no próximo "
+"dia (a partir de v-1.0.4.1)."
+
+#: inc/admin.php:39
+msgid ""
+"19)Short code to list up all your delivery/pickup points(from v-1.0.5.0)."
+msgstr ""
+"19) Código curto para listar todos os seus pontos de entrega / retirada (a "
+"partir de v-1.0.5.0)."
+
+#: inc/admin.php:40
+msgid ""
+"20)Short code to place order type date time location widget on anywhere(from "
+"v-1.0.5.0)."
+msgstr ""
+"20) Código curto para colocar o widget de localização da hora do tipo de "
+"ordem em qualquer lugar (a partir de v-1.0.5.0)."
+
+#: inc/admin.php:41
+msgid ""
+"21)Short code to display order date time location and type on any other "
+"pages/plugin(from v-1.0.5.0)."
+msgstr ""
+"21) Código curto para exibir a localização da hora da ordem e digite em "
+"outras páginas / plugins (da v-1.0.5.0)."
+
+#: inc/admin.php:42
+msgid ""
+"22)Lead time management for orders posted on store closing days(from "
+"v-1.0.6.0)."
+msgstr ""
+"22) Gerenciamento de lead time para ordens postadas nos dias de encerramento "
+"da loja (a partir de v-1.0.6.0)."
+
+#: inc/admin.php:43
+msgid ""
+"23)Option to limit number of orders per time slot per location(from "
+"v-1.0.6.0)."
+msgstr ""
+"23) Opção para limitar o número de pedidos por intervalo de tempo por local "
+"(a partir de v-1.0.6.0)."
+
+#: inc/admin.php:44
+msgid ""
+"24)Assign extra shipping charges per delivery areas / pickup hubs (from "
+"v-1.0.6.0)."
+msgstr ""
+"24) Atribuir taxas de envio extra por áreas de entrega / hubs de retirada (a "
+"partir de v-1.0.6.0)."
+
+#: inc/admin.php:45
+msgid ""
+"25)Provide discount when it is pick up or add extra charge when it is "
+"delivery (With our another plugin)."
+msgstr ""
+"25) Fornecer desconto quando é retirar ou adicionar cobrança extra quando é "
+"entrega (Com nosso outro plugin)."
+
+#: inc/admin.php:46
+msgid ""
+"26)Product wise location based sale record and option export to CSV file "
+"(With our  another plugin)."
+msgstr ""
+"26) Registro e registro de vendas baseados em localização sábio do produto e "
+"exportação de opções para arquivo CSV (Com nosso outro plug-in)."
+
+#: inc/admin.php:47
+msgid ""
+"27) Get location on map and customer can pick a location directly from "
+"map(with map add-on plugin)."
+msgstr ""
+"27) Obter localização no mapa e o cliente pode escolher um local diretamente "
+"do mapa (com plug-in de complemento de mapa)."
+
+#: inc/admin.php:48
+msgid ""
+"28) Suggest nearest pickup location by geo location calculation(with map add-"
+"on plugin)."
+msgstr ""
+"28) Sugira o local de captação mais próximo por cálculo de localização "
+"geográfica (com o complemento de mapa adicional)."
+
+#: inc/admin.php:49
+msgid "29) Create your custom slot for each location."
+msgstr "29) Crie seu slot personalizado para cada local."
+
+#: inc/admin.php:50
+msgid ""
+"30) Get customized/more extended copy to suit your all needs(may be paid)."
+msgstr ""
+"30) Obtenha uma cópia personalizada ou mais extensa para atender às suas "
+"necessidades (pode ser pago)."
+
+#: inc/admin.php:79 inc/admin.php:88 inc/admin.php:97 inc/admin.php:106
+#: inc/admin.php:127 inc/admin.php:137 inc/admin.php:140 inc/admin.php:150
+#: inc/admin.php:152 inc/admin.php:159 inc/admin.php:195 inc/admin.php:203
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/admin.php:80
+msgid "Texts to display on checkout page as section heading."
+msgstr "Textos para exibir na página de pagamento como título da seção."
+
+#: inc/admin.php:89
+msgid "displayed as calendar label on checkout page."
+msgstr "exibido como rótulo de calendário na página de checkout."
+
+#: inc/admin.php:98 inc/admin.php:107
+msgid "displayed as time drop-down label on checkout page."
+msgstr "exibido como rótulo drop-down de tempo na página de check-out."
+
+#: inc/admin.php:121
+msgid "24 hours or 12 hours with AM / PM."
+msgstr "24 horas ou 12 horas com AM / PM."
+
+#: inc/admin.php:128
+msgid ""
+"Leave blank to not set and pre-order days, this is number of days customer "
+"can pre order in advance."
+msgstr ""
+"Deixe em branco para não definir e dias de pré-encomenda, este é o número de "
+"dias em que o cliente pode solicitar antecipadamente."
+
+#: inc/admin.php:136 inc/admin.php:149
+msgid "From"
+msgstr "A partir de"
+
+#: inc/admin.php:139 inc/admin.php:151
+msgid "To"
+msgstr "Para"
+
+#: inc/admin.php:143
+msgid "Allowable Pickup Time."
+msgstr "Tempo de recolha admissível."
+
+#: inc/admin.php:153
+msgid "Allowable Delivery Time."
+msgstr "Tempo de entrega permitido."
+
+#: inc/admin.php:160
+msgid "This is visible on widget front end if customer has chosen delivery."
+msgstr "Isso é visível no front-end do widget se o cliente escolher a entrega."
+
+#: inc/admin.php:168
+msgid "Take away label shown on checkout page and in widget."
+msgstr "Isso é visível no front-end do widget se o cliente escolher a entrega."
+
+#: inc/admin.php:175
+msgid "Delivery label shown on checkout page and in widget."
+msgstr "Etiqueta de entrega mostrada na página de checkout e no widget."
+
+#: inc/admin.php:182
+msgid "Placeholder text for date-picker calendar input box."
+msgstr ""
+"Texto do espaço reservado para a caixa de entrada do calendário do "
+"selecionador de data."
+
+#: inc/admin.php:189
+msgid "Placeholder text for time drop-down input box."
+msgstr "Texto reservado para a caixa de entrada drop-down de tempo."
+
+#: inc/admin.php:196
+msgid "This is the text showed in Order Delivered page."
+msgstr "Este é o texto mostrado na página entre encomendas."
+
+#: inc/admin.php:197
+msgid "Eg: The order will be delivered on"
+msgstr "Por exemplo: a ordem será entregue em"
+
+#: inc/admin.php:197 inc/admin.php:205
+msgid "at"
+msgstr "em"
+
+#: inc/admin.php:204
+msgid "This is the text showed in Order Picked Up page."
+msgstr "Este é o texto mostrado na página Recebida por Pedidos."
+
+#: inc/admin.php:205
+msgid "Eg: The order can be Picked Up on"
+msgstr "Por exemplo: a ordem pode ser escolhida em"
+
+#: inc/admin.php:216
+msgid ""
+"Choose if tracking text have to be shown on top(before order product list) "
+"or bottom(after product list)."
+msgstr ""
+"Escolha se o texto de rastreamento deve ser mostrado na parte superior "
+"(antes da lista de produtos da ordem) ou inferior (após a lista do produto)."
+
+#: inc/admin.php:222
+msgid "Preorder Days:"
+msgstr "Dias Pré-requisito:"
+
+#: inc/admin.php:223
+msgid "Opening Hours:"
+msgstr "Horário de funcionamento:"
+
+#: inc/admin.php:224
+msgid "Delivery Hours:"
+msgstr "Horas de entrega:"
+
+#: inc/admin.php:225
+msgid "Minimum delivery Times:"
+msgstr "Prazos mínimos de entrega:"
+
+#: inc/admin.php:226
+msgid "Pickup lable text:"
+msgstr "Texto da etiqueta de retirada:"
+
+#: inc/admin.php:227
+msgid "Delivery lable text:"
+msgstr "Texto do rótulo de entrega:"
+
+#: inc/admin.php:228
+msgid "Date field text:"
+msgstr "Texto do campo de data:"
+
+#: inc/admin.php:229
+msgid "Time field text:"
+msgstr "Texto do campo de tempo:"
+
+#: inc/admin.php:230
+msgid "The order will be delivered:"
+msgstr "O pedido será entregue:"
+
+#: inc/admin.php:231
+msgid "The order can be Pickup:"
+msgstr "A ordem pode ser Pickup:"
+
+#: inc/admin.php:232
+msgid "Position of the text in the orders page:"
+msgstr "Posição do texto na página de pedidos:"
+
+#: inc/admin.php:233
+msgid "Checkout page section heading"
+msgstr "Cabeçalho da seção da página de compras"
+
+#: inc/admin.php:234
+msgid "Order type label on checkout page:"
+msgstr "Etiqueta do tipo de pedido na página de checkout:"
+
+#: inc/admin.php:235
+msgid "Calendar label on checkout page:"
+msgstr "Etiqueta do calendário na página de checkout:"
+
+#: inc/admin.php:236
+msgid "Time select label on checkout page:"
+msgstr "Etiqueta de seleção de tempo na página de checkout:"
+
+#: inc/admin.php:237
+msgid "Time format:"
+msgstr "Formato do tempo:"
+
+#~ msgid "Enter delivery date"
+#~ msgstr "Insira a data de entrega"
+
+#~ msgid "Enter delivery time"
+#~ msgstr "Insira o tempo de entrega"
+
+#~ msgid "2) Disable/enable multiple delivery/pickup locations."
+#~ msgstr "2) Desativar / ativar vários locais de entrega / pickup."

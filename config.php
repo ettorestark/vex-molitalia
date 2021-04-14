@@ -1,0 +1,1 @@
+/home/molitalia/public_html/config.php

@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Sitemap: https://molitalia.vexecommerce.com/sitemap_1.xml
+Sitemap: https://molitalia.vexecommerce.com/sitemap.xml
+Sitemap: https://molitalia.vexecommerce.com/sitemap_3.xml
+Sitemap: https://molitalia.vexecommerce.com/sitemap_2.xml
+Sitemap: https://molitalia.vexecommerce.com/sitemap_4.xml
+Sitemap: https://molitalia.vexecommerce.com/sitemap_5.xml

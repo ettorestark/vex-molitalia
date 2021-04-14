@@ -1,0 +1,20 @@
+{
+  "generator-plugin-wp": {
+    "name": "Vexsoluciones Peru Ubigeo",
+    "homepage": "https://www.pasarelasdepagos.com",
+    "description": "Agrega campos de ubigeo para el formulario del checkout de wordpress",
+    "version": "1.0",
+    "author": "vexsoluciones",
+    "authoremail": "https://www.pasarelasdepagos.com",
+    "authorurl": "https://www.pasarelasdepagos.com",
+    "license": "GPLv2",
+    "slug": "vexsoluciones-peru-ubigeo",
+    "classname": "Vexsoluciones_Peru_Ubigeo",
+    "mainclassname": "Vexsoluciones_Peru_Ubigeo",
+    "classprefix": "VPU_",
+    "prefix": "vexsoluciones_peru_ubigeo",
+    "year": 2019,
+    "currentVersionWP": "4.8.1",
+    "plugingenversion": "0.20.2"
+  }
+}

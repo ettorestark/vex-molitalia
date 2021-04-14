@@ -1,0 +1,33 @@
+/*
+* Woocommerce Olva Courier
+* https://www.pasarelasdepagos.com/shop/peru/woocommerce/plugin-woocommerce-olva/
+*
+* Copyright (c) 2019 vexsoluciones
+* Licensed under the GPLv2+ license.
+*/
+/* 
+    Created on : 27/06/2019, 05:57:09 PM
+    Author     : jedi
+*/
+.select2-container {
+  width: 100% !important; }
+
+.olva-location-field-inner {
+  position: relative;
+  margin-top: -20px; }
+  .olva-location-field-inner #olva_location {
+    padding-right: 27px; }
+  .olva-location-field-inner .find-me-location {
+    position: absolute;
+    top: 13px;
+    right: 6px;
+    cursor: pointer; }
+
+.olva-location-field .olva-location-field-map {
+  height: 300px;
+  width: 100%; }
+
+.hidden {
+  display: none; }
+
+/*# sourceMappingURL=checkout.css.map */

@@ -1,0 +1,550 @@
+
+Apr 16, 2019 17.15.47: Cannot redeclare customise_checkout_field_chazki() (previously declared in /home/cementos/public_html/wp-content/plugins/woocommerce-chaski-vexsoluciones/woocommerce-chaski-vexsoluciones.php:544)
+
+Apr 16, 2019 17.15.49: Cannot redeclare customise_checkout_field_chazki() (previously declared in /home/cementos/public_html/wp-content/plugins/woocommerce-chaski-vexsoluciones/woocommerce-chaski-vexsoluciones.php:544)
+
+Apr 16, 2019 17.15.49: Cannot redeclare customise_checkout_field_chazki() (previously declared in /home/cementos/public_html/wp-content/plugins/woocommerce-chaski-vexsoluciones/woocommerce-chaski-vexsoluciones.php:544)
+
+Apr 16, 2019 17.16.32: Cannot redeclare latInit_render() (previously declared in /home/cementos/public_html/wp-content/plugins/woocommerce-chaski-vexsoluciones/woocommerce-chaski-vexsoluciones.php:166)
+
+Apr 16, 2019 17.16.33: Cannot redeclare latInit_render() (previously declared in /home/cementos/public_html/wp-content/plugins/woocommerce-chaski-vexsoluciones/woocommerce-chaski-vexsoluciones.php:166)
+
+Apr 16, 2019 17.16.34: Cannot redeclare latInit_render() (previously declared in /home/cementos/public_html/wp-content/plugins/woocommerce-chaski-vexsoluciones/woocommerce-chaski-vexsoluciones.php:166)
+
+Apr 16, 2019 17.26.29: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:353
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(383): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 17.30.22: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:353
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(383): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 17.41.08: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:386
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(416): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 17.42.05: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:386
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(416): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 17.44.39: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:380
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(410): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 18.02.28: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 18.20.28: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 18.27.15: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 18.31.04: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 18.36.09: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 18.38.28: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 18.56.29: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 19.14.28: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 19.32.29: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 19.50.29: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 20.08.29: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 20.26.29: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 20.44.29: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 21.13.19: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 21.38.28: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 22.14.29: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 22.40.40: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 22.50.28: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 23.08.28: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 23.13.04: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 23.13.59: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 23.35.48: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 23.47.33: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 23.57.13: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 23.58.04: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:299
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(329): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 23.59.49: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:301
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(335): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 16, 2019 23.59.52: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:301
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(335): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 17, 2019 00.00.59: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:302
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(337): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 17, 2019 00.01.15: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:303
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(338): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 17, 2019 00.01.36: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:304
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(339): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 17, 2019 00.02.21: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:304
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(339): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 17, 2019 00.02.23: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:304
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(339): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 17, 2019 00.02.28: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:304
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(339): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 17, 2019 00.03.33: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:304
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(339): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 17, 2019 00.03.34: Uncaught Error: Cannot unset string offsets in /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php:304
+Stack trace:
+#0 /home/cementos/public_html/wp-content/plugins/woocommerce-glovo/woocommerce-glovo.php(339): obtenerPolylines(NULL)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): glovo_scripts_init('')
+#2 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cementos/public_html/wp-includes/script-loader.php(1447): do_action('wp_enqueue_scri...')
+#5 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): wp_enqueue_scripts('')
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#8 /home/cementos/public_html/wp-includes/general-template.php(2614): do_action('wp_head')
+#9 /home/cemen
+
+Apr 23, 2019 23.32.18: Uncaught Error: Call to a member function get_instance_option_key() on boolean in /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:2609
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::shipping_zone_methods_save_changes('')
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/cementos/public_html/wp-admin/admin-ajax.php(100): do_action('wp_ajax_woocomm...')
+#4 {main}
+  thrown
+
+Apr 24, 2019 16.08.19: Uncaught Error: Call to a member function get_instance_option_key() on boolean in /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:2609
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): WC_AJAX::shipping_zone_methods_save_changes('')
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/cementos/public_html/wp-admin/admin-ajax.php(100): do_action('wp_ajax_woocomm...')
+#4 {main}
+  thrown

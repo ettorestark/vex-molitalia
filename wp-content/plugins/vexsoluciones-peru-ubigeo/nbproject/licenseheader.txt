@@ -1,0 +1,11 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}* Woocommerce Peru Ubigeos
+${licensePrefix}* https://www.pasarelasdepagos.com/
+${licensePrefix}*
+${licensePrefix}* Copyright (c) 2019 vexsoluciones
+${licensePrefix}* Licensed under the GPLv2+ license.
+<#if licenseLast??>
+${licenseLast}
+</#if>

@@ -1,0 +1,169 @@
+
+
+#facturacion_panel .column-num{
+	width: 60px;
+	text-align: center;
+}
+
+
+#facturacion_panel .column-codigo{
+	width: 100px;
+	text-align: center;
+}
+
+
+
+#facturacion_panel .column-cliente{
+	width: 320px;
+}
+
+
+#facturacion_panel .column-fecha{
+	width: 120px;
+	text-align: center;
+}
+
+
+
+.vex-db-buttons{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+.vex-db-buttons button{
+	margin-left: 30px;
+}
+
+
+.btn_estado_pendiente {
+
+}
+
+.btn_estado_ok{
+	color:#53ea17 !important;
+}
+
+.btn_estado_problem{
+	color:#ed0404 !important;
+}
+
+.btn_estado_reenviar{
+	color: #dd0808 !important;
+}
+
+.vex-db-form{
+	background-color: white;
+	border:1px solid #d6d6d6;
+	padding:20px;
+	font-size: 16px;
+}
+
+
+.button a{
+	text-decoration: none;
+	color:inherit;
+}
+
+.fexve-cabecera{
+	margin-bottom: 30px;
+}
+
+.vexfe-table .header{
+	background-color: gray;
+	color:white;
+}
+
+.vexfe-table td{
+  padding:5px;
+}
+
+.vexfe-resumen{
+	margin-top: 30px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.vexfe_panel_admin{
+
+}
+
+
+/*Alerts */
+
+
+.alert {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+.alert h4 {
+  margin-top: 0;
+  color: inherit;
+}
+.alert .alert-link {
+  font-weight: bold;
+}
+.alert > p,
+.alert > ul {
+  margin-bottom: 0;
+}
+.alert > p + p {
+  margin-top: 5px;
+}
+.alert-dismissable,
+.alert-dismissible {
+  padding-right: 35px;
+}
+.alert-dismissable .close,
+.alert-dismissible .close {
+  position: relative;
+  top: -2px;
+  right: -21px;
+  color: inherit;
+}
+.alert-success {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
+.alert-success hr {
+  border-top-color: #c9e2b3;
+}
+.alert-success .alert-link {
+  color: #2b542c;
+}
+.alert-info {
+  color: #31708f;
+  background-color: #d9edf7;
+  border-color: #bce8f1;
+}
+.alert-info hr {
+  border-top-color: #a6e1ec;
+}
+.alert-info .alert-link {
+  color: #245269;
+}
+.alert-warning {
+  color: #8a6d3b;
+  background-color: #fcf8e3;
+  border-color: #faebcc;
+}
+.alert-warning hr {
+  border-top-color: #f7e1b5;
+}
+.alert-warning .alert-link {
+  color: #66512c;
+}
+.alert-danger {
+  color: #a94442;
+  background-color: #f2dede;
+  border-color: #ebccd1;
+}
+.alert-danger hr {
+  border-top-color: #e4b9c0;
+}
+.alert-danger .alert-link {
+  color: #843534;
+}

@@ -1,0 +1,296 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+.byconsolewooodt_widget_date_field,.byconsolewooodt_widget_time_field{ width:50% !important; float:left;}
+
+p.buttons{ text-align:center;}
+
+input[type="submit"]{ width:300px;}
+
+p.min-shipping-time{ text-align:center;}
+
+p.min-shipping-time img{ height:30px; float:left;}
+
+
+
+#byconsolewooodt_checkout_field input[type="radio"]{float: left;  margin-top: 10px;}
+
+
+
+form select{ padding:7px; width:100%; margin-top: 5px; margin-bottom: 10px;}
+
+
+
+.byconsolewooodt_delivery_type_of_delivery_time_radio_box{float: left;margin-right: 8px;font-size: 12px;margin-top: 5px;font-weight: bold !important;}
+
+
+
+#byconsolewooodt_delivery_type_of_delivery_time_hidden_field{display:none;}
+
+
+
+/*.radio byconsolewooodt_delivery_type_of_widget_delivery_time_radio_box, label{font-size:12px !important;}*/
+
+
+
+p.byconsolewooodt_delivery_type{
+
+	
+
+	}
+
+
+
+.byconsolewooodt_delivery_type {
+
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif;
+  overflow: hidden;
+
+}
+
+
+
+.switch-title {
+
+  margin-bottom: 6px;
+
+}
+
+
+
+p.byc_service_time_closed{ color:#f00;}
+
+.byc_closed_now{ display:none;}
+
+
+
+.byconsolewooodt_delivery_type input {
+
+    position: absolute !important;
+
+    clip: rect(0, 0, 0, 0);
+
+    height: 1px;
+
+    width: 1px;
+
+    border: 0;
+
+    overflow: hidden;
+
+}
+
+
+
+.byconsolewooodt_delivery_type label[for="byconsolewooodt_delivery_type_take_away"],.byconsolewooodt_delivery_type label[for="byconsolewooodt_delivery_type_levering"] {
+
+  float: left;
+
+}
+
+
+
+.byconsolewooodt_delivery_type label[for="byconsolewooodt_delivery_type_take_away"].radio ,.byconsolewooodt_delivery_type label[for="byconsolewooodt_delivery_type_levering"].radio {
+
+  display: inline-block;
+
+  background-color: #e4e4e4;
+
+  color: rgba(0, 0, 0, 0.6);
+
+  font-size: 14px;
+
+  font-weight: normal;
+
+  text-align: center;
+
+  text-shadow: none;
+
+  padding: 6px 14px;
+
+  border: 1px solid rgba(0, 0, 0, 0.2);
+
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+
+  -webkit-transition: all 0.1s ease-in-out;
+
+  -moz-transition:    all 0.1s ease-in-out;
+
+  -ms-transition:     all 0.1s ease-in-out;
+
+  -o-transition:      all 0.1s ease-in-out;
+
+  transition:         all 0.1s ease-in-out;
+
+}
+
+
+
+.byconsolewooodt_delivery_type label[for="byconsolewooodt_delivery_type_take_away"]:hover,.byconsolewooodt_delivery_type label[for="byconsolewooodt_delivery_type_levering"]:hover {
+
+    cursor: pointer;
+
+}
+
+
+
+.byconsolewooodt_delivery_type input:checked + label[for="byconsolewooodt_delivery_type_take_away"] {
+
+  background-color: #A5DC86;
+
+  -webkit-box-shadow: none;
+
+  box-shadow: none;
+
+}
+
+
+
+.byconsolewooodt_delivery_type input:checked + label[for="byconsolewooodt_delivery_type_levering"] {
+
+  background-color: #A5DC86;
+
+  -webkit-box-shadow: none;
+
+  box-shadow: none;
+
+}
+
+
+
+.byconsolewooodt_delivery_type label:first-of-type {
+
+  border-radius: 4px 0 0 4px;
+
+}
+
+
+
+.byconsolewooodt_delivery_type label:last-of-type {
+
+  border-radius: 0 4px 4px 0;
+
+}
+
+
+
+
+
+/*
+
+
+
+
+
+.byconsolewooodt_delivery_type_for_widget input[type="radio"]{
+
+    position: absolute !important;
+
+    clip: rect(0, 0, 0, 0);
+
+    height: 1px;
+
+    width: 1px;
+
+    border: 0;
+
+    overflow: hidden;
+
+}
+
+
+
+.byconsolewooodt_delivery_type_for_widget label[for="byconsolewooodt_delivery_type_take_away"],.byconsolewooodt_delivery_type_for_widget label[for="byconsolewooodt_delivery_type_levering"] {
+
+  float: left;
+
+}
+
+
+
+.byconsolewooodt_delivery_type_for_widget label[for="byconsolewooodt_delivery_type_take_away"],.byconsolewooodt_delivery_type_for_widget label[for="byconsolewooodt_delivery_type_levering"] {
+
+  display: inline-block;
+
+  background-color: #e4e4e4;
+
+  color: rgba(0, 0, 0, 0.6);
+
+  font-size: 14px;
+
+  font-weight: normal;
+
+  text-align: center;
+
+  text-shadow: none;
+
+  padding: 6px 14px;
+
+  border: 1px solid rgba(0, 0, 0, 0.2);
+
+  -webkit-box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1);
+
+  -webkit-transition: all 0.1s ease-in-out;
+
+  -moz-transition:    all 0.1s ease-in-out;
+
+  -ms-transition:     all 0.1s ease-in-out;
+
+  -o-transition:      all 0.1s ease-in-out;
+
+  transition:         all 0.1s ease-in-out;
+
+}
+
+
+
+.byconsolewooodt_delivery_type_for_widget label[for="byconsolewooodt_delivery_type_take_away"]:hover,.byconsolewooodt_delivery_type_for_widget label[for="byconsolewooodt_delivery_type_levering"]:hover {
+
+    cursor: pointer;
+
+}
+
+
+
+.byconsolewooodt_delivery_type_for_widget input:checked + label[for="byconsolewooodt_delivery_type_take_away"] {
+
+  background-color: #A5DC86;
+
+  -webkit-box-shadow: none;
+
+  box-shadow: none;
+
+}
+
+
+
+.byconsolewooodt_delivery_type_for_widget input:checked + label[for="byconsolewooodt_delivery_type_levering"] {
+
+  background-color: #A5DC86;
+
+  -webkit-box-shadow: none;
+
+  box-shadow: none;
+
+}
+
+
+
+.byconsolewooodt_delivery_type_for_widget label:first-of-type {
+
+  border-radius: 4px 0 0 4px;
+
+}
+
+
+
+.byconsolewooodt_delivery_type_for_widget label:last-of-type {
+
+  border-radius: 0 4px 4px 0;
+
+}*/

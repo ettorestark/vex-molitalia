@@ -1,0 +1,33 @@
+
+Jul 03, 2019 17.59.38: Uncaught Error: Call to undefined method WC_Order::add_post_meta() in /home/cementos/public_html/wp-content/plugins/woocommerce-urbaner/woocommerce-urbaner.php:420
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(288): wc_send_order_urbaner_to_mypage(4500)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-order.php(346): do_action('woocommerce_ord...', 4500, Object(WC_Order))
+#4 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-order.php(230): WC_Order->status_transition()
+#5 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-data.php(620): WC_Order->save()
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): WC_Meta_Box_Order_Data::save(4500, Object(WP_Post))
+#7 /home/cementos/p
+
+Jul 03, 2019 18.00.40: Uncaught Error: Call to undefined method WC_Order::add_post_meta() in /home/cementos/public_html/wp-content/plugins/woocommerce-urbaner/woocommerce-urbaner.php:422
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(288): wc_send_order_urbaner_to_mypage(4500)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-order.php(346): do_action('woocommerce_ord...', 4500, Object(WC_Order))
+#4 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-order.php(230): WC_Order->status_transition()
+#5 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-data.php(620): WC_Order->save()
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): WC_Meta_Box_Order_Data::save(4500, Object(WP_Post))
+#7 /home/cementos/p
+
+Jul 03, 2019 18.01.56: Uncaught Error: Call to undefined method WC_Order::add_post_meta() in /home/cementos/public_html/wp-content/plugins/woocommerce-urbaner/woocommerce-urbaner.php:422
+Stack trace:
+#0 /home/cementos/public_html/wp-includes/class-wp-hook.php(288): wc_send_order_urbaner_to_mypage(4500)
+#1 /home/cementos/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/cementos/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-order.php(346): do_action('woocommerce_ord...', 4500, Object(WC_Order))
+#4 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/class-wc-order.php(230): WC_Order->status_transition()
+#5 /home/cementos/public_html/wp-content/plugins/woocommerce/includes/admin/meta-boxes/class-wc-meta-box-order-data.php(620): WC_Order->save()
+#6 /home/cementos/public_html/wp-includes/class-wp-hook.php(286): WC_Meta_Box_Order_Data::save(4500, Object(WP_Post))
+#7 /home/cementos/p

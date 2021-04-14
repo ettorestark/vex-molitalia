@@ -1,0 +1,12 @@
+.pick_point{ cursor:pointer;}
+.wp_pkpo_setting_form input[type="text"]{ width: 14em;}
+.wp_pkpo_delete_image { height: 20px; width: 20px;}
+.wp_pkpo_add { float:right; margin-right: 80px !important;}
+.wp_pkpo_marker_image { width: 100px; height: 100px;}
+.wp_pkpo_form_row { width: 20%; margin:10px; float: left;}
+.wp_pkpo_time { height: 50px;}
+.wp_pkpo_time label{ float: left;}
+.wp_pkpo_time input[type="text"]{ float: right;}
+.wp_pkpo_time textarea{ float: right;}
+#pickup_map { height:400px;width:100%; }
+.wp_pkpo_text_input{width: 100% !important}

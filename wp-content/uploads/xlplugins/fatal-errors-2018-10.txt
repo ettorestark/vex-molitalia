@@ -1,0 +1,18 @@
+
+Oct 08, 2018 05.50.08: Cannot redeclare wp_pkpo_classes() (previously declared in /var/www/html/wp-content/plugins/woocommerce-pickup-location/woocommerce-pickup-location.php:51)
+
+Oct 08, 2018 05.50.09: Cannot redeclare wp_pkpo_classes() (previously declared in /var/www/html/wp-content/plugins/woocommerce-pickup-location/woocommerce-pickup-location.php:51)
+
+Oct 08, 2018 05.50.10: Cannot redeclare wp_pkpo_classes() (previously declared in /var/www/html/wp-content/plugins/woocommerce-pickup-location/woocommerce-pickup-location.php:51)
+
+Oct 08, 2018 06.04.46: Cannot redeclare wp_pkpo_admin_notice() (previously declared in /var/www/html/wp-content/plugins/woocommerce-pickup-location/woocommerce-pickup-location.php:20)
+
+Oct 08, 2018 06.04.47: Cannot redeclare wp_pkpo_admin_notice() (previously declared in /var/www/html/wp-content/plugins/woocommerce-pickup-location/woocommerce-pickup-location.php:20)
+
+Oct 08, 2018 06.04.47: Cannot redeclare wp_pkpo_admin_notice() (previously declared in /var/www/html/wp-content/plugins/woocommerce-pickup-location/woocommerce-pickup-location.php:20)
+
+Oct 08, 2018 06.05.37: Cannot redeclare add_pickup_location_method() (previously declared in /var/www/html/wp-content/plugins/woocommerce-pickup-location/includes/helper/WPPKPO_Shipping_Method.php:162)
+
+Oct 08, 2018 06.05.38: Cannot redeclare add_pickup_location_method() (previously declared in /var/www/html/wp-content/plugins/woocommerce-pickup-location/includes/helper/WPPKPO_Shipping_Method.php:162)
+
+Oct 08, 2018 06.05.38: Cannot redeclare add_pickup_location_method() (previously declared in /var/www/html/wp-content/plugins/woocommerce-pickup-location/includes/helper/WPPKPO_Shipping_Method.php:162)

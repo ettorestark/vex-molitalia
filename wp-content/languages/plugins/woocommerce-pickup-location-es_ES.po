@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-pickup-location\n"
+"POT-Creation-Date: 2017-07-24 19:54+0530\n"
+"PO-Revision-Date: 2018-09-10 15:25-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_150\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:215
+msgid "Address"
+msgstr "Direccion"
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:216
+msgid "Working Hours"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:221
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:423
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:50
+#: includes/helper/WPPKPO_Shipping_Method.php:74
+msgid "Pickup Location"
+msgstr "Dirección de recojo"
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:236
+#: templates/frontend/checkout-map-section.php:257
+msgid " To "
+msgstr " Para "
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:304
+msgid "csv file uploaded successfully"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:338
+msgid "Download File"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:424
+msgid "Pickup Location Working Hours"
+msgstr "Horas laborables del lugar de recojo"
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:425
+msgid "Pickup Location Contacts"
+msgstr "Contactos del lugar de recojo"
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:426
+msgid "Time Limitation"
+msgstr "Limitación de tiempo"
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:509
+msgid "Add New Pickup Location"
+msgstr "Agregar nueva locación de recojo"
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:510
+msgid "Edit Pickup Location"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:511
+msgid "New Pickup Location"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:512
+msgid "All Pickup Locations"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:513
+msgid "View Pickup Location"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:514
+msgid "Search Pickup Locations"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:515
+msgid "No Pickup Location found"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:516
+msgid "No Pickup Location found in the Trash"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:545
+#, php-format
+msgid ""
+"WooCommerce pickup location requires at least WooCommerce %s in order to "
+"function. Please upgrade WooCommerce."
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:550
+msgid "Pickup Location CSV"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:551
+msgid "Settings"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:556
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:687
+msgid "Setting Saved Successfully !"
+msgstr ""
+
+#: includes/admin/controller/WPPKPO_Controller_Admin.php:702
+msgid "Pickup location : "
+msgstr "Lugar de recojo : "
+
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:45
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:177
+msgid "Pickup Information"
+msgstr "Información de recojo"
+
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:52
+msgid "Pickup address"
+msgstr "Dirección de recojo"
+
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:54
+msgid "Pickup city"
+msgstr "Ciudad de recojo"
+
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:56
+msgid "Pickup state"
+msgstr "Provincia de recojo"
+
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:58
+msgid "Pickup country"
+msgstr "Pais de recojo"
+
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:60
+msgid "Pickup zip code"
+msgstr ""
+
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:62
+msgid "Pickup Email"
+msgstr "Correo de recojo"
+
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:64
+msgid "Pickup Time"
+msgstr "Hora de recojo"
+
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:66
+msgid "Pickup Date"
+msgstr "Fecha de recojo"
+
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:268
+msgid "Please select pickup location"
+msgstr "Por favor selecciona tu lugar de recojo"
+
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:269
+msgid "Please enter pickup date"
+msgstr "Por favor ingresa tu fecha de recojo"
+
+#: includes/frontend/controller/WPPKPO_Controller_Frontend.php:270
+msgid "Please enter pickup time"
+msgstr "Por favor entra la hora de recojo"
+
+#: includes/helper/WPPKPO_Shipping_Method.php:26
+msgid "Pickup Point Shipping"
+msgstr ""
+
+#: includes/helper/WPPKPO_Shipping_Method.php:28
+msgid "Description of Pickup Point Shipping"
+msgstr ""
+
+#: includes/helper/WPPKPO_Shipping_Method.php:65
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/helper/WPPKPO_Shipping_Method.php:67
+msgid "Enable Pickup Location"
+msgstr ""
+
+#: includes/helper/WPPKPO_Shipping_Method.php:71
+msgid "Title"
+msgstr ""
+
+#: includes/helper/WPPKPO_Shipping_Method.php:73
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/helper/WPPKPO_Shipping_Method.php:77
+msgid "Description"
+msgstr ""
+
+#: includes/helper/WPPKPO_Shipping_Method.php:79
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/helper/WPPKPO_Shipping_Method.php:80
+msgid "Pickup Location Description"
+msgstr ""
+
+#: includes/helper/WPPKPO_Shipping_Method.php:83
+msgid "Default Cost"
+msgstr ""
+
+#: includes/helper/WPPKPO_Shipping_Method.php:89
+msgid "Cost excluding tax. Enter an amount, e.g. 2.50."
+msgstr ""
+
+#: includes/helper/WPPKPO_Shipping_Method.php:95
+msgid "Min. order amount"
+msgstr ""
+
+#: includes/helper/WPPKPO_Shipping_Method.php:101
+msgid ""
+"Min order amount after which Free Shipping will be applied (leave empty if "
+"not required)"
+msgstr ""
+
+#: templates/frontend/checkout-map-section.php:255
+msgid "Select Pickup Point"
+msgstr "Selecciona punto de recojo"
+
+#: templates/frontend/checkout-map-section.php:328
+msgid "Select Pickup location"
+msgstr ""
+
+#: templates/frontend/checkout-map-section.php:386
+msgid "pickup date"
+msgstr "Fecha y hora de recojo"
+
+#: templates/frontend/checkout-map-section.php:387
+msgid "pickup time"
+msgstr ""
+
+#: woocommerce-pickup-location.php:22
+msgid ""
+"WooCommerce pickup location requires woocoomerce plugin to be installed "
+"before.."
+msgstr ""
+
+#: woocommerce-pickup-location.php:136
+msgid "Search Pickup Days"
+msgstr ""
+
+#: woocommerce-pickup-location.php:137
+msgid "All Pickup Days"
+msgstr ""
+
+#: woocommerce-pickup-location.php:138
+msgid "Parent Pickup Days"
+msgstr ""
+
+#: woocommerce-pickup-location.php:139
+msgid "Parent Pickup Days:"
+msgstr ""
+
+#: woocommerce-pickup-location.php:140
+msgid "Edit Pickup Days"
+msgstr ""
+
+#: woocommerce-pickup-location.php:141
+msgid "Update Pickup Days"
+msgstr ""
+
+#: woocommerce-pickup-location.php:142
+msgid "Add New Pickup Days"
+msgstr ""
+
+#: woocommerce-pickup-location.php:143
+msgid "New Pickup Days Name"
+msgstr ""
+
+#: woocommerce-pickup-location.php:144
+msgid "Pickup Days"
+msgstr ""
+
+#~ msgid "Search Box"
+#~ msgstr "Search Map"
+
+#~ msgid "Radius:"
+#~ msgstr "Search radius"

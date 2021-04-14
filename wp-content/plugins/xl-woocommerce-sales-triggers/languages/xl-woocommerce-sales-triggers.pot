@@ -1,0 +1,2640 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: XL WooCommerce Sales Triggers\n"
+"POT-Creation-Date: 2017-03-16 13:32+0530\n"
+"PO-Revision-Date: 2017-03-16 13:18+0530\n"
+"Last-Translator: \n"
+"Language-Team: XLPlugins <support@xlplugins.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: xl-woocommerce-sales-triggers-dev\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__esc_attr;__esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: WCST_EDD_License_Handler.php:154
+#, php-format
+msgid "<p> Plugin <strong>%s</strong> successfully activated. </p>"
+msgstr ""
+
+#: WCST_EDD_SL_Plugin_Updater.php:180
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: WCST_EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: WCST_EDD_SL_Plugin_Updater.php:317
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: WCST_EDD_SL_Plugin_Updater.php:317 xl/includes/class-xl-deactivation.php:217
+msgid "Error"
+msgstr ""
+
+#: admin/includes/wcst-admin-cmb2-support.php:97
+msgid "Untitled"
+msgstr ""
+
+#: admin/includes/wcst-admin-cmb2-support.php:134
+msgid "Orders"
+msgstr ""
+
+#: admin/includes/wcst-admin-cmb2-support.php:152
+#: xl/includes/class-xl-dashboard-loader.php:217
+msgid "All"
+msgstr ""
+
+#: admin/includes/wcst-admin-cmb2-support.php:198
+msgid "Select an Option"
+msgstr ""
+
+#: admin/includes/wcst-admin-product-options.php:28
+#: admin/includes/wcst-admin-wcst-options.php:29
+msgid "Trigger Settings"
+msgstr ""
+
+#: admin/includes/wcst-admin-product-options.php:132
+#: admin/includes/wcst-admin-product-options.php:143
+msgid "Need Help?"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:41
+#: admin/includes/wcst-post-table.php:171
+msgid "Visibility"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:52
+msgid "Show On Cart"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:57
+#: admin/includes/wcst-admin-wcst-options.php:70
+#: admin/includes/wcst-admin-wcst-options.php:84
+#: triggers/wcst-best-seller-list-trigger.php:168
+#: triggers/wcst-best-seller-list-trigger.php:300
+msgid "Yes "
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:58
+#: admin/includes/wcst-admin-wcst-options.php:71
+#: admin/includes/wcst-admin-wcst-options.php:85 rules/rules/stock.php:132
+#: triggers/wcst-best-seller-badge-trigger.php:157
+#: triggers/wcst-best-seller-badge-trigger.php:301
+#: triggers/wcst-best-seller-list-trigger.php:169
+#: triggers/wcst-best-seller-list-trigger.php:301
+#: triggers/wcst-savings-trigger.php:100 triggers/wcst-savings-trigger.php:190
+#: triggers/wcst-smarter-reviews-trigger.php:82
+#: triggers/wcst-smarter-reviews-trigger.php:123
+#: triggers/wcst-smarter-reviews-trigger.php:136
+#: triggers/wcst-smarter-reviews-trigger.php:211
+#: triggers/wcst-smarter-reviews-trigger.php:252
+#: triggers/wcst-smarter-reviews-trigger.php:265
+msgid "No"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:65
+msgid "Show On Grids"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:79
+msgid "Show On Single Product"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:90
+#: triggers/wcst-best-seller-badge-trigger.php:323
+#: triggers/wcst-best-seller-list-trigger.php:305
+#: triggers/wcst-deal-expiry-trigger.php:238
+#: triggers/wcst-guarantee-trigger.php:304
+#: triggers/wcst-low-stock-trigger.php:285
+#: triggers/wcst-sales-count-trigger.php:315
+#: triggers/wcst-sales-snippet-trigger.php:307
+#: triggers/wcst-savings-trigger.php:158
+#: triggers/wcst-smarter-reviews-trigger.php:292
+msgid "Position"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:95 includes/wcst-common.php:824
+#: triggers/wcst-best-seller-badge-trigger.php:329
+#: triggers/wcst-best-seller-list-trigger.php:316
+#: triggers/wcst-deal-expiry-trigger.php:248
+#: triggers/wcst-guarantee-trigger.php:314
+#: triggers/wcst-low-stock-trigger.php:295
+#: triggers/wcst-sales-count-trigger.php:325
+#: triggers/wcst-sales-snippet-trigger.php:317
+#: triggers/wcst-savings-trigger.php:167
+#: triggers/wcst-smarter-reviews-trigger.php:302
+msgid "Above the Title"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:96 includes/wcst-common.php:825
+#: triggers/wcst-best-seller-badge-trigger.php:330
+#: triggers/wcst-best-seller-list-trigger.php:317
+#: triggers/wcst-deal-expiry-trigger.php:249
+#: triggers/wcst-guarantee-trigger.php:315
+#: triggers/wcst-low-stock-trigger.php:296
+#: triggers/wcst-sales-count-trigger.php:326
+#: triggers/wcst-sales-snippet-trigger.php:318
+#: triggers/wcst-savings-trigger.php:168
+#: triggers/wcst-smarter-reviews-trigger.php:303
+msgid "Below the Title"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:97 includes/wcst-common.php:826
+#: triggers/wcst-best-seller-badge-trigger.php:331
+#: triggers/wcst-best-seller-list-trigger.php:318
+#: triggers/wcst-deal-expiry-trigger.php:250
+#: triggers/wcst-guarantee-trigger.php:316
+#: triggers/wcst-low-stock-trigger.php:297
+#: triggers/wcst-sales-count-trigger.php:327
+#: triggers/wcst-sales-snippet-trigger.php:319
+#: triggers/wcst-savings-trigger.php:169
+#: triggers/wcst-smarter-reviews-trigger.php:304
+msgid "Below the Review Rating"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:98 includes/wcst-common.php:827
+#: triggers/wcst-best-seller-badge-trigger.php:332
+#: triggers/wcst-best-seller-list-trigger.php:319
+#: triggers/wcst-deal-expiry-trigger.php:251
+#: triggers/wcst-guarantee-trigger.php:317
+#: triggers/wcst-low-stock-trigger.php:298
+#: triggers/wcst-sales-count-trigger.php:328
+#: triggers/wcst-sales-snippet-trigger.php:320
+#: triggers/wcst-savings-trigger.php:170
+#: triggers/wcst-smarter-reviews-trigger.php:305
+msgid "Below the Price"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:99 includes/wcst-common.php:828
+#: triggers/wcst-best-seller-badge-trigger.php:333
+#: triggers/wcst-best-seller-list-trigger.php:320
+#: triggers/wcst-deal-expiry-trigger.php:252
+#: triggers/wcst-guarantee-trigger.php:318
+#: triggers/wcst-low-stock-trigger.php:299
+#: triggers/wcst-sales-count-trigger.php:329
+#: triggers/wcst-sales-snippet-trigger.php:321
+#: triggers/wcst-savings-trigger.php:171
+#: triggers/wcst-smarter-reviews-trigger.php:306
+msgid "Below Short Description"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:100 includes/wcst-common.php:829
+#: triggers/wcst-best-seller-badge-trigger.php:334
+#: triggers/wcst-best-seller-list-trigger.php:321
+#: triggers/wcst-deal-expiry-trigger.php:253
+#: triggers/wcst-guarantee-trigger.php:319
+#: triggers/wcst-low-stock-trigger.php:300
+#: triggers/wcst-sales-count-trigger.php:330
+#: triggers/wcst-sales-snippet-trigger.php:322
+#: triggers/wcst-savings-trigger.php:172
+#: triggers/wcst-smarter-reviews-trigger.php:307
+msgid "Below Add to Cart Button"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:101 includes/wcst-common.php:830
+#: triggers/wcst-best-seller-badge-trigger.php:335
+#: triggers/wcst-best-seller-list-trigger.php:322
+#: triggers/wcst-deal-expiry-trigger.php:254
+#: triggers/wcst-guarantee-trigger.php:320
+#: triggers/wcst-low-stock-trigger.php:301
+#: triggers/wcst-sales-count-trigger.php:331
+#: triggers/wcst-sales-snippet-trigger.php:323
+#: triggers/wcst-savings-trigger.php:173
+#: triggers/wcst-smarter-reviews-trigger.php:308
+msgid "Below SKU & Categories"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:102 includes/wcst-common.php:831
+#: triggers/wcst-best-seller-badge-trigger.php:336
+#: triggers/wcst-best-seller-list-trigger.php:323
+#: triggers/wcst-deal-expiry-trigger.php:255
+#: triggers/wcst-guarantee-trigger.php:321
+#: triggers/wcst-low-stock-trigger.php:302
+#: triggers/wcst-sales-count-trigger.php:332
+#: triggers/wcst-sales-snippet-trigger.php:324
+#: triggers/wcst-savings-trigger.php:174
+#: triggers/wcst-smarter-reviews-trigger.php:309
+msgid "Above the Tabs"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:103 includes/wcst-common.php:832
+#: triggers/wcst-best-seller-badge-trigger.php:337
+#: triggers/wcst-best-seller-list-trigger.php:324
+#: triggers/wcst-deal-expiry-trigger.php:256
+#: triggers/wcst-guarantee-trigger.php:322
+#: triggers/wcst-low-stock-trigger.php:303
+#: triggers/wcst-sales-count-trigger.php:333
+#: triggers/wcst-sales-snippet-trigger.php:325
+#: triggers/wcst-savings-trigger.php:175
+#: triggers/wcst-smarter-reviews-trigger.php:310
+msgid "Below Related Products"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:115
+msgid "ShortCode"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:125
+msgid "Shortcode"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:137
+#: admin/includes/wcst-post-table.php:173
+msgid "Menu Order"
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:148
+msgid "Order No."
+msgstr ""
+
+#: admin/includes/wcst-admin-wcst-options.php:168
+msgid "Choose Your trigger"
+msgstr ""
+
+#: admin/includes/wcst-post-table.php:45
+msgid "No Trigger Available"
+msgstr ""
+
+#: admin/includes/wcst-post-table.php:75
+msgid "Deactivated"
+msgstr ""
+
+#: admin/includes/wcst-post-table.php:78
+msgid "Activated"
+msgstr ""
+
+#: admin/includes/wcst-post-table.php:168
+msgid "&nbsp;"
+msgstr ""
+
+#: admin/includes/wcst-post-table.php:169
+#: xl/includes/class-xl-deactivation.php:238
+msgid "Title"
+msgstr ""
+
+#: admin/includes/wcst-post-table.php:170
+msgid "Trigger Type"
+msgstr ""
+
+#: admin/includes/wcst-post-table.php:172
+msgid "Status"
+msgstr ""
+
+#: admin/includes/wcst-post-table.php:238
+msgid "Select All"
+msgstr ""
+
+#: admin/includes/wcst-xl-support.php:86 includes/wcst-xl-support.php:86
+#, php-format
+msgid ""
+"<p>You are <strong>not receiving</strong> Latest Updates, New Features, "
+"Security Updates &amp; Bug Fixes for <strong>%s</strong>. <a href=\"%s"
+"\">Click Here To Fix This</a>.</p>"
+msgstr ""
+
+#: admin/includes/wcst-xl-support.php:207 includes/wcst-xl-support.php:207
+#: xl/includes/class-xl-process.php:88
+msgid ""
+"<p> Unable to submit your request.All fields are required. Please ensure "
+"that all the fields are filled out.</p>"
+msgstr ""
+
+#: admin/includes/wcst-xl-support.php:308 includes/wcst-xl-support.php:308
+msgid "XLPlugins"
+msgstr ""
+
+#: admin/includes/wcst-xl-support.php:309 includes/wcst-xl-support.php:309
+#: xl/views/xl-tabs-licenses.phtml:33 xl/views/xl-tabs-plugins.phtml:26
+#: xl/views/xl-tabs-support.phtml:37
+msgid "Licenses"
+msgstr ""
+
+#: admin/includes/wcst-xl-support.php:309 includes/wcst-xl-support.php:309
+msgid "License"
+msgstr ""
+
+#: admin/includes/wcst-xl-support.php:316 includes/wcst-xl-support.php:316
+msgid "XL WooCommerce Sales Triggers"
+msgstr ""
+
+#: admin/views/metabox-rules-rule-template.php:26
+#: admin/views/metabox-rules.php:86
+msgid "Loading..."
+msgstr ""
+
+#: admin/views/metabox-rules-rule-template.php:27
+#: admin/views/metabox-rules.php:88
+msgid "and"
+msgstr ""
+
+#: admin/views/metabox-rules-rule-template.php:28
+#: admin/views/metabox-rules.php:91
+msgid "Remove condition"
+msgstr ""
+
+#: admin/views/metabox-rules-rule-template.php:28
+#: admin/views/metabox-rules.php:91
+msgid "remove"
+msgstr ""
+
+#: admin/views/metabox-rules.php:28
+msgid "Rules"
+msgstr ""
+
+#: admin/views/metabox-rules.php:29
+msgid ""
+"Create a set of rules to determine when the trigger defined above will be "
+"displayed."
+msgstr ""
+
+#: admin/views/metabox-rules.php:46
+msgid "Apply this Trigger when these conditions are matched:"
+msgstr ""
+
+#: admin/views/metabox-rules.php:48 admin/wcst-admin.php:501
+msgid "or"
+msgstr ""
+
+#: admin/views/metabox-rules.php:50 admin/wcst-admin.php:503
+msgid "Remove"
+msgstr ""
+
+#: admin/views/metabox-rules.php:103
+msgid "or when these conditions are matched"
+msgstr ""
+
+#: admin/views/metabox-rules.php:104
+msgid "Add a set of conditions"
+msgstr ""
+
+#: admin/views/metabox-rules.php:104
+msgid "Add Rule Set"
+msgstr ""
+
+#: admin/wcst-admin.php:434 includes/wcst-common.php:170
+#: triggers/wcst-guarantee-trigger.php:24
+msgid "Hassle Free Returns"
+msgstr ""
+
+#: admin/wcst-admin.php:434 includes/wcst-common.php:170
+#: triggers/wcst-guarantee-trigger.php:24
+msgid "No questions asked, 30 days return policy."
+msgstr ""
+
+#: admin/wcst-admin.php:435 includes/wcst-common.php:171
+#: triggers/wcst-guarantee-trigger.php:25
+msgid "Fast Shipping"
+msgstr ""
+
+#: admin/wcst-admin.php:435 includes/wcst-common.php:171
+#: triggers/wcst-guarantee-trigger.php:25
+msgid "All orders are shipped in 1-3 business days."
+msgstr ""
+
+#: admin/wcst-admin.php:436 includes/wcst-common.php:172
+#: triggers/wcst-guarantee-trigger.php:26
+msgid "Secure Checkout"
+msgstr ""
+
+#: admin/wcst-admin.php:436 includes/wcst-common.php:172
+#: triggers/wcst-guarantee-trigger.php:26
+msgid "SSL Enabled Secure Checkout"
+msgstr ""
+
+#: admin/wcst-admin.php:464
+msgid "XL Sales Triggers"
+msgstr ""
+
+#: admin/wcst-admin.php:502
+msgid "Apply this Trigger when these conditions are matched"
+msgstr ""
+
+#: admin/wcst-admin.php:553
+msgid "Back to <a href=\""
+msgstr ""
+
+#: admin/wcst-admin.php:564
+msgid "Trigger updated."
+msgstr ""
+
+#: admin/wcst-admin.php:565
+msgid "Custom field updated."
+msgstr ""
+
+#: admin/wcst-admin.php:566
+msgid "Custom field deleted."
+msgstr ""
+
+#: admin/wcst-admin.php:567 admin/wcst-admin.php:569 admin/wcst-admin.php:571
+#: admin/wcst-admin.php:574
+msgid "Trigger updated. "
+msgstr ""
+
+#: admin/wcst-admin.php:568
+#, php-format
+msgid "Trigger restored to revision from %s"
+msgstr ""
+
+#: admin/wcst-admin.php:570
+msgid "Trigger saved. "
+msgstr ""
+
+#: admin/wcst-admin.php:572
+#, php-format
+msgid "Trigger scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: admin/wcst-admin.php:572
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: admin/wcst-admin.php:573
+msgid "Trigger draft updated."
+msgstr ""
+
+#: admin/wcst-admin.php:592
+msgid "Unable to Activate"
+msgstr ""
+
+#: admin/wcst-admin.php:610
+msgid "Unable to Deactivate"
+msgstr ""
+
+#: admin/wcst-admin.php:710
+msgid "WCST_Triggers"
+msgstr ""
+
+#: includes/wcst-common.php:65 triggers/wcst-guarantee-trigger.php:92
+#: triggers/wcst-guarantee-trigger.php:227
+msgid "None"
+msgstr ""
+
+#: includes/wcst-common.php:133
+msgid "#{{rank}} Best Seller "
+msgstr ""
+
+#: includes/wcst-common.php:146 triggers/wcst-best-seller-list-trigger.php:27
+msgid "This item is Best Seller in following categories:"
+msgstr ""
+
+#: includes/wcst-common.php:147 triggers/wcst-best-seller-list-trigger.php:28
+msgid "#{{category_rank}} Best Seller in {{category_name}} "
+msgstr ""
+
+#: includes/wcst-common.php:152 rules/rules/stock.php:20
+#: triggers/wcst-low-stock-trigger.php:27
+msgid "In Stock"
+msgstr ""
+
+#: includes/wcst-common.php:153 triggers/wcst-low-stock-trigger.php:28
+msgid "Only {{stock_quantity_left}} left in stock. Almost Gone!"
+msgstr ""
+
+#: includes/wcst-common.php:154 triggers/wcst-low-stock-trigger.php:30
+msgid "Just Sold Out. Expect to come in 4-6 days."
+msgstr ""
+
+#: includes/wcst-common.php:162 triggers/wcst-savings-trigger.php:28
+msgid "You Save: {{savings_value_percentage}}"
+msgstr ""
+
+#: includes/wcst-common.php:180 triggers/wcst-sales-snippet-trigger.php:21
+msgid "{{sales_snippet}} bought this item recently."
+msgstr ""
+
+#: includes/wcst-common.php:190 triggers/wcst-sales-count-trigger.php:27
+msgid "{{order_count}} orders in last 30 days."
+msgstr ""
+
+#: includes/wcst-common.php:197 triggers/wcst-deal-expiry-trigger.php:21
+msgid "Sale ends in {{time_left}}"
+msgstr ""
+
+#: includes/wcst-common.php:198 triggers/wcst-deal-expiry-trigger.php:22
+msgid "Hurry up! Sale ends in {{countdown_timer}}"
+msgstr ""
+
+#: includes/wcst-common.php:199 triggers/wcst-deal-expiry-trigger.php:23
+msgid "Prices go up after {{end_date}}"
+msgstr ""
+
+#: includes/wcst-common.php:258 includes/wcst-common.php:259
+msgid "Sales Trigger"
+msgstr ""
+
+#: includes/wcst-common.php:260
+msgid "Add Sales Trigger"
+msgstr ""
+
+#: includes/wcst-common.php:261
+msgid "Add New Sales Trigger"
+msgstr ""
+
+#: includes/wcst-common.php:262 includes/wcst-common.php:862
+msgid "Edit"
+msgstr ""
+
+#: includes/wcst-common.php:263
+msgid "Edit Sales Trigger"
+msgstr ""
+
+#: includes/wcst-common.php:264
+msgid "New Sales Trigger"
+msgstr ""
+
+#: includes/wcst-common.php:265 includes/wcst-common.php:266
+msgid "View Sales Trigger"
+msgstr ""
+
+#: includes/wcst-common.php:267
+msgid "Search Sales Trigger"
+msgstr ""
+
+#: includes/wcst-common.php:268
+msgid "No Sales Trigger"
+msgstr ""
+
+#: includes/wcst-common.php:269
+msgid "No Sales Trigger found in trash"
+msgstr ""
+
+#: includes/wcst-common.php:270
+msgid "Parent Sales Trigger"
+msgstr ""
+
+#: includes/wcst-common.php:273
+msgid ""
+"This is where conditional content blocks and their assoicated rules are "
+"stored."
+msgstr ""
+
+#: includes/wcst-common.php:531 triggers/wcst-deal-expiry-trigger.php:146
+#: triggers/wcst-deal-expiry-trigger.php:280
+msgid "Deal Expiry"
+msgstr ""
+
+#: includes/wcst-common.php:542 triggers/wcst-low-stock-trigger.php:21
+msgid "Low Stock"
+msgstr ""
+
+#: includes/wcst-common.php:553 triggers/wcst-savings-trigger.php:22
+#: triggers/wcst-savings-trigger.php:116
+msgid "Savings"
+msgstr ""
+
+#: includes/wcst-common.php:564 triggers/wcst-sales-snippet-trigger.php:182
+#: triggers/wcst-sales-snippet-trigger.php:362
+msgid "Sales Snippet"
+msgstr ""
+
+#: includes/wcst-common.php:569 triggers/wcst-sales-count-trigger.php:21
+#: triggers/wcst-sales-count-trigger.php:188
+msgid "Sales Count"
+msgstr ""
+
+#: includes/wcst-common.php:580 triggers/wcst-guarantee-trigger.php:64
+#: triggers/wcst-guarantee-trigger.php:200
+#: triggers/wcst-guarantee-trigger.php:357
+msgid "Guarantee"
+msgstr ""
+
+#: includes/wcst-common.php:591 triggers/wcst-smarter-reviews-trigger.php:172
+#: triggers/wcst-smarter-reviews-trigger.php:347
+msgid "Smarter Reviews"
+msgstr ""
+
+#: includes/wcst-common.php:602 triggers/wcst-best-seller-badge-trigger.php:376
+msgid "Best Seller Badge"
+msgstr ""
+
+#: includes/wcst-common.php:607 triggers/wcst-best-seller-list-trigger.php:21
+#: triggers/wcst-best-seller-list-trigger.php:183
+msgid "Best Seller List"
+msgstr ""
+
+#: includes/wcst-common.php:688
+msgid "General"
+msgstr ""
+
+#: includes/wcst-common.php:689
+msgid "Always"
+msgstr ""
+
+#: includes/wcst-common.php:691
+msgid "Product"
+msgstr ""
+
+#: includes/wcst-common.php:692 rules/inputs/cart-product-select.php:26
+msgid "Products"
+msgstr ""
+
+#: includes/wcst-common.php:693
+msgid "Product Type"
+msgstr ""
+
+#: includes/wcst-common.php:694
+msgid "Product Category"
+msgstr ""
+
+#: includes/wcst-common.php:695
+msgid "Product Price"
+msgstr ""
+
+#: includes/wcst-common.php:697
+msgid "Sales"
+msgstr ""
+
+#: includes/wcst-common.php:698
+msgid "Sale Status"
+msgstr ""
+
+#: includes/wcst-common.php:700
+msgid "Geography"
+msgstr ""
+
+#: includes/wcst-common.php:701
+msgid "Country"
+msgstr ""
+
+#: includes/wcst-common.php:703
+msgid "Date/Time"
+msgstr ""
+
+#: includes/wcst-common.php:704
+msgid "Day"
+msgstr ""
+
+#: includes/wcst-common.php:705
+msgid "Date"
+msgstr ""
+
+#: includes/wcst-common.php:706
+msgid "Time"
+msgstr ""
+
+#: includes/wcst-common.php:708
+msgid "Membership"
+msgstr ""
+
+#: includes/wcst-common.php:709
+msgid "User"
+msgstr ""
+
+#: includes/wcst-common.php:710
+msgid "Role"
+msgstr ""
+
+#: includes/wcst-common.php:847 includes/wcst-common.php:854
+#: triggers/wcst-best-seller-badge-trigger.php:196
+#: triggers/wcst-best-seller-list-trigger.php:187
+#: triggers/wcst-deal-expiry-trigger.php:149
+#: triggers/wcst-guarantee-trigger.php:185
+#: triggers/wcst-low-stock-trigger.php:179
+#: triggers/wcst-sales-count-trigger.php:191
+#: triggers/wcst-sales-snippet-trigger.php:185
+#: triggers/wcst-savings-trigger.php:119
+#: triggers/wcst-smarter-reviews-trigger.php:177
+#: xl/includes/class-xl-deactivation.php:255
+msgid "Activate"
+msgstr ""
+
+#: includes/wcst-common.php:869 triggers/wcst-best-seller-badge-trigger.php:196
+#: triggers/wcst-best-seller-list-trigger.php:187
+#: triggers/wcst-deal-expiry-trigger.php:149
+#: triggers/wcst-guarantee-trigger.php:185
+#: triggers/wcst-low-stock-trigger.php:179
+#: triggers/wcst-sales-count-trigger.php:191
+#: triggers/wcst-sales-snippet-trigger.php:185
+#: triggers/wcst-savings-trigger.php:119
+#: triggers/wcst-smarter-reviews-trigger.php:177
+#: xl/includes/class-xl-deactivation.php:256
+#: xl/includes/class-xl-deactivation.php:279
+#: xl/includes/class-xl-updater-licenses-table.php:109
+msgid "Deactivate"
+msgstr ""
+
+#: includes/wcst-common.php:877
+msgid "Delete Permanently"
+msgstr ""
+
+#: includes/wcst-common.php:883
+msgid "Export"
+msgstr ""
+
+#: includes/wcst-common.php:932
+msgid "Disabled"
+msgstr ""
+
+#: includes/wcst-common.php:1314
+msgid "other"
+msgstr ""
+
+#: includes/wcst-common.php:1315
+msgid "others"
+msgstr ""
+
+#: includes/wcst-common.php:1316
+msgid "from"
+msgstr ""
+
+#: includes/wcst-common.php:1317
+#: triggers/wcst-best-seller-badge-trigger.php:534
+msgid "in"
+msgstr ""
+
+#: includes/wcst-common.php:1318
+msgid "month"
+msgstr ""
+
+#: includes/wcst-common.php:1319
+msgid "months"
+msgstr ""
+
+#: includes/wcst-common.php:1320
+msgid "week"
+msgstr ""
+
+#: includes/wcst-common.php:1321
+msgid "weeks"
+msgstr ""
+
+#: includes/wcst-common.php:1322
+msgid "day"
+msgstr ""
+
+#: includes/wcst-common.php:1323
+msgid "days"
+msgstr ""
+
+#: includes/wcst-common.php:1324
+msgid "hr"
+msgstr ""
+
+#: includes/wcst-common.php:1325
+msgid "hrs"
+msgstr ""
+
+#: includes/wcst-common.php:1326
+msgid "min"
+msgstr ""
+
+#: includes/wcst-common.php:1327
+msgid "mins"
+msgstr ""
+
+#: includes/wcst-common.php:1328
+msgid "sec"
+msgstr ""
+
+#: includes/wcst-common.php:1329
+msgid "secs"
+msgstr ""
+
+#: rules/inputs/cart-category-select.php:28
+#: rules/inputs/cart-product-select.php:25
+msgid "Quantity"
+msgstr ""
+
+#: rules/inputs/cart-category-select.php:29
+msgid "Categories"
+msgstr ""
+
+#: rules/inputs/cart-category-select.php:36 rules/inputs/chosen-select.php:29
+msgid "Search..."
+msgstr ""
+
+#: rules/inputs/cart-product-select.php:34 rules/inputs/product-select.php:28
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: rules/inputs/geo-postal-code-entry.php:28
+msgid "Distance ( km )"
+msgstr ""
+
+#: rules/inputs/geo-postal-code-entry.php:29
+msgid "Zip/Postalcode ( One per line )"
+msgstr ""
+
+#: rules/inputs/html-always.php:16
+msgid ""
+"Trigger will always display for all shoppers on your site. This will "
+"override any other rule you define."
+msgstr ""
+
+#: rules/rules/base.php:31 rules/rules/cart.php:11 rules/rules/date-time.php:82
+#: rules/rules/date-time.php:170 rules/rules/products.php:240
+#: rules/rules/stock.php:59
+msgid "is equal to"
+msgstr ""
+
+#: rules/rules/base.php:32 rules/rules/cart.php:12 rules/rules/date-time.php:83
+#: rules/rules/date-time.php:171 rules/rules/products.php:241
+#: rules/rules/stock.php:60
+msgid "is not equal to"
+msgstr ""
+
+#: rules/rules/cart.php:13 rules/rules/date-time.php:84
+#: rules/rules/date-time.php:172 rules/rules/products.php:242
+#: rules/rules/stock.php:61
+msgid "is greater than"
+msgstr ""
+
+#: rules/rules/cart.php:14 rules/rules/date-time.php:85
+#: rules/rules/date-time.php:173 rules/rules/products.php:243
+#: rules/rules/stock.php:62
+msgid "is less than"
+msgstr ""
+
+#: rules/rules/cart.php:15 rules/rules/date-time.php:86
+#: rules/rules/date-time.php:174 rules/rules/products.php:244
+#: rules/rules/stock.php:63
+msgid "is greater or equal to"
+msgstr ""
+
+#: rules/rules/cart.php:16 rules/rules/date-time.php:87
+#: rules/rules/date-time.php:175 rules/rules/products.php:245
+#: rules/rules/stock.php:64
+msgid "is less or equal to"
+msgstr ""
+
+#: rules/rules/cart.php:75 rules/rules/cart.php:136
+msgid "contains less than"
+msgstr ""
+
+#: rules/rules/cart.php:76 rules/rules/cart.php:137
+msgid "contains at least"
+msgstr ""
+
+#: rules/rules/cart.php:77 rules/rules/cart.php:138
+msgid "contains exactly"
+msgstr ""
+
+#: rules/rules/date-time.php:15 rules/rules/geo.php:12
+#: rules/rules/products.php:14 rules/rules/products.php:54
+#: rules/rules/products.php:107 rules/rules/sales.php:12
+#: rules/rules/stock.php:11 rules/rules/stock.php:121 rules/rules/users.php:11
+#: rules/rules/users.php:63
+msgid "is"
+msgstr ""
+
+#: rules/rules/date-time.php:16 rules/rules/geo.php:13
+#: rules/rules/products.php:15 rules/rules/products.php:55
+#: rules/rules/products.php:108 rules/rules/sales.php:13
+#: rules/rules/stock.php:12 rules/rules/users.php:12 rules/rules/users.php:64
+msgid "is not"
+msgstr ""
+
+#: rules/rules/date-time.php:25
+msgid "Sunday"
+msgstr ""
+
+#: rules/rules/date-time.php:26
+msgid "Monday"
+msgstr ""
+
+#: rules/rules/date-time.php:27
+msgid "Tuesday"
+msgstr ""
+
+#: rules/rules/date-time.php:28
+msgid "Wednesday"
+msgstr ""
+
+#: rules/rules/date-time.php:29
+msgid "Thursday"
+msgstr ""
+
+#: rules/rules/date-time.php:30
+msgid "Friday"
+msgstr ""
+
+#: rules/rules/date-time.php:31
+msgid "Saturday"
+msgstr ""
+
+#: rules/rules/products.php:160
+msgid "has"
+msgstr ""
+
+#: rules/rules/products.php:161
+msgid "does not have"
+msgstr ""
+
+#: rules/rules/sales.php:21
+msgid "Not On Sale"
+msgstr ""
+
+#: rules/rules/sales.php:22
+msgid "On Sale"
+msgstr ""
+
+#: rules/rules/sales.php:60
+msgid "starts"
+msgstr ""
+
+#: rules/rules/sales.php:61
+msgid "ends"
+msgstr ""
+
+#: rules/rules/stock.php:19
+msgid "Out of Stock"
+msgstr ""
+
+#: rules/rules/stock.php:131 triggers/wcst-best-seller-badge-trigger.php:156
+#: triggers/wcst-best-seller-badge-trigger.php:300
+#: triggers/wcst-savings-trigger.php:99 triggers/wcst-savings-trigger.php:189
+#: triggers/wcst-smarter-reviews-trigger.php:81
+#: triggers/wcst-smarter-reviews-trigger.php:122
+#: triggers/wcst-smarter-reviews-trigger.php:135
+#: triggers/wcst-smarter-reviews-trigger.php:210
+#: triggers/wcst-smarter-reviews-trigger.php:251
+#: triggers/wcst-smarter-reviews-trigger.php:264
+msgid "Yes"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:21
+msgid "#{{rank}} Best Seller"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:44
+#: triggers/wcst-best-seller-badge-trigger.php:189
+msgid ""
+"You can set it up to display best seller badge that shows product's rank, by "
+"comparing sales of other products from all its categories."
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:51
+#: triggers/wcst-best-seller-badge-trigger.php:199
+msgid "Badge Text"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:55
+#: triggers/wcst-best-seller-badge-trigger.php:192
+msgid "Best Sellers Badge"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:64
+#: triggers/wcst-best-seller-badge-trigger.php:210
+#: triggers/wcst-best-seller-list-trigger.php:58
+#: triggers/wcst-best-seller-list-trigger.php:190
+#: triggers/wcst-sales-count-trigger.php:55
+#: triggers/wcst-sales-count-trigger.php:194
+#: triggers/wcst-sales-snippet-trigger.php:50
+#: triggers/wcst-sales-snippet-trigger.php:188
+msgid "Date Limit"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:69
+#: triggers/wcst-best-seller-badge-trigger.php:215
+#: triggers/wcst-best-seller-list-trigger.php:63
+#: triggers/wcst-best-seller-list-trigger.php:195
+#: triggers/wcst-sales-count-trigger.php:60
+#: triggers/wcst-sales-count-trigger.php:199
+#: triggers/wcst-sales-snippet-trigger.php:55
+#: triggers/wcst-sales-snippet-trigger.php:193
+msgid "1 Day"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:70
+#: triggers/wcst-best-seller-badge-trigger.php:216
+#: triggers/wcst-best-seller-list-trigger.php:64
+#: triggers/wcst-best-seller-list-trigger.php:196
+#: triggers/wcst-sales-count-trigger.php:61
+#: triggers/wcst-sales-count-trigger.php:200
+#: triggers/wcst-sales-snippet-trigger.php:56
+#: triggers/wcst-sales-snippet-trigger.php:194
+msgid "3 Days"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:71
+#: triggers/wcst-best-seller-badge-trigger.php:217
+#: triggers/wcst-best-seller-list-trigger.php:65
+#: triggers/wcst-best-seller-list-trigger.php:197
+#: triggers/wcst-sales-count-trigger.php:62
+#: triggers/wcst-sales-count-trigger.php:201
+#: triggers/wcst-sales-snippet-trigger.php:57
+#: triggers/wcst-sales-snippet-trigger.php:195
+msgid "7 Days"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:72
+#: triggers/wcst-best-seller-badge-trigger.php:218
+#: triggers/wcst-best-seller-list-trigger.php:66
+#: triggers/wcst-best-seller-list-trigger.php:198
+#: triggers/wcst-sales-count-trigger.php:63
+#: triggers/wcst-sales-count-trigger.php:202
+#: triggers/wcst-sales-snippet-trigger.php:58
+#: triggers/wcst-sales-snippet-trigger.php:196
+msgid "15 Days"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:73
+#: triggers/wcst-best-seller-badge-trigger.php:219
+#: triggers/wcst-best-seller-list-trigger.php:67
+#: triggers/wcst-best-seller-list-trigger.php:199
+#: triggers/wcst-sales-count-trigger.php:64
+#: triggers/wcst-sales-count-trigger.php:203
+#: triggers/wcst-sales-snippet-trigger.php:59
+#: triggers/wcst-sales-snippet-trigger.php:197
+msgid "30 Days"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:74
+#: triggers/wcst-best-seller-badge-trigger.php:220
+#: triggers/wcst-best-seller-list-trigger.php:68
+#: triggers/wcst-best-seller-list-trigger.php:200
+#: triggers/wcst-sales-count-trigger.php:65
+#: triggers/wcst-sales-count-trigger.php:204
+#: triggers/wcst-sales-snippet-trigger.php:60
+#: triggers/wcst-sales-snippet-trigger.php:198
+msgid "3 Months"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:75
+#: triggers/wcst-best-seller-badge-trigger.php:221
+#: triggers/wcst-best-seller-list-trigger.php:69
+#: triggers/wcst-best-seller-list-trigger.php:201
+#: triggers/wcst-sales-count-trigger.php:66
+#: triggers/wcst-sales-count-trigger.php:205
+#: triggers/wcst-sales-snippet-trigger.php:61
+#: triggers/wcst-sales-snippet-trigger.php:199
+msgid "6 Months"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:76
+#: triggers/wcst-best-seller-badge-trigger.php:222
+#: triggers/wcst-best-seller-list-trigger.php:70
+#: triggers/wcst-best-seller-list-trigger.php:202
+#: triggers/wcst-sales-count-trigger.php:67
+#: triggers/wcst-sales-count-trigger.php:206
+#: triggers/wcst-sales-snippet-trigger.php:62
+#: triggers/wcst-sales-snippet-trigger.php:200
+msgid "1 Year"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:77
+#: triggers/wcst-best-seller-badge-trigger.php:223
+#: triggers/wcst-best-seller-list-trigger.php:71
+#: triggers/wcst-best-seller-list-trigger.php:203
+#: triggers/wcst-guarantee-trigger.php:91
+#: triggers/wcst-guarantee-trigger.php:226
+#: triggers/wcst-sales-count-trigger.php:68
+#: triggers/wcst-sales-count-trigger.php:207
+#: triggers/wcst-sales-snippet-trigger.php:63
+#: triggers/wcst-sales-snippet-trigger.php:201
+msgid "Custom"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:85
+#: triggers/wcst-best-seller-badge-trigger.php:231
+#: triggers/wcst-best-seller-list-trigger.php:79
+#: triggers/wcst-best-seller-list-trigger.php:211
+#: triggers/wcst-sales-count-trigger.php:76
+#: triggers/wcst-sales-count-trigger.php:215
+#: triggers/wcst-sales-snippet-trigger.php:71
+#: triggers/wcst-sales-snippet-trigger.php:209
+msgid "From Date"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:104
+#: triggers/wcst-best-seller-badge-trigger.php:250
+#: triggers/wcst-best-seller-list-trigger.php:98
+#: triggers/wcst-best-seller-list-trigger.php:230
+#: triggers/wcst-deal-expiry-trigger.php:90
+#: triggers/wcst-deal-expiry-trigger.php:194
+#: triggers/wcst-sales-count-trigger.php:95
+#: triggers/wcst-sales-count-trigger.php:233
+#: triggers/wcst-sales-snippet-trigger.php:90
+#: triggers/wcst-sales-snippet-trigger.php:228
+msgid "End Date"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:118
+#: triggers/wcst-best-seller-badge-trigger.php:264
+msgid "Hide Badge If Highest Rank Above"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:133
+#: triggers/wcst-best-seller-badge-trigger.php:277
+msgid "Badge Style"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:148
+#: triggers/wcst-best-seller-badge-trigger.php:292
+#: triggers/wcst-best-seller-list-trigger.php:159
+#: triggers/wcst-best-seller-list-trigger.php:291
+msgid "Hyperlink Category"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:161
+#: triggers/wcst-best-seller-badge-trigger.php:305
+msgid "Badge Color"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:170
+#: triggers/wcst-best-seller-badge-trigger.php:314
+msgid "Badge Text Color"
+msgstr ""
+
+#: triggers/wcst-best-seller-badge-trigger.php:188
+#: triggers/wcst-best-seller-list-trigger.php:179
+#: triggers/wcst-deal-expiry-trigger.php:141
+#: triggers/wcst-guarantee-trigger.php:177
+#: triggers/wcst-low-stock-trigger.php:171
+#: triggers/wcst-sales-count-trigger.php:183
+#: triggers/wcst-sales-snippet-trigger.php:177
+#: triggers/wcst-savings-trigger.php:111
+#: triggers/wcst-smarter-reviews-trigger.php:169
+msgid "Trigger"
+msgstr ""
+
+#: triggers/wcst-best-seller-list-trigger.php:51
+#: triggers/wcst-best-seller-list-trigger.php:180
+msgid ""
+"You can set it up to display best seller category list that shows product's "
+"rank, by comparing sales of other products from all its categories."
+msgstr ""
+
+#: triggers/wcst-best-seller-list-trigger.php:112
+#: triggers/wcst-best-seller-list-trigger.php:244
+msgid "List Heading"
+msgstr ""
+
+#: triggers/wcst-best-seller-list-trigger.php:122
+#: triggers/wcst-best-seller-list-trigger.php:254
+msgid "List Text"
+msgstr ""
+
+#: triggers/wcst-best-seller-list-trigger.php:133
+#: triggers/wcst-best-seller-list-trigger.php:265
+msgid "Number Of Categories In List"
+msgstr ""
+
+#: triggers/wcst-best-seller-list-trigger.php:146
+#: triggers/wcst-best-seller-list-trigger.php:278
+msgid "Hide Category if Rank Above"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:41
+#: triggers/wcst-deal-expiry-trigger.php:142
+msgid ""
+"You can set it up in one of the three modes: <i>Time Left</i>, <i>End Date</"
+"i> or <i>Countdown Timer</i>. This trigger is applicable for the products on "
+"scheduled sale."
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:48
+#: triggers/wcst-deal-expiry-trigger.php:152
+msgid "Time Left Text"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:49
+#: triggers/wcst-deal-expiry-trigger.php:153
+msgid ""
+"Left over time for sale to end.<br><i>{{time_left}}</i> outputs as 1 week | "
+"5 days | 21 hours."
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:59
+#: triggers/wcst-deal-expiry-trigger.php:163
+msgid "End Date Text"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:60
+#: triggers/wcst-deal-expiry-trigger.php:164
+msgid "Date when the sale ends.<br><i>{{end_date}}</i> outputs as "
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:70
+#: triggers/wcst-deal-expiry-trigger.php:174
+msgid "Countdown Timer Text"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:71
+#: triggers/wcst-deal-expiry-trigger.php:175
+msgid ""
+"Left over time for sale to end in reverse countdown mode."
+"<br><i>{{countdown_timer}}</i> outputs as 1 day 16h 25m 03s with reverse "
+"countdown"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:81
+#: triggers/wcst-deal-expiry-trigger.php:185
+#: triggers/wcst-low-stock-trigger.php:93
+#: triggers/wcst-low-stock-trigger.php:215
+msgid "Choose Mode"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:89
+#: triggers/wcst-deal-expiry-trigger.php:193
+msgid "Time Left"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:91
+#: triggers/wcst-deal-expiry-trigger.php:195
+msgid "Countdown Timer"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:95
+#: triggers/wcst-deal-expiry-trigger.php:199
+msgid "Auto Switch to Countdown Timer Mode"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:96
+#: triggers/wcst-deal-expiry-trigger.php:200
+msgid "hrs left before sale ends"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:112
+#: triggers/wcst-deal-expiry-trigger.php:215
+#: triggers/wcst-guarantee-trigger.php:146
+#: triggers/wcst-guarantee-trigger.php:281
+#: triggers/wcst-sales-count-trigger.php:153
+#: triggers/wcst-sales-count-trigger.php:291
+#: triggers/wcst-sales-snippet-trigger.php:146
+#: triggers/wcst-sales-snippet-trigger.php:284
+#: triggers/wcst-savings-trigger.php:67 triggers/wcst-savings-trigger.php:135
+#: triggers/wcst-smarter-reviews-trigger.php:140
+msgid "Text Color"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:121
+#: triggers/wcst-deal-expiry-trigger.php:224
+#: triggers/wcst-guarantee-trigger.php:155
+#: triggers/wcst-guarantee-trigger.php:290
+#: triggers/wcst-low-stock-trigger.php:149
+#: triggers/wcst-low-stock-trigger.php:271
+#: triggers/wcst-sales-count-trigger.php:163
+#: triggers/wcst-sales-count-trigger.php:301
+#: triggers/wcst-sales-snippet-trigger.php:155
+#: triggers/wcst-sales-snippet-trigger.php:293
+#: triggers/wcst-savings-trigger.php:76 triggers/wcst-savings-trigger.php:144
+msgid "Font Size"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:122
+#: triggers/wcst-deal-expiry-trigger.php:225
+#: triggers/wcst-guarantee-trigger.php:156
+#: triggers/wcst-guarantee-trigger.php:291
+#: triggers/wcst-low-stock-trigger.php:150
+#: triggers/wcst-low-stock-trigger.php:272
+#: triggers/wcst-sales-count-trigger.php:164
+#: triggers/wcst-sales-count-trigger.php:302
+#: triggers/wcst-sales-snippet-trigger.php:156
+#: triggers/wcst-sales-snippet-trigger.php:294
+#: triggers/wcst-savings-trigger.php:77 triggers/wcst-savings-trigger.php:145
+#: triggers/wcst-smarter-reviews-trigger.php:150
+#: triggers/wcst-smarter-reviews-trigger.php:279
+msgid "px"
+msgstr ""
+
+#: triggers/wcst-deal-expiry-trigger.php:380
+msgid " Days "
+msgstr ""
+
+#: triggers/wcst-guarantee-trigger.php:45
+#: triggers/wcst-guarantee-trigger.php:178
+msgid ""
+"You can set it up to display a guarantee box with icon and text as shown in "
+"preview."
+msgstr ""
+
+#: triggers/wcst-guarantee-trigger.php:65
+#: triggers/wcst-guarantee-trigger.php:201
+msgid "Add Guarantee"
+msgstr ""
+
+#: triggers/wcst-guarantee-trigger.php:66
+#: triggers/wcst-guarantee-trigger.php:202
+msgid "Remove Guarantee"
+msgstr ""
+
+#: triggers/wcst-guarantee-trigger.php:72
+#: triggers/wcst-guarantee-trigger.php:208
+msgid "Guarantee Heading"
+msgstr ""
+
+#: triggers/wcst-guarantee-trigger.php:77
+#: triggers/wcst-guarantee-trigger.php:213
+msgid "Guarantee Text"
+msgstr ""
+
+#: triggers/wcst-guarantee-trigger.php:80
+msgid ""
+"<i>{{current_date}}</i> outputs as 12/12/2016 <br/> <i>{{current_time}}</i> "
+"outputs as 00:00 am <br/> <a href=\"javascript:void(0);\" onclick="
+"\"wcst_show_tb('SOME THICKBOX TEXT','wcst_guarantee_merge_tags_help');"
+"\">Learn more about these tags </a>"
+msgstr ""
+
+#: triggers/wcst-guarantee-trigger.php:86
+#: triggers/wcst-guarantee-trigger.php:221
+msgid "Icon"
+msgstr ""
+
+#: triggers/wcst-guarantee-trigger.php:90
+#: triggers/wcst-guarantee-trigger.php:225
+msgid "Built-in"
+msgstr ""
+
+#: triggers/wcst-guarantee-trigger.php:96
+#: triggers/wcst-guarantee-trigger.php:231
+msgid "Built-in Icon"
+msgstr ""
+
+#: triggers/wcst-guarantee-trigger.php:128
+#: triggers/wcst-guarantee-trigger.php:263
+#: triggers/wcst-sales-count-trigger.php:133
+#: triggers/wcst-sales-count-trigger.php:271
+#: triggers/wcst-sales-snippet-trigger.php:128
+#: triggers/wcst-sales-snippet-trigger.php:266
+msgid "Background Color"
+msgstr ""
+
+#: triggers/wcst-guarantee-trigger.php:137
+#: triggers/wcst-guarantee-trigger.php:272
+#: triggers/wcst-sales-count-trigger.php:143
+#: triggers/wcst-sales-count-trigger.php:281
+#: triggers/wcst-sales-snippet-trigger.php:137
+#: triggers/wcst-sales-snippet-trigger.php:275
+msgid "Border Color"
+msgstr ""
+
+#: triggers/wcst-guarantee-trigger.php:182
+msgid "Guarantee Box"
+msgstr ""
+
+#: triggers/wcst-low-stock-trigger.php:53
+#: triggers/wcst-low-stock-trigger.php:172
+msgid ""
+"You can set it up in one of the two modes: <i>Commitment</i> or <i>Scarcity</"
+"i>. This trigger is applicable for the products on sale."
+msgstr ""
+
+#: triggers/wcst-low-stock-trigger.php:60
+#: triggers/wcst-low-stock-trigger.php:182
+msgid "Commitment Text"
+msgstr ""
+
+#: triggers/wcst-low-stock-trigger.php:71
+#: triggers/wcst-low-stock-trigger.php:193
+msgid "Scarcity Text"
+msgstr ""
+
+#: triggers/wcst-low-stock-trigger.php:82
+#: triggers/wcst-low-stock-trigger.php:204
+msgid "Out of Stock Text"
+msgstr ""
+
+#: triggers/wcst-low-stock-trigger.php:97
+#: triggers/wcst-low-stock-trigger.php:219
+msgid "Commitment"
+msgstr ""
+
+#: triggers/wcst-low-stock-trigger.php:98
+#: triggers/wcst-low-stock-trigger.php:220
+msgid "Scarcity"
+msgstr ""
+
+#: triggers/wcst-low-stock-trigger.php:106
+#: triggers/wcst-low-stock-trigger.php:228
+msgid "Auto Switch to Scarcity Mode"
+msgstr ""
+
+#: triggers/wcst-low-stock-trigger.php:107
+#: triggers/wcst-low-stock-trigger.php:229
+msgid "items left in stock"
+msgstr ""
+
+#: triggers/wcst-low-stock-trigger.php:122
+#: triggers/wcst-low-stock-trigger.php:244
+msgid "Commitment Text Color"
+msgstr ""
+
+#: triggers/wcst-low-stock-trigger.php:131
+#: triggers/wcst-low-stock-trigger.php:253
+msgid "Scarcity Text Color"
+msgstr ""
+
+#: triggers/wcst-low-stock-trigger.php:140
+#: triggers/wcst-low-stock-trigger.php:262
+msgid "Out of Stock Text Color"
+msgstr ""
+
+#: triggers/wcst-low-stock-trigger.php:176
+msgid "Stock Status"
+msgstr ""
+
+#: triggers/wcst-sales-count-trigger.php:48
+#: triggers/wcst-sales-count-trigger.php:184
+msgid ""
+"You can select <i>Order Start and End date</i> to display sales count like "
+"\"25 orders in last 30 days\". for selected dates."
+msgstr ""
+
+#: triggers/wcst-sales-count-trigger.php:109
+#: triggers/wcst-sales-count-trigger.php:247
+msgid "Sales Count Text"
+msgstr ""
+
+#: triggers/wcst-sales-count-trigger.php:110
+#: triggers/wcst-sales-count-trigger.php:248
+msgid ""
+"<i>{{order_count}}</i> outputs the number of sales for given period.<br/"
+"><i>{{sold_item_count}}</i> outputs the number of item sales for given "
+"period."
+msgstr ""
+
+#: triggers/wcst-sales-count-trigger.php:120
+#: triggers/wcst-sales-count-trigger.php:258
+#: triggers/wcst-sales-snippet-trigger.php:115
+#: triggers/wcst-sales-snippet-trigger.php:253
+msgid "Hide if Number of Orders is Less than"
+msgstr ""
+
+#: triggers/wcst-sales-snippet-trigger.php:43
+msgid ""
+"<div class=\"wcst_desc_before_row\">You can select <i>Order Start and End "
+"date</i> to display sales snippet like \"John from Chicago, Taylor from "
+"Miami and 7 others bought this item recently\" for selected dates.</div>"
+msgstr ""
+
+#: triggers/wcst-sales-snippet-trigger.php:104
+#: triggers/wcst-sales-snippet-trigger.php:242
+msgid "Sales Snippet Text"
+msgstr ""
+
+#: triggers/wcst-sales-snippet-trigger.php:105
+#: triggers/wcst-sales-snippet-trigger.php:243
+msgid ""
+"<i>{{sales_snippet}}</i> outputs the text \"Buyer A from City A , Buyer B "
+"from City B and X others\""
+msgstr ""
+
+#: triggers/wcst-sales-snippet-trigger.php:178
+msgid ""
+"You can select <i>Order Start and End date</i> to display sales snippet like "
+"\"John from Chicago, Taylor from Miami and 7 others bought this item recently"
+"\" for selected dates."
+msgstr ""
+
+#: triggers/wcst-sales-snippet-trigger.php:480
+msgid " from "
+msgstr ""
+
+#: triggers/wcst-sales-snippet-trigger.php:495
+#: triggers/wcst-sales-snippet-trigger.php:497
+msgid " & "
+msgstr ""
+
+#: triggers/wcst-sales-snippet-trigger.php:495
+msgid " others"
+msgstr ""
+
+#: triggers/wcst-sales-snippet-trigger.php:497
+msgid " other"
+msgstr ""
+
+#: triggers/wcst-savings-trigger.php:47 triggers/wcst-savings-trigger.php:112
+msgid ""
+"You can display savings in three different formats using these merge tags "
+"<i>{{savings_value_percentage}}</i>, <i>{{savings_value}}</i> or "
+"<i>{{savings_percentage}}</i> for the products on sale."
+msgstr ""
+
+#: triggers/wcst-savings-trigger.php:54 triggers/wcst-savings-trigger.php:122
+msgid "Text"
+msgstr ""
+
+#: triggers/wcst-savings-trigger.php:55 triggers/wcst-savings-trigger.php:123
+msgid ""
+"<i>{{savings_value_percentage}}</i> display savings in both price and "
+"percentage. Example: $10 (33%).\n"
+"     <br/><i>{{savings_value}}</i> display savings in price. Example: $10.\n"
+"     <br/><i>{{savings_percentage}}</i> display savings in percentage. "
+"Example: 33%."
+msgstr ""
+
+#: triggers/wcst-savings-trigger.php:90 triggers/wcst-savings-trigger.php:179
+msgid "Show below Variation's Price"
+msgstr ""
+
+#: triggers/wcst-savings-trigger.php:91 triggers/wcst-savings-trigger.php:180
+msgid "Applicable only for variable products"
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:44
+#: triggers/wcst-smarter-reviews-trigger.php:170
+msgid ""
+"You can set it up in one of the two templates: <i>Satisfaction Rate "
+"Template</i> and <i>Positive Feedback Rate Template</i>."
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:51
+#: triggers/wcst-smarter-reviews-trigger.php:180
+msgid "Satisfaction Rate Text"
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:52
+#: triggers/wcst-smarter-reviews-trigger.php:181
+msgid ""
+"Calculates percentage of rating. For example, if product has average rating "
+"of 4.3, it will show satisfaction rate as 86%.<br/><i>{{rating_percentage}}</"
+"i> displays percentage of rating.<br/><i>{{number_of_review}}</i> displays "
+"number of reviews."
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:62
+#: triggers/wcst-smarter-reviews-trigger.php:191
+msgid "Positive Feedback Rate Text"
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:63
+#: triggers/wcst-smarter-reviews-trigger.php:192
+msgid ""
+"Calculates percentage of people who gave 4 or 5 stars. For example, if 8 out "
+"10 buyers gave rating greater than or equal to 4, it will show positive "
+"feedback as 80%.<br/><i>{{positive_feedback_percentage}}</i> displays "
+"percentage of people who gave four or greater than four stars.<br/"
+"><i>{{number_of_review}}</i> displays number of reviews."
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:73
+#: triggers/wcst-smarter-reviews-trigger.php:202
+msgid "Show Template with higher percentage"
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:86
+#: triggers/wcst-smarter-reviews-trigger.php:215
+msgid "Choose Template"
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:96
+#: triggers/wcst-smarter-reviews-trigger.php:225
+msgid "Satisfaction Rate"
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:97
+#: triggers/wcst-smarter-reviews-trigger.php:226
+msgid "Positive Feedback Rate"
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:100
+#: triggers/wcst-smarter-reviews-trigger.php:229
+msgid "Hide Template if rating percentage less than"
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:102
+#: triggers/wcst-smarter-reviews-trigger.php:231
+msgid "%"
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:114
+#: triggers/wcst-smarter-reviews-trigger.php:243
+msgid "Hide Template if Reviews are Disabled"
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:127
+#: triggers/wcst-smarter-reviews-trigger.php:256
+msgid "Hyperlink Text with Reviews Area"
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:149
+#: triggers/wcst-smarter-reviews-trigger.php:278
+msgid "Font size"
+msgstr ""
+
+#: triggers/wcst-smarter-reviews-trigger.php:269
+msgid "Text color"
+msgstr ""
+
+#: xl-woocommerce-sales-triggers.php:117
+msgid "WooCommerce Url require WooCommerce version "
+msgstr ""
+
+#: xl-woocommerce-sales-triggers.php:125
+msgid ""
+"XL WooCommerce Sales Triggers: WooCommerce not Activated or not Installed."
+msgstr ""
+
+#: xl/includes/class-xl-addon.php:143
+msgid "Plugin Is Installed."
+msgstr ""
+
+#: xl/includes/class-xl-addon.php:149 xl/includes/class-xl-addon.php:158
+msgid "Get Add-On"
+msgstr ""
+
+#: xl/includes/class-xl-addon.php:153
+#, php-format
+msgid ""
+"Available For Install. <a target=\"_blank\" href=\"%s\"> Download Now</a>"
+msgstr ""
+
+#: xl/includes/class-xl-addon.php:162
+#, php-format
+msgid ""
+"License Not Available. <a target=\"_blank\" href=\"%s\"> Purchase Now</a>"
+msgstr ""
+
+#: xl/includes/class-xl-admin-notifications.php:42
+#: xl/includes/class-xl-process.php:54
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: xl/includes/class-xl-admin-notifications.php:46
+#: xl/includes/class-xl-process.php:58
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: xl/includes/class-xl-dashboard-loader.php:133
+msgid ""
+"To enable this update please activate your XL license by visiting the "
+"Dashboard Page."
+msgstr ""
+
+#: xl/includes/class-xl-dashboard-loader.php:224
+msgid "Purchased"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:172
+msgid "Account"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:173
+msgid "Add On"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:174
+msgid "Contact Us"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:175
+msgid "Change Ownership"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:176 xl/views/xl-tabs-licenses.phtml:36
+#: xl/views/xl-tabs-plugins.phtml:30 xl/views/xl-tabs-support.phtml:41
+msgid "Support"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:177
+msgid "Support Forum"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:178
+msgid "Add Ons"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:180
+msgid "Awesome"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:183
+msgid "Unlimited Updates"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:185
+msgid "Cancel Trial"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:186
+msgid "Free Trial"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:187
+#, php-format
+msgid "Start my free %s"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:188
+#, php-format
+msgid "No commitment for %s - cancel anytime"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:189
+#, php-format
+msgid "After your free %s, pay as little as %s"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:190
+msgid "Details"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:191
+msgid "Account Details"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:193
+msgid "Delete Account"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:196
+msgid "Change Plan"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:201
+msgid "New"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:202
+msgid "Free"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:205
+msgid "Purchase License"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:207
+msgid "Buy License"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:208
+msgid "Single Site License"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:209
+msgid "Unlimited Licenses"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:210
+#, php-format
+msgid "Up to %s Sites"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:211
+#, php-format
+msgid "%sRenew your license now%s to access version %s features and support."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:213
+#, php-format
+msgid "You are just one step away - %s"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:215
+#, php-format
+msgid "We made a few tweaks to the plugin, %s"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:216
+#, php-format
+msgid "Opt-in to make \"%s\" Better!"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:218
+msgid ""
+"Freemius SDK couldn't find the plugin's main file. Please contact "
+"sdk@freemius.com with the current error."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:222
+msgid "not verified"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:223
+msgid "Verify Email"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:226
+msgid "No expiration"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:227
+msgid "Expired"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:228
+msgid "Cancelled"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:232
+msgid "Name"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:233
+msgid "Email"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:234
+msgid "Verified"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:235
+#: xl/includes/class-xl-updater-licenses-table.php:174
+msgid "Plugin"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:236
+msgid "Plugins"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:239
+msgid "Free version"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:240
+msgid "Premium version"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:242
+msgid "ID"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:243
+msgid "Users"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:244
+msgid "Plugin Installs"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:246
+msgid "User ID"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:247
+msgid "Site ID"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:248
+msgid "Public Key"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:249
+msgid "Secret Key"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:251
+msgid "No ID"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:254
+msgid "Deactivate License"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:259
+msgid "Install Now"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:260
+msgid "Install Update Now"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:261
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:262
+msgid "Localhost"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:264
+#, php-format
+msgid "What is your %s?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:265
+msgid "Activate this add-on"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:266
+msgid ""
+"Deactivating your license will block all premium features, but will enable "
+"you to activate the license on another site. Are you sure you want to "
+"proceed?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:267
+#, php-format
+msgid ""
+"Deleting the account will automatically deactivate your %s plan license so "
+"you can use it on other sites. If you want to terminate the recurring "
+"payments as well, click the \"Cancel\" button, and first \"Downgrade\" your "
+"account. Are you sure you would like to continue with the deletion?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:268
+msgid ""
+"Deletion is not temporary. Only delete if you no longer want to use this "
+"plugin anymore. Are you sure you would like to continue with the deletion?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:269
+#, php-format
+msgid ""
+"Downgrading your plan will immediately stop all future recurring payments "
+"and your %s plan license will expire in %s."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:270
+msgid ""
+"Cancelling the trial will immediately block access to all premium features. "
+"Are you sure?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:271
+#, php-format
+msgid ""
+"You can still enjoy all %s features but you will not have access to plugin "
+"updates and support."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:272
+#, php-format
+msgid ""
+"Once your license expire you can still use the Free version but you will NOT "
+"have access to the %s features."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:273
+msgid "Are you sure you want to proceed?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:275
+#, php-format
+msgid "Add Ons for %s"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:276
+msgid ""
+"We could'nt load the add-ons list. It's probably an issue on our side, "
+"please try to come back in few minutes."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:278
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:280
+msgid "Yes - Deactivate"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:281
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:283
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:284
+msgid "I found a better plugin"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:285
+msgid "I only needed the plugin for a short period"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:286
+msgid "The plugin broke my site"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:287
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:288
+msgid "I can't pay for it anymore"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:290
+msgid "What's the plugin's name?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:291
+msgid "What price would you feel comfortable paying?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:292
+msgid "I couldn't understand how to make it work"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:293
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:294
+msgid "The plugin is not working"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:295
+msgid "It's not what I was looking for"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:296
+msgid "The plugin didn't work as expected"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:297
+msgid "What feature?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:298
+msgid "Kindly share what didn't work so we can fix it for future users..."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:299
+msgid "What you've been looking for?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:300
+msgid "What did you expect?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:301
+msgid "The plugin didn't work"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:302
+msgid "I don't like to share my information with you"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:307
+#, php-format
+msgid ""
+"In order to enjoy all our features and functionality, %s needs to connect "
+"your user, %s at %s, to %s"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:308
+#, php-format
+msgid ""
+"Please help us improve %2$s! If you opt-in, some data about your usage of "
+"%2$s will be sent to %5$s. If you skip this, that's okay! %2$s will still "
+"work just fine."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:309
+#, php-format
+msgid ""
+"You should receive an activation email for %s to your mailbox at %s. Please "
+"make sure you click the activation button in that email to complete the "
+"install."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:310
+msgid "What permissions are being granted?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:311
+msgid "Your Profile Overview"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:312
+msgid "Name and email address"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:313
+msgid "Your Site Overview"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:314
+msgid "Site address, WordPress version, PHP Version"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:315
+msgid "Plugin Events"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:316
+msgid "Activation, deactivation and uninstall"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:317
+msgid "Newsletter"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:318
+msgid "Updates, announcements, marketing, no spam"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:319
+msgid "Privacy Policy"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:320
+msgid "Terms of Service"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:325
+msgid "Re-send activation email"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:328
+msgid "Screenshots"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:329
+#, php-format
+msgid "Click to view full-size screenshot %d"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:332
+msgid "Freemius Debug"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:336
+msgid "Freemius State"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:344
+#, php-format
+msgid "Add Ons of Plugin %s"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:345
+msgid "Are you sure you want to delete all Freemius data?"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:346
+msgid "Actions"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:347
+msgid "Delete All Accounts"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:348
+msgid "Start Fresh"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:349
+msgid "Clear API Cache"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:350
+msgid "Sync Data From Server"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:351
+msgid "Scheduled Crons"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:360
+msgid "O.K"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:365
+msgid "Seems like you got the latest release."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:366
+msgid "You are all good!"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:367
+msgid ""
+"Sorry, we could not complete the email update. Another user with the same "
+"email is already registered."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:368
+#, php-format
+msgid ""
+"If you would like to give up the ownership of the plugin's account to %s "
+"click the Change Ownership button."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:369
+msgid ""
+"Your email was successfully updated. You should receive an email with "
+"confirmation instructions in few moments."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:370
+msgid "Your name was successfully updated."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:371
+#, php-format
+msgid "You have successfully updated your %s."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:372
+msgid "Please provide your full name."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:373
+#, php-format
+msgid ""
+"Verification mail was just sent to %s. If you can't find it after 5 min, "
+"please check your spam box."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:374
+#, php-format
+msgid ""
+"Just letting you know that the add-ons information of %s is being pulled "
+"from external server."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:375
+msgid "No credit card required"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:376
+msgid "Premium plugin version was successfully activated."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:377
+#, php-format
+msgid "The upgrade of %s was successfully completed."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:378
+#, php-format
+msgid "Your account was successfully activated with the %s plan."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:379
+#, php-format
+msgid "Download the latest %s version now"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:380
+msgid "Download the latest version now"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:382
+#, php-format
+msgid "Your %s Add-on plan was successfully upgraded."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:383
+msgid "Your email has been successfully verified - you are AWESOME!"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:384
+msgid "Your plan was successfully upgraded."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:385
+#, php-format
+msgid "Your plan was successfully changed to %s."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:386
+msgid ""
+"Your license has expired. You can still continue using the free plugin "
+"forever."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:387
+msgid "Your trial has been successfully started."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:388
+msgid "Your license was successfully activated."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:389
+msgid "It looks like your site currently don't have an active license."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:390
+#, php-format
+msgid "Your license was successfully deactivated, you are back to the %s plan."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:391
+msgid "It looks like the license deactivation failed."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:392
+msgid "It looks like the license could not be activated."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:393
+msgid "Error received from the server:"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:394
+msgid ""
+"Your trial has expired. You can still continue using all our free features."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:395
+#, php-format
+msgid ""
+"Your plan was successfully downgraded. Your %s plan license will expire in "
+"%s."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:396
+msgid ""
+"Seems like we are having some temporary issue with your plan downgrade. "
+"Please try again in few minutes."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:397
+msgid ""
+"It looks like you are not in trial mode anymore so there's nothing to "
+"cancel :)"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:398
+#, php-format
+msgid "Your %s free trial was successfully cancelled."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:400
+#, php-format
+msgid "Please download %s."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:402
+#, php-format
+msgid ""
+"How do you like %s so far? Test all our %s premium features with a %d-day "
+"free trial."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:404
+msgid ""
+"Seems like we are having some temporary issue with your trial cancellation. "
+"Please try again in few minutes."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:405
+#, php-format
+msgid "No commitment for %s days - cancel anytime!"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:406
+#, php-format
+msgid ""
+"Your license has expired. You can still continue using all the %s features, "
+"but you'll need to renew your license to continue getting updates and "
+"support."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:407
+#, php-format
+msgid "Couldn't activate %s."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:408
+msgid "Please contact us with the following message:"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:409
+#, php-format
+msgid ""
+"It looks like you are still on the %s plan. If you did upgrade or change "
+"your plan, it's probably an issue on our side - sorry."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:410
+msgid "Please contact us here"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:411
+#, php-format
+msgid ""
+"I have upgraded my account but when I try to Sync the License, the plan "
+"remains %s."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:414
+msgid "From unknown reason, the API connectivity test fails."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:415
+msgid ""
+"We use PHP cURL library for the API calls, which is a very common library "
+"and usually installed out of the box. Unfortunately, cURL is not installed "
+"on your server."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:416
+msgid ""
+"From unknown reason, CloudFlare, the firewall we use, blocks the connection."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:418
+msgid ""
+"It looks like your server is using Squid ACL (access control lists), which "
+"blocks the connection."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:419
+msgid "I don't know what is Squid or ACL, help me!"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:420
+#: xl/includes/class-xl-deactivation.php:424
+#, php-format
+msgid ""
+"We'll make sure to contact your hosting company and resolve the issue. You "
+"will get a follow-up email to %s once we have an update."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:421
+msgid "I'm a system administrator"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:422
+#, php-format
+msgid ""
+"Great, please whitelist the following domains: %s. Once you done, deactivate "
+"the plugin and activate it again."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:423
+msgid "I don't know what is cURL or how to install it, help me!"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:425
+msgid ""
+"Great, please install cURL and enable it in your php.ini file. To make sure "
+"it was successfully activated, use 'phpinfo()'. Once activated, deactivate "
+"the plugin and reactivate it back again."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:426
+msgid ""
+"We are sure it's an issue on our side and more than happy to resolve it for "
+"you ASAP if you give us a chance."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:427
+msgid "Yes - I'm giving you a chance to fix it"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:428
+#, php-format
+msgid ""
+"We will do our best to whitelist your server and resolve this issue ASAP. "
+"You will get a follow-up email to %s once we have an update."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:429
+msgid "Let's try your previous version"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:430
+msgid "Uninstall this version and install the previous one."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:431
+msgid "That's exhausting, please deactivate"
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:432
+msgid ""
+"We feel your frustration and sincerely apologize for the inconvenience. Hope "
+"to see you again in the future."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:433
+#, php-format
+msgid ""
+"Thank for giving us the chance to fix it! A message was just sent to our "
+"technical staff. We will get back to you as soon as we have an update to %s. "
+"Appreciate your patience."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:435
+msgid ""
+"It seems like one of the authentication parameters is wrong. Update your "
+"Public Key, Secret Key & User ID, and try again."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:438
+#, php-format
+msgid ""
+"Please check your mailbox, you should receive an email via %s to confirm the "
+"ownership change. From security reasons, you must confirm the change within "
+"the next 15 min. If you cannot find the email, please check your spam folder."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:439
+#, php-format
+msgid ""
+"Thanks for confirming the ownership change. An email was just sent to %s for "
+"final approval."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:440
+#, php-format
+msgid "%s is the new owner of the account."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:446
+msgid "Add-on must be deployed to WordPress.org or Freemius."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:447
+msgid "Paid add-on must be deployed to Freemius."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:449
+#, php-format
+msgid ""
+"%s is a premium only add-on. You have to purchase a license first before "
+"activating the plugin."
+msgstr ""
+
+#: xl/includes/class-xl-deactivation.php:450
+#, php-format
+msgid ""
+"%s free trial was successfully cancelled. Since the add-on is premium only "
+"it was automatically deactivated. If you like to use it in the future, "
+"you'll have to purchase a license."
+msgstr ""
+
+#: xl/includes/class-xl-process.php:45
+msgid "<p> Plugin successfully deactivated. </p>"
+msgstr ""
+
+#: xl/includes/class-xl-support.php:164
+msgid ""
+"<p> Your Support Request has been submitted successfully. We will contact "
+"you shortly. Thank You!</p>"
+msgstr ""
+
+#: xl/includes/class-xl-support.php:171
+msgid ""
+"<p> Unable to submit your request at this moment. Please Try Again Later.</p>"
+msgstr ""
+
+#: xl/includes/class-xl-updater-licenses-table.php:46
+msgid "No plugins available for activation."
+msgstr ""
+
+#: xl/includes/class-xl-updater-licenses-table.php:88
+#, php-format
+msgid "version %1$s available"
+msgstr ""
+
+#: xl/includes/class-xl-updater-licenses-table.php:115
+msgid "Invalid Key"
+msgstr ""
+
+#: xl/includes/class-xl-updater-licenses-table.php:175
+msgid "Version"
+msgstr ""
+
+#: xl/includes/class-xl-updater-licenses-table.php:176
+msgid "Key"
+msgstr ""
+
+#: xl/includes/class-xl-updater-licenses-table.php:177
+msgid "Renews On"
+msgstr ""
+
+#: xl/views/xl-tabs-licenses.phtml:5
+msgid "Manage Licenses"
+msgstr ""
+
+#: xl/views/xl-tabs-licenses.phtml:56
+msgid "Activate License"
+msgstr ""
+
+#: xl/views/xl-tabs-licenses.phtml:64
+msgid ""
+"Note: You need to have valid license key to receive updates for these "
+"plugins. Get Your License Key."
+msgstr ""
+
+#: xl/views/xl-tabs-licenses.phtml:66
+msgid "Click Here"
+msgstr ""
+
+#: xl/views/xl-tabs-licenses.phtml:78 xl/views/xl-tabs-plugins.phtml:174
+#: xl/views/xl-tabs-support.phtml:143
+msgid "Could not connect to server."
+msgstr ""
+
+#: xl/views/xl-tabs-plugins.phtml:2
+msgid "View Plugins "
+msgstr ""
+
+#: xl/views/xl-tabs-plugins.phtml:73
+msgid "Installed"
+msgstr ""
+
+#: xl/views/xl-tabs-plugins.phtml:78
+msgid "More Details"
+msgstr ""
+
+#: xl/views/xl-tabs-plugins.phtml:88
+msgid "Status:"
+msgstr ""
+
+#: xl/views/xl-tabs-support.phtml:9
+msgid "Request Support"
+msgstr ""

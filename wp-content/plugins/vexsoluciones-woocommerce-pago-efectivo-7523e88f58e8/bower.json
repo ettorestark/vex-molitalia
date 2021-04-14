@@ -1,0 +1,18 @@
+{
+  "name": "vexsoluciones-gateway-pagoefectivo",
+  "description": "A radical new plugin for WordPress!",
+  "license": "GPLv2",
+  "authors": [
+    "Vex Soluciones"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

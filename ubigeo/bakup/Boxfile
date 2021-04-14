@@ -1,0 +1,58 @@
+global:
+    env:
+        - SLIM_MODE: production
+
+cache2:
+    type: memcached
+    name: result_cache
+
+web1:
+    # App settings
+    name: ubigeo-peru
+    network_dirs:
+        - var/logs
+        - var/cache
+
+    # Apache settings
+    document_root: public
+    httpd_log_level: warn
+
+    # PHP settings
+    version: 5.4
+    stability: production
+    php_extensions:
+        - apc
+        - json
+        - mbstring
+        - pdo
+        - pdo_sqlite
+        - session
+        - memcache
+        - zip
+    php_error_reporting: 30719 # Same as E_ALL
+    php_display_errors: "1"
+    php_short_open_tag: "0"
+    php_default_mimetype: "application/json"
+    php_date_timezone: "America/Lima"
+    php_default_locale: "en_US"
+    php_default_charset: "utf-8"
+    php_max_execution_time: 30
+    php_max_input_time: 60
+    php_post_max_size: "8M"
+    php_file_uploads: "1"
+    php_upload_max_filesize: "2M"
+    php_max_file_uploads: 20
+
+build:
+    type: php
+    version: 5.4
+    stability: production
+    
+    # Install Composer dependencies
+    after_exec:
+        - "if [ ! -f composer.phar ]; then curl -s http://getcomposer.org/installer | php; fi; php composer.phar install"
+
+    # Clear template cache and old logs
+    after_deploy:
+        - "rm -Rf var/cache/*"
+        - "rm -Rf var/logs/*"

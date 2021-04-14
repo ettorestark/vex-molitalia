@@ -1,0 +1,53 @@
+
+Jun 25, 2018 20.52.08: Uncaught Error: Cannot use object of type WP_Error as array in /var/www/html/wp-content/plugins/facturacion-sunat/callApi.php:27
+Stack trace:
+#0 /var/www/html/wp-content/plugins/facturacion-sunat/vexfecore/serviceFeAPI.php(165): vexfacturacionelectronica\callApi::getURL('POST', 'http://api.nube...', '{"Token":"c7174...')
+#1 /var/www/html/wp-content/plugins/facturacion-sunat/vexfecore/vexfeCore.php(101): vexfacturacionelectronica\serviceFeAPI->enviar_comprobante(false, '2')
+#2 /var/www/html/wp-content/plugins/facturacion-sunat/classes/wpFacturacionWoocommerce.php(354): vexfacturacionelectronica\vexfeCore::generarComprobante(Array, Array, Array)
+#3 /var/www/html/wp-includes/class-wp-hook.php(288): vexfacturacionelectronica\wpFacturacionWoocommerce->mysite_woocommerce_order_status_completed('processing', 3828)
+#4 /var/www/html/wp-includes/plugin.php(203): WP_Hook->apply_filters('processing', Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(286): apply_filters('woocommerce_pay...
+
+Jun 25, 2018 20.52.19: Uncaught Error: Cannot use object of type WP_Error as array in /var/www/html/wp-content/plugins/facturacion-sunat/callApi.php:27
+Stack trace:
+#0 /var/www/html/wp-content/plugins/facturacion-sunat/vexfecore/serviceFeAPI.php(165): vexfacturacionelectronica\callApi::getURL('POST', 'http://api.nube...', '{"Token":"c7174...')
+#1 /var/www/html/wp-content/plugins/facturacion-sunat/vexfecore/vexfeCore.php(101): vexfacturacionelectronica\serviceFeAPI->enviar_comprobante(false, '2')
+#2 /var/www/html/wp-content/plugins/facturacion-sunat/classes/wpFacturacionWoocommerce.php(354): vexfacturacionelectronica\vexfeCore::generarComprobante(Array, Array, Array)
+#3 /var/www/html/wp-includes/class-wp-hook.php(288): vexfacturacionelectronica\wpFacturacionWoocommerce->mysite_woocommerce_order_status_completed('processing', 3828)
+#4 /var/www/html/wp-includes/plugin.php(203): WP_Hook->apply_filters('processing', Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(286): apply_filters('woocommerce_pay...
+
+Jun 25, 2018 20.53.30: Uncaught Error: Class 'SoapClient' not found in /var/www/html/wp-content/plugins/vexsoluciones-woocommerce-pago-efectivo-7523e88f58e8/includes/class-pagoefectivo-service-abstract.php:51
+Stack trace:
+#0 /var/www/html/wp-content/plugins/vexsoluciones-woocommerce-pago-efectivo-7523e88f58e8/includes/class-pagoefectivo-crypto.php(69): VGP_Pagoefectivo_Service_Abstract->_loadService('Signer', Array)
+#1 /var/www/html/wp-content/plugins/vexsoluciones-woocommerce-pago-efectivo-7523e88f58e8/includes/class-pagoefectivo-service.php(77): VGP_Pagoefectivo_Crypto->signer(Object(VGP_Pagoefectivo_Solicitud))
+#2 /var/www/html/wp-content/plugins/vexsoluciones-woocommerce-pago-efectivo-7523e88f58e8/includes/class-pagoefectivo-service.php(58): VGP_Pagoefectivo_Service->solicitarPago(Object(VGP_Pagoefectivo_Solicitud))
+#3 /var/www/html/wp-content/plugins/vexsoluciones-woocommerce-pago-efectivo-7523e88f58e8/includes/class-gateway-pagoefectivo-transferencia.php(314): VGP_Pagoefectivo_Service->GenerarCip(Array)
+#4 /var/www/html/wp-co
+
+Jun 25, 2018 20.55.23: Uncaught Error: Cannot use object of type WP_Error as array in /var/www/html/wp-content/plugins/facturacion-sunat/callApi.php:27
+Stack trace:
+#0 /var/www/html/wp-content/plugins/facturacion-sunat/vexfecore/serviceFeAPI.php(165): vexfacturacionelectronica\callApi::getURL('POST', 'http://api.nube...', '{"Token":"c7174...')
+#1 /var/www/html/wp-content/plugins/facturacion-sunat/vexfecore/vexfeCore.php(101): vexfacturacionelectronica\serviceFeAPI->enviar_comprobante(false, '2')
+#2 /var/www/html/wp-content/plugins/facturacion-sunat/classes/wpFacturacionWoocommerce.php(354): vexfacturacionelectronica\vexfeCore::generarComprobante(Array, Array, Array)
+#3 /var/www/html/wp-includes/class-wp-hook.php(288): vexfacturacionelectronica\wpFacturacionWoocommerce->mysite_woocommerce_order_status_completed('processing', 3828)
+#4 /var/www/html/wp-includes/plugin.php(203): WP_Hook->apply_filters('processing', Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(286): apply_filters('woocommerce_pay...
+
+Jun 25, 2018 21.01.02: Uncaught Error: Cannot use object of type WP_Error as array in /var/www/html/wp-content/plugins/facturacion-sunat/callApi.php:27
+Stack trace:
+#0 /var/www/html/wp-content/plugins/facturacion-sunat/vexfecore/serviceFeAPI.php(165): vexfacturacionelectronica\callApi::getURL('POST', 'http://api.nube...', '{"Token":"c7174...')
+#1 /var/www/html/wp-content/plugins/facturacion-sunat/vexfecore/vexfeCore.php(101): vexfacturacionelectronica\serviceFeAPI->enviar_comprobante(false, '2')
+#2 /var/www/html/wp-content/plugins/facturacion-sunat/classes/wpFacturacionWoocommerce.php(354): vexfacturacionelectronica\vexfeCore::generarComprobante(Array, Array, Array)
+#3 /var/www/html/wp-includes/class-wp-hook.php(288): vexfacturacionelectronica\wpFacturacionWoocommerce->mysite_woocommerce_order_status_completed('processing', 3830)
+#4 /var/www/html/wp-includes/plugin.php(203): WP_Hook->apply_filters('processing', Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(286): apply_filters('woocommerce_pay...
+
+Jun 25, 2018 21.13.53: Uncaught Error: Cannot use object of type WP_Error as array in /var/www/html/wp-content/plugins/facturacion-sunat/callApi.php:27
+Stack trace:
+#0 /var/www/html/wp-content/plugins/facturacion-sunat/vexfecore/serviceFeAPI.php(165): vexfacturacionelectronica\callApi::getURL('POST', 'http://api.nube...', '{"Token":"c7174...')
+#1 /var/www/html/wp-content/plugins/facturacion-sunat/vexfecore/vexfeCore.php(101): vexfacturacionelectronica\serviceFeAPI->enviar_comprobante(false, '2')
+#2 /var/www/html/wp-content/plugins/facturacion-sunat/classes/wpFacturacionWoocommerce.php(354): vexfacturacionelectronica\vexfeCore::generarComprobante(Array, Array, Array)
+#3 /var/www/html/wp-includes/class-wp-hook.php(288): vexfacturacionelectronica\wpFacturacionWoocommerce->mysite_woocommerce_order_status_completed('processing', 3830)
+#4 /var/www/html/wp-includes/plugin.php(203): WP_Hook->apply_filters('processing', Array)
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(286): apply_filters('woocommerce_pay...

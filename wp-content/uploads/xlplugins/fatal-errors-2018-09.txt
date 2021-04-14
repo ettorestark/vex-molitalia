@@ -1,0 +1,2 @@
+
+Sep 21, 2018 21.03.35: Out of memory (allocated 12582912) (tried to allocate 20480 bytes)

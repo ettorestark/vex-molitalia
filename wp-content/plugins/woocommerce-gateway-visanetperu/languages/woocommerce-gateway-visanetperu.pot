@@ -1,0 +1,663 @@
+# Copyright (C) 2017 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin//home/ruzzll/Projects/vexsoluciones/"
+"php/visanet-woocommerce/woocommerce-gateway-visanetperu\n"
+"POT-Creation-Date: 2017-11-21 06:24:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: includes/class-gateway-visanet-peru.php:55
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:26
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:26
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:26
+msgid "Order with VISA"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:56
+#: includes/class-gateway-visanet-peru.php:390
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:27
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:360
+msgid "Visanet"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:57
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:28
+msgid "Visanet Payment Gateway Plug-in for WooCommerce"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:120
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:91
+msgid "Nombre del tarjetahabiente"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:124
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:95
+msgid "Número de Tarjeta"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:128
+#: includes/class-gateway-visanet-peru.php:151
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:99
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:122
+msgid "Fecha y hora del pedido"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:132
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:103
+msgid "Importe de la transacción"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:136
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:107
+msgid "Moneda"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:147
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:118
+msgid "Número de pedido"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:155
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:126
+msgid "Motivo de denegación"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:200
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:95
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:95
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:170
+msgid "Gateway disabled"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:200
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:95
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:95
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:170
+msgid "Visa does not support your store currency."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:265
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:160
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:160
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:235
+msgid "License key"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:266
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:161
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:161
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:236
+msgid "Enter the license key"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:319
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:214
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:214
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:289
+msgid "Upload image"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:381
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:276
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:276
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:351
+msgid "Enable / Disable"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:382
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:277
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:277
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:352
+msgid "Enable this payment gateway"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:387
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:282
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:282
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:357
+msgid "Title"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:389
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:284
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:284
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:359
+msgid "Payment title the customer will see during the checkout process."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:394
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:289
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:289
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:364
+msgid "Description"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:396
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:291
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:291
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:366
+msgid "Payment description the customer will see during the checkout process."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:397
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:292
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:292
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:367
+msgid "Visa"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:404
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:299
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:299
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:374
+msgid "API credentials"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:406
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:301
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:301
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:376
+msgid ""
+"Enter your Visa API credentials to process refunds via Visa. Learn how to "
+"access your <a href=\"%s\">Visa API Credentials</a>."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:409
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:304
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:304
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:379
+msgid "Visanet Perú Client Code (PEN: Peruvian Nuevo Sol)"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:411
+#: includes/class-gateway-visanet-peru.php:426
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:306
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:321
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:306
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:321
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:381
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:396
+msgid "This is the code provided by Visanet Perú."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:414
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:309
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:309
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:384
+msgid "Visanet Perú Access Key (PEN: Peruvian Nuevo Sol)"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:416
+#: includes/class-gateway-visanet-peru.php:431
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:311
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:326
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:311
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:326
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:386
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:401
+msgid "This is the access key provided by Visanet Perú."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:419
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:314
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:314
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:389
+msgid "Visanet Perú Secret Key (PEN: Peruvian Nuevo Sol)"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:421
+#: includes/class-gateway-visanet-peru.php:436
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:316
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:331
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:316
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:331
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:391
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:406
+msgid "This is the secret key provided by Visanet Perú."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:424
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:319
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:319
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:394
+msgid "Visanet Perú Client Code (USD: USA Dollar)"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:429
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:324
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:324
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:399
+msgid "Visanet Perú Access Key (USD: USA Dollar)"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:434
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:329
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:329
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:404
+msgid "Visanet Perú Secret Key (USD: USA Dollar)"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:441
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:336
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:336
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:411
+msgid "Formulario de pago"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:443
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:338
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:338
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:413
+msgid "Datos a mostrar en el modal"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:446
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:341
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:341
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:416
+msgid "Nombre"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:448
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:343
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:343
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:418
+msgid ""
+"Nombre del comercio (se mostrará en caso se omita el logo). Se sugiere una "
+"longitud máxima de 25 caracteres."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:451
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:346
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:346
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:421
+msgid "Logo del comercio"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:452
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:347
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:347
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:422
+msgid ""
+"Altamente recomendable incluir un logo, caso contrario se mostrará el "
+"nombre del comercio"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:457
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:352
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:352
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:427
+msgid "Color del boton"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:459
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:354
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:354
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:429
+msgid "Define el color del botón “Pagar” en el formulario."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:463
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:358
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:358
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:433
+msgid "Mostrar cantidad"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:465
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:360
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:360
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:435
+msgid "Indica si se muestra el monto a pagar en el botón Pagar del formulario. "
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:468
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:363
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:363
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:438
+msgid "Si"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:469
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:364
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:364
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:439
+msgid "No"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:475
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:370
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:370
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:445
+msgid "Boton Visa"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:477
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:372
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:372
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:447
+msgid "Personaliza el boton que levanta el formulario de pago."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:480
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:375
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:375
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:450
+msgid "Tamaño"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:482
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:377
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:377
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:452
+msgid "Tamaño del Botón de Pago"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:485
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:380
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:380
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:455
+msgid "Default"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:486
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:381
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:381
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:456
+msgid "Small"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:487
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:382
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:382
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:457
+msgid "Medium"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:488
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:383
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:383
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:458
+msgid "Large"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:492
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:387
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:387
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:462
+msgid "Color"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:494
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:389
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:389
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:464
+msgid "Color del Botón de Pago."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:497
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:392
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:392
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:467
+msgid "Navy"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:498
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:393
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:393
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:468
+msgid "Gray"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:503
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:398
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:398
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:473
+msgid "Modo de pruebas"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:505
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:400
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:400
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:475
+msgid "Compruebe que funciona correctamente."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:510
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:405
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:405
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:480
+msgid "Visanet Perú Test Mode"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:511
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:406
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:406
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:481
+msgid "Enable Test Mode"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:513
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:408
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:408
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:483
+msgid "Place the payment gateway in test mode."
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:518
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:413
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:413
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:488
+msgid "Debug log"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:520
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:415
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:415
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:490
+msgid "Enable logging"
+msgstr ""
+
+#: includes/class-gateway-visanet-peru.php:522
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:417
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:417
+#: release/2.0.4/includes/class-gateway-visanet-peru.php:492
+msgid "Log Visanet events, such as HTTP requests, inside %s"
+msgstr ""
+
+#: includes/class-visa-logo.php:61 includes/class-visa-logo.php:69
+#: release/2.0.2/includes/class-visa-logo.php:61
+#: release/2.0.2/includes/class-visa-logo.php:69
+#: release/2.0.3/includes/class-visa-logo.php:61
+#: release/2.0.3/includes/class-visa-logo.php:69
+#: release/2.0.4/includes/class-visa-logo.php:61
+#: release/2.0.4/includes/class-visa-logo.php:69
+msgid "Visa Logo"
+msgstr ""
+
+#: includes/class-visa-logo.php:62
+#: release/2.0.2/includes/class-visa-logo.php:62
+#: release/2.0.3/includes/class-visa-logo.php:62
+#: release/2.0.4/includes/class-visa-logo.php:62
+msgid "New title"
+msgstr ""
+
+#: includes/class-visa-logo.php:198
+#: release/2.0.2/includes/class-visa-logo.php:198
+#: release/2.0.3/includes/class-visa-logo.php:198
+#: release/2.0.4/includes/class-visa-logo.php:198
+msgid "Title:"
+msgstr ""
+
+#: includes/class-visanet-response.php:110
+#: release/2.0.2/includes/class-visanet-response.php:107
+#: release/2.0.3/includes/class-visanet-response.php:110
+#: release/2.0.4/includes/class-visanet-response.php:110
+msgid "Order cancelled by system."
+msgstr ""
+
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:27
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:285
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:27
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:285
+msgid "Visanet Perú"
+msgstr ""
+
+#: release/2.0.2/includes/class-gateway-visanet-peru.php:28
+#: release/2.0.3/includes/class-gateway-visanet-peru.php:28
+msgid "Visanet Perú Payment Gateway Plug-in for WooCommerce"
+msgstr ""
+
+#: release/2.0.2/woocommerce/checkout/thankyou.php:38
+#: release/2.0.3/woocommerce/checkout/thankyou.php:38
+#: release/2.0.4/woocommerce/checkout/thankyou.php:38
+#: woocommerce/checkout/thankyou.php:38
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: release/2.0.2/woocommerce/checkout/thankyou.php:43
+#: release/2.0.2/woocommerce/checkout/thankyou.php:70
+#: release/2.0.3/woocommerce/checkout/thankyou.php:43
+#: release/2.0.3/woocommerce/checkout/thankyou.php:70
+#: release/2.0.4/woocommerce/checkout/thankyou.php:43
+#: release/2.0.4/woocommerce/checkout/thankyou.php:72
+#: woocommerce/checkout/thankyou.php:43 woocommerce/checkout/thankyou.php:72
+msgid "Order number:"
+msgstr ""
+
+#: release/2.0.2/woocommerce/checkout/thankyou.php:48
+#: release/2.0.2/woocommerce/checkout/thankyou.php:75
+#: release/2.0.3/woocommerce/checkout/thankyou.php:48
+#: release/2.0.3/woocommerce/checkout/thankyou.php:75
+msgid "Date:"
+msgstr ""
+
+#: release/2.0.2/woocommerce/checkout/thankyou.php:53
+#: release/2.0.2/woocommerce/checkout/thankyou.php:95
+#: release/2.0.3/woocommerce/checkout/thankyou.php:53
+#: release/2.0.3/woocommerce/checkout/thankyou.php:95
+msgid "Detail:"
+msgstr ""
+
+#: release/2.0.2/woocommerce/checkout/thankyou.php:59
+#: release/2.0.3/woocommerce/checkout/thankyou.php:59
+#: release/2.0.4/woocommerce/checkout/thankyou.php:59
+#: woocommerce/checkout/thankyou.php:59
+msgid "Pay"
+msgstr ""
+
+#: release/2.0.2/woocommerce/checkout/thankyou.php:61
+#: release/2.0.3/woocommerce/checkout/thankyou.php:61
+#: release/2.0.4/woocommerce/checkout/thankyou.php:61
+#: woocommerce/checkout/thankyou.php:61
+msgid "My account"
+msgstr ""
+
+#: release/2.0.2/woocommerce/checkout/thankyou.php:65
+#: release/2.0.2/woocommerce/checkout/thankyou.php:117
+#: release/2.0.3/woocommerce/checkout/thankyou.php:65
+#: release/2.0.3/woocommerce/checkout/thankyou.php:117
+#: release/2.0.4/woocommerce/checkout/thankyou.php:67
+#: release/2.0.4/woocommerce/checkout/thankyou.php:139
+#: woocommerce/checkout/thankyou.php:67 woocommerce/checkout/thankyou.php:139
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: release/2.0.2/woocommerce/checkout/thankyou.php:80
+#: release/2.0.2/woocommerce/checkout/thankyou.php:85
+#: release/2.0.3/woocommerce/checkout/thankyou.php:80
+#: release/2.0.3/woocommerce/checkout/thankyou.php:85
+#: release/2.0.4/woocommerce/checkout/thankyou.php:92
+#: woocommerce/checkout/thankyou.php:92
+msgid "Total:"
+msgstr ""
+
+#: release/2.0.2/woocommerce/checkout/thankyou.php:90
+#: release/2.0.3/woocommerce/checkout/thankyou.php:90
+msgid "Card number:"
+msgstr ""
+
+#: release/2.0.2/woocommerce/checkout/thankyou.php:102
+#: release/2.0.3/woocommerce/checkout/thankyou.php:102
+#: release/2.0.4/woocommerce/checkout/thankyou.php:125
+#: woocommerce/checkout/thankyou.php:125
+msgid "Payment method:"
+msgstr ""
+
+#: release/2.0.2/woocommerce-gateway-visanetperu.php:205
+#: release/2.0.3/woocommerce-gateway-visanetperu.php:205
+#: release/2.0.4/woocommerce-gateway-visanetperu.php:183
+#: woocommerce-gateway-visanetperu.php:183
+msgid "Settings"
+msgstr ""
+
+#: release/2.0.2/woocommerce-gateway-visanetperu.php:307
+#: release/2.0.3/woocommerce-gateway-visanetperu.php:307
+#: release/2.0.4/woocommerce-gateway-visanetperu.php:285
+#: woocommerce-gateway-visanetperu.php:285
+msgid "- WooCommerce is required"
+msgstr ""
+
+#: release/2.0.2/woocommerce-gateway-visanetperu.php:324
+#: release/2.0.3/woocommerce-gateway-visanetperu.php:324
+#: release/2.0.4/woocommerce-gateway-visanetperu.php:302
+#: woocommerce-gateway-visanetperu.php:302
+msgid ""
+"Visanet Peru - WooCommerce Gateway is missing requirements and has been <a "
+"href=\"%s\">deactivated</a>. Please make sure all requirements are "
+"available."
+msgstr ""
+
+#: release/2.0.4/woocommerce/checkout/thankyou.php:48
+#: release/2.0.4/woocommerce/checkout/thankyou.php:87
+#: woocommerce/checkout/thankyou.php:48 woocommerce/checkout/thankyou.php:87
+msgid "Fecha y hora del pedido:"
+msgstr ""
+
+#: release/2.0.4/woocommerce/checkout/thankyou.php:53
+#: release/2.0.4/woocommerce/checkout/thankyou.php:107
+#: woocommerce/checkout/thankyou.php:53 woocommerce/checkout/thankyou.php:107
+msgid "Detalle:"
+msgstr ""
+
+#: release/2.0.4/woocommerce/checkout/thankyou.php:77
+#: woocommerce/checkout/thankyou.php:77
+msgid "Nombre del tarjetahabiente:"
+msgstr ""
+
+#: release/2.0.4/woocommerce/checkout/thankyou.php:82
+#: woocommerce/checkout/thankyou.php:82
+msgid "Número de Tarjeta:"
+msgstr ""
+
+#: release/2.0.4/woocommerce/checkout/thankyou.php:97
+#: woocommerce/checkout/thankyou.php:97
+msgid "Moneda:"
+msgstr ""
+
+#: release/2.0.4/woocommerce/checkout/thankyou.php:102
+#: woocommerce/checkout/thankyou.php:102
+msgid "Términos y Condiciones:"
+msgstr ""
+
+#: release/2.0.4/woocommerce/checkout/thankyou.php:112
+#: woocommerce/checkout/thankyou.php:112
+msgid "Method:"
+msgstr ""
+
+#: release/2.0.4/woocommerce/checkout/thankyou.php:118
+#: woocommerce/checkout/thankyou.php:118
+msgid "Email:"
+msgstr ""

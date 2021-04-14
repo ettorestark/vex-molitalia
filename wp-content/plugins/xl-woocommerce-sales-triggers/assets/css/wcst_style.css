@@ -1,0 +1,75 @@
+/*
+wc sales triggers styles
+*/
+/* Best Seller Top */
+.wcst_best_sellers_badge_1{display:block;width:100%;margin-bottom:10px}
+.wcst_best_sellers_badge_1 span.wcst_best_sellers_badge_span_one{max-width:calc(100% - 20px);background:#a46497;color:#fff;border-radius:4px 0 0 4px;-webkit-border-radius:4px 0 0 4px;-moz-border-radius:4px 0 0 4px;position:relative;padding:4px 4px 4px 8px;z-index:2;margin-right:20px;display:inline-block;font-size:14px;line-height:20px;height:28px;box-sizing:border-box}
+.wcst_best_sellers_badge_1 span.wcst_best_sellers_badge_span_one:after{content:"";position:absolute;display:block;bottom:0;border:14px solid #a46497;z-index:-1;height:0;width:0;right:-20px;border-left-width:10px;border-right-color:transparent}
+.wcst_best_sellers_badge_1 span.wcst_best_sellers_badge_span_one span{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;display:block}
+.wcst_best_sellers_badge_2{display:block;width:100%;margin-bottom:10px}
+.wcst_best_sellers_badge_2 span.wcst_best_sellers_badge_span_one{max-width:calc(100% - 40px);background:#a46497;color:#fff;border-radius:0;-webkit-border-radius:0;-moz-border-radius:0;position:relative;padding:4px;z-index:2;margin-right:20px;margin-left:20px;display:inline-block;font-size:14px;line-height:20px;height:28px;box-sizing:border-box}
+.wcst_best_sellers_badge_2 span.wcst_best_sellers_badge_span_one:before{content:"";position:absolute;display:block;bottom:0;border:14px solid #a46497;z-index:-1;height:0;width:0;left:-20px;border-left-width:10px;border-left-color:transparent}
+.wcst_best_sellers_badge_2 span.wcst_best_sellers_badge_span_one:after{content:"";position:absolute;display:block;bottom:0;border:14px solid #a46497;z-index:-1;height:0;width:0;right:-20px;border-left-width:10px;border-right-color:transparent}
+.wcst_best_sellers_badge_2 span.wcst_best_sellers_badge_span_one span{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;display:block}
+.wcst_best_sellers_badge_3{display:block;width:100%;margin-bottom:10px;padding-top:5px}
+.wcst_best_sellers_badge_3 span.wcst_best_sellers_badge_span_one{max-width:calc(100% - 40px);background:#a46497;color:#fff;border-radius:0;-webkit-border-radius:0;-moz-border-radius:0;position:relative;padding:4px 12px;z-index:2;margin-right:20px;margin-left:20px;display:inline-block;font-size:14px;line-height:20px;height:28px;box-sizing:border-box}
+.wcst_best_sellers_badge_3 span.wcst_best_sellers_badge_span_one:before{content:"";position:absolute;display:block;bottom:5px;border:14px solid #a46497;z-index:-1;height:0;width:0;left:-20px;border-left-width:10px;border-left-color:transparent}
+.wcst_best_sellers_badge_3 span.wcst_best_sellers_badge_span_one:after{content:"";position:absolute;display:block;bottom:5px;border:14px solid #a46497;z-index:-1;height:0;width:0;right:-20px;border-left-width:10px;border-right-color:transparent}
+.wcst_best_sellers_badge_3 span.wcst_best_sellers_badge_span_one span{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;display:block}
+.wcst_best_sellers_badge_4{display:block;width:100%;margin-bottom:10px}
+.wcst_best_sellers_badge_4 span.wcst_best_sellers_badge_span_one{max-width:calc(100% - 20px);background:#a46497;color:#fff;position:relative;padding:4px 8px;z-index:2;margin-right:5px;display:inline-block;font-size:14px;line-height:20px;box-sizing:border-box}
+.wcst_best_sellers_badge_4 span.wcst_best_sellers_badge_span_one span{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;display:block}
+.wcst_best_sellers_badge span.wcst_best_sellers_badge_span_one{top:4px}
+/* Best Seller List */
+ul.wcst_best_seller_list{list-style:none;clear:both;padding-left:0;margin-left:0}
+.wcst_best_seller_list_heading{font-size:inherit;font-weight:700;margin-bottom:10px}
+/* You Save */
+.wcst_savings_top{display:block;clear:both;margin-bottom:10px}
+.wcst_savings_variation{display:block;clear:both;margin-bottom:10px}
+/* Sales Insight */
+.wcst_sales_snippet,.wcst_sales_count{display:block;clear:both;padding:10px 15px;background:rgba(163,164,100,0.28);margin:15px 0}
+/* Low Stock */
+.wcst_low_stock{display:block;clear:both;margin-bottom:10px}
+/* Deal Expiry */
+.wcst_deal_expiry{display:block;clear:both;margin-bottom:15px}
+/* Better Reviews */
+.wcst_clear{clear:both}
+.wcst_clear_10{clear:both;height:10px}
+.wcst_clear_20{clear:both;height:20px}
+.wcst_smarter_reviews{display:block;margin-bottom:10px;clear:both}
+.wcst_smarter_reviews .woocommerce-review-link{position:inherit;opacity:1}
+/* Guarantee */
+.wcst_guarantee_box *{box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box}
+.wcst_guarantee_box{background:#ececec;padding:15px;margin-bottom:15px;max-width:450px;display:block;clear:both}
+.wcst_guarantee_box_center{margin:0 auto 15px;float:none}
+.wcst_guarantee_box_right{float:right}
+.wcst_guarantee_box .wcst_guarantee_box_row{margin-bottom:15px}
+.wcst_guarantee_box .wcst_guarantee_box_row:after{content:'';display:block;clear:both}
+.wcst_guarantee_box .wcst_guarantee_box_row:last-child{margin-bottom:0}
+.wcst_guarantee_box .wcst_guarantee_box_row .wcst_guarantee_box_icon{width:70px;float:left}
+.wcst_guarantee_box .wcst_guarantee_box_row .wcst_guarantee_box_text{display:block;padding-left:75px}
+.wcst_guarantee_box .wcst_guarantee_box_row .wcst_no_padding{padding:0}
+.wcst_guarantee_box .wcst_guarantee_box_row .wcst_guarantee_box_text h5{font-size:14px;font-style:normal;font-weight:700;line-height:20px;margin:0 0 5px;clear:none}
+.wcst_guarantee_box .wcst_guarantee_box_row .wcst_guarantee_box_text p{margin:0 0 10px;font-size:14px;line-height:20px}
+.wcst_guarantee_box .wcst_guarantee_box_row .wcst_guarantee_box_text p:last-child{margin-bottom:0}
+.wcst_guarantee_box .wcst_guarantee_box_row .wcst_guarantee_box_icon{text-align:center}
+.wcst_guarantee_box_w_icon{background:#ececec;padding:15px;margin-bottom:15px;max-width:450px}
+.wcst_guarantee_box_w_icon *{box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box}
+.wcst_guarantee_box_w_icon .table_div{display:table;height:100%;width:100%}
+.wcst_guarantee_box_w_icon .table_div .table_cell{display:table-cell;vertical-align:middle}
+.wcst_guarantee_box_w_icon .table_div .table_cell.left_icon{text-align:center;width:120px}
+.wcst_guarantee_box_w_icon .table_div .table_cell.right_text{padding-left:10px}
+.wcst_guarantee_box_w_icon .table_div .table_cell.right_text p{margin:0 0 10px;font-size:14px;line-height:20px}
+.wcst_guarantee_box_w_icon .table_div .table_cell.right_text p:last-child{margin-bottom:0}
+.wcst_guarantee_box_w_icon .table_div .table_cell.right_text h5{font-size:14px;font-style:normal;font-weight:700;line-height:20px;margin:0 0 5px;clear:none}
+.wcst_custom_icon{color:#686868;font-size:16px;line-height:20px;font-style:normal;display:inline-block;font-family:'WooThemes_ecommerce' !important}
+.wcst_custom_icon.x1{font-size:16px;line-height:20px}
+.wcst_custom_icon.x2{font-size:32px;line-height:36px}
+.wcst_custom_icon.x3{font-size:48px;line-height:52px}
+.wcst_custom_icon.x4{font-size:64px;line-height:68px}
+.wcst_custom_icon.x5{font-size:80px;line-height:84px}
+.wcst_custom_icon.x6{font-size:96px;line-height:100px}
+.wcst_best_seller_list_div{clear:both}
+.wcst_best_seller_wrap{margin-bottom:10px}
+.woocommerce .products .wcst_best_sellers_badge a{display:inline-block;font-size:inherit}
+.wcst_on_product {position: relative}

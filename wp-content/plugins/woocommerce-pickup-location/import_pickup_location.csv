@@ -1,0 +1,4 @@
+pickup_title,pickup_address,pickup_email,pickup_open_time,pickup_close_time,pickup_days,pickup_details,location_lattitude,location_langitude,min_time,max_time,city,state,country,zipcode
+Indore,Indore,indorepick@gmail.com,4:55 AM,4:55 PM,"Sunday,Monday,Thursday,Wednesday,Friday",details1,22.7196,75.8577,,,,,,
+Dewas,Dewas,dewaspick@gmail.com,5:55 AM,5:55 PM,"Sunday,Monday,Thursday,Wednesday,Friday",details1,22.9623,76.0508,2,96,,,,
+Mhow,Mhow,mhowpick@gmail.com,6:55 AM,5:55 PM,"Sunday,Monday,Thursday,Wednesday,Friday",details1,22.5524,75.7565,,220,,,,
